@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "Borland-Manske Center (Music)",
+      "category": "Academic",
+      "latitude": 33.65320,
+      "longitude": -117.81251,
+      "description": "Concordia University Irvine is home to one of the premium music learning centers in Southern California. The Borland-Manske Center includes over 50 rooms designed specifically for music-making and teaching, including the Charlie and Ling Zhang Orchestra Hall, the Caryn Borland ’85 Recording Suite, the Henley PIano Studio, a large choral rehearsal hall, teaching studios, practice rooms, faculty offices, a music classroom, music office, ensemble music library, and student lounges. Walters-Storyk Design Group did the acoustic design, including the recording studio, designed by the world's foremost designer of audio studios, John Storyk.",
+      "image": "bmc-outside.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Borland-Manske Center (Christ College)",
+      "category": "Academic",
+      "latitude": 33.65323,
+      "longitude": -117.81201,
+      "description": "Dedicated Fall 2019, Concordia University Irvine's newest building - the Borland-Manske Center - brings music and theology together to prepare the next generation of musicians and theologians. The Christ College wing of the Borland-Manske Center houses the Theology library, classrooms, and faculty offices. It is also home to the Mac Lab for Visual Arts - Graphic Design.",
+      "image": "bmc-outside.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Library Arts",
+        "category": "Academic",
+        "latitude": 33.65367,
+        "longitude": -117.81235,
+        "description": "Home to the black box theatre, fine arts classrooms, and our main library, this location is essential to the arts and scholarship. As makers, musicians, and performers, we invite you to be a part of this vibrant creative community. Here you will find the freedom to explore your artistic passions and vocations while growing in your skills as a thinker, collaborator, and leader.",
+        "image": "library-cs.jpg"
+      }
+  ]
+  
