@@ -1,31 +1,44 @@
-// MapComponent.js
 import React from 'react';
-import { MapContainer, TileLayer, Marker, Popup, ImageOverlay } from 'react-leaflet';
+import { MapContainer, TileLayer, ImageOverlay } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
-import customMapOverlay from '../assets/images/osm2.png'; // Import your custom map overlay image
+import customMapOverlay from '../assets/images/osm2.png';
+import { MarkerData } from '../models/MarkerData';
+import GenericMarker from './GenericMarker'; // Assuming GenericMarker can accept MarkerData as prop
+import useLocationTracker from './useLocationTracker';
 import buildingMarkers from '../data/markers.json';
-import BuildingMarker from './BuildingMarker';
 
-const MapComponent = ({ position}) => {
-  const bounds = [[33.65109, -117.81465], [33.65694, -117.8064]]; // Adjust these bounds to fit your custom map overlay
+const MapComponent = ({ position }) => {
+  const currentLocation = useLocationTracker();
+
+  // Convert buildingMarkers from JSON into MarkerData instances
+  const markerDataObjects = buildingMarkers.map(marker => new MarkerData(
+    [marker.latitude, marker.longitude],
+    marker.name,
+    marker.category,
+    marker.description,
+    require(`../assets/images/${marker.image}`) // Assuming create-react-app's webpack config
+  ));
+
+  const bounds = [[33.65109, -117.81465], [33.65694, -117.8064]];
 
   return (
     <MapContainer center={position} zoom={17} style={{ height: '100vh', width: '100%' }}>
-      <TileLayer
-        url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-        attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-      />
+      <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
       <ImageOverlay url={customMapOverlay} bounds={bounds} />
-      {buildingMarkers.map(marker => (
-        <BuildingMarker
-          key={marker.id}
-          position={[marker.latitude, marker.longitude]}
-          name={marker.name}
-          category={marker.category}
-          description={marker.description}
-          image={require(`../assets/images/${marker.image}`)}
+
+      {markerDataObjects.map((data, index) => (
+        <GenericMarker
+          key={index}
+          data={data}
         />
       ))}
+
+      {currentLocation && (
+        <GenericMarker
+          data={{position: currentLocation, name: "Your Location"}}
+          iconUrl={"https://e7.pngegg.com/pngimages/772/529/png-clipart-google-maps-here-google-map-street-view-thumbnail.png"}
+        />
+      )}
     </MapContainer>
   );
 };
