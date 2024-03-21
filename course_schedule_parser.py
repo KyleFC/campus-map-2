@@ -19,14 +19,13 @@ def extract_text_line_by_line(pdf_path):
     return text
 
 def parse_courses(text_file):
-    courses = []  # List to hold all course entries
-    course_info = []  # Temporary storage for accumulating lines of a single course
+    courses = []
+    course_info = []
     
     with open(text_file, 'r', encoding='utf-8') as f:
         for line in f:
-            # Check if the line contains a CRN (5-digit number) indicating the start of a course entry
             text = line.strip()
-
+            #Find CRN to start new entry
             if (re.match("\d{5}", text) or text[0:7] == "Meetday") and (course_info[0][0:7] == "Meetday" or course_info[0][0:6] == "202430" or course_info[0][0:6] == 'Master'):
                 course_info = []
             elif (re.match("\d{5}", text) or text[0:7] == "Meetday"):
@@ -100,5 +99,5 @@ if __name__ == "__main__":
     #print(courses)
     #Structure of courses
     #CRN COURSE TITLE PROFESSOR WAITLIST FEES COMMENTS START_END_DATES MEETDAY TIMES LOCATION UNITS ENROLLED - (START_END_DATES MEETDAY TIMES LOCATION) optional and can repeat
-
+    #BMC 070, 054, 151, 160
 

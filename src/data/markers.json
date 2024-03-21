@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Borland-Manske Center (Music)",
-      "category": "Academic",
+      "category": "building",
       "latitude": 33.65320,
       "longitude": -117.81251,
       "description": "Concordia University Irvine is home to one of the premium music learning centers in Southern California. The Borland-Manske Center includes over 50 rooms designed specifically for music-making and teaching, including the Charlie and Ling Zhang Orchestra Hall, the Caryn Borland ’85 Recording Suite, the Henley PIano Studio, a large choral rehearsal hall, teaching studios, practice rooms, faculty offices, a music classroom, music office, ensemble music library, and student lounges. Walters-Storyk Design Group did the acoustic design, including the recording studio, designed by the world's foremost designer of audio studios, John Storyk.",
@@ -11,7 +11,7 @@
     {
       "id": 2,
       "name": "Borland-Manske Center (Christ College)",
-      "category": "Academic",
+      "category": "building",
       "latitude": 33.65323,
       "longitude": -117.81201,
       "description": "Dedicated Fall 2019, Concordia University Irvine's newest building - the Borland-Manske Center - brings music and theology together to prepare the next generation of musicians and theologians. The Christ College wing of the Borland-Manske Center houses the Theology library, classrooms, and faculty offices. It is also home to the Mac Lab for Visual Arts - Graphic Design.",
@@ -20,7 +20,7 @@
     {
         "id": 3,
         "name": "Library Arts",
-        "category": "Academic",
+        "category": "building",
         "latitude": 33.65367,
         "longitude": -117.81235,
         "description": "The library arts section of the library building is home to our Engineering, Computer Science, and Art students. Upstairs you'll find a lab for engineering and a lab for computer science, and downstairs you'll find two art studios.",
@@ -29,7 +29,7 @@
       {
         "id": 4,
         "name": "Grimm Hall South",
-        "category": "Academic",
+        "category": "building",
         "latitude": 33.65409,
         "longitude": -117.81236,
         "description": "The breezeway between the two wings of Grimm Hall is busy with students and professors greeting each other between the many classes the building hosts. Business and Economics Majors consider Grimm their home base. The South wing of Grimm is home to the largest classroom on campus, Denault Auditorium, which holds 200 students for Freshman Seminar.",
@@ -38,7 +38,7 @@
       {
         "id": 5,
         "name": "Grimm Hall North",
-        "category": "Academic",
+        "category": "building",
         "latitude": 33.65454,
         "longitude": -117.81235,
         "description": "The breezeway between the two wings of Grimm Hall is busy with students and professors greeting each other between the many classes the building hosts. Business and Economics Majors consider Grimm their home base. The North wing houses many student services like Undergraduate Admissions, Financial Aid, and the offices that manage tuition payments and registration.",
@@ -47,7 +47,7 @@
       {
         "id": 6,
         "name": "Founders Hall",
-        "category": "Academic",
+        "category": "building",
         "latitude": 33.65459,
         "longitude": -117.81177,
         "description": "Concordia’s Science Facilities are housed in Founders Hall. Students have the opportunity to assist with faculty-led research projects, along with their own lab work in our on-campus facilities that support work in fields from biochemistry and molecular biology to inorganic and physical chemistry. Our Marine Lab is home to over 50 species of temperate marine organisms ranging from jellyfish to sharks and is primarily operated by student volunteers.",
@@ -56,7 +56,7 @@
       {
         "id": 7,
         "name": "CU Center",
-        "category": "Academic",
+        "category": "building",
         "latitude": 33.65352,
         "longitude": -117.81146,
         "description": "The CU Center is where chapel is held and is the performance home for Concordia's music ensembles. Its 500-seat semi-circular auditorium, sweeping vista, and spacious acoustics provide an exciting atmosphere for music concerts and worship. The center boasts a magnificent Casavant organ—one of the finest instruments in Orange County—as well as a grand piano by Steinway.",
@@ -65,7 +65,7 @@
       {
         "id": 8,
         "name": "CU Arena",
-        "category": "Athletic",
+        "category": "building",
         "latitude": 33.65403,
         "longitude": -117.81054,
         "description": "The CU Arena is home to our Men's and Women's Volleyball and Basketball teams. Intramural sports and a variety of events are also held within the arena. Along the East side of the arena there are some classrooms.",
@@ -83,7 +83,7 @@
       {
         "id": 10,
         "name": "Chi Alpha",
-        "category": "Academic",
+        "category": "building",
         "latitude": 33.65526,
         "longitude": -117.81032,
         "description": "Chi Alpha houses classrooms for students pursuing a career in education or studying the humanities and social sciences. Students often testify that the opportunity to sit outdoors beneath the big pine trees and discuss big questions and ideas with their professors is a major benefit at Concordia University Irvine.",
@@ -92,7 +92,7 @@
       {
         "id": 11,
         "name": "Chi Beta",
-        "category": "Academic",
+        "category": "building",
         "latitude": 33.65527,
         "longitude": -117.80948,
         "description": "Chi Beta houses classrooms for students pursuing a career in education or studying the humanities and social sciences. Students often testify that the opportunity to sit outdoors beneath the big pine trees and discuss big questions and ideas with their professors is a major benefit at Concordia University Irvine.",
@@ -101,7 +101,7 @@
       {
         "id": 12,
         "name": "Lower Quads",
-        "category": "Residential",
+        "category": "building",
         "latitude": 33.65487,
         "longitude": -117.80888,
         "description": "The lower quad suites are residential buildings that can house four people in each room. They are generally reserved for upperclassmen. Lower quads is home to Delta, Gamma, Zeta, and Epsilon. Each of these corners also have their own community building open to all students fully furnished with a working television.",
@@ -110,7 +110,7 @@
       {
         "id": 13,
         "name": "Upper Quads",
-        "category": "Residential",
+        "category": "building",
         "latitude": 33.65386,
         "longitude": -117.80855,
         "description": "The upper quad suites are residential buildings that can house four people in each room. They are generally reserved for upperclassmen. Upper quads is home to our LLCs (Living Learning Communities). Upper quads encapsulates Kappa, Theta, Omicron, and Lambda. Each of these corners also have their own community building open to all students fully furnished with a working television and piano.",
@@ -119,7 +119,7 @@
       {
         "id": 14,
         "name": "Rho",
-        "category": "Residential",
+        "category": "building",
         "latitude": 33.65298,
         "longitude": -117.80879,
         "description": "Chi Rho is a residential building that houses mostly freshmen. In the center is a general purpose building equipped with a snack bar, furniture, and a television. Here, students can study, watch movies, eat snacks, and get to know each other. Rho general is also home to the Eagle's Gaming Association rooom which contains multiple high-spec gaming PC's that students can stay up late and grind on.",
@@ -128,7 +128,7 @@
       {
         "id": 15,
         "name": "Sigma",
-        "category": "Residential",
+        "category": "building",
         "latitude": 33.65345,
         "longitude": -117.80982,
         "description": "Chi Sigma is a residential building that houses most of the underclassmen on campus. In the center is a smaller general purpose building with a snack bar, furniture, a television, and a pool table. Here, students can study, watch movies, eat snacks, and get to know each other. Sigma general also contains the CU Active gym where students can come in and hop on a treadmill for cardio or lift some weights for a nice pump. It is fully equipped with all of the lifting accessories you could need. Here, you can also rent recreational equipment for free such as bikes, sports equipment, and camping gear.",
@@ -137,7 +137,7 @@
       {
         "id": 16,
         "name": "Student Union",
-        "category": "Residential",
+        "category": "building",
         "latitude": 33.65490,
         "longitude": -117.81006,
         "description": "Students gather daily in the newly renovated caf serviced by Bon Appetit. At Eagles’ Landing, commuters and residents can grab a Starbucks or study at the outdoor lounge. The Student Union also houses the mailroom, Wellness Center, and hosts ASCUI meetings. A few classes are also held along the south side of the building.",
@@ -146,7 +146,7 @@
       {
         "id": 17,
         "name": "Good Shepherd Chapel",
-        "category": "Academic",
+        "category": "building",
         "latitude": 33.65517,
         "longitude": -117.81357,
         "description": "Home to the black box theatre, fine arts classrooms, and our main library, this location is essential to the arts and scholarship. As makers, musicians, and performers, we invite you to be a part of this vibrant creative community. Here you will find the freedom to explore your artistic passions and vocations while growing in your skills as a thinker, collaborator, and leader.",
@@ -155,7 +155,7 @@
       {
         "id": 18,
         "name": "Library",
-        "category": "Academic",
+        "category": "building",
         "latitude": 33.65360,
         "longitude": -117.81264,
         "description": "The main library was newly renovated in 2023. Upstairs you will find the Career Studio where academic counselors can help guide your journey through college. Connected to this room is the Unity Center dedicated to bringing the students of Concordia closer together. Downstairs you will discover shelves upon shelves filled with academic books. There are also multiple cubicles and study rooms available to all Concordia Students.",
@@ -164,7 +164,7 @@
       {
         "id": 19,
         "name": "Theatre",
-        "category": "Academic",
+        "category": "building",
         "latitude": 33.65369,
         "longitude": -117.81196,
         "description": "Home to the black box theatre that hosts multiple shows throughout the year. ",
@@ -173,7 +173,7 @@
       {
         "id": 20,
         "name": "Hallerberg Center",
-        "category": "Recreational",
+        "category": "building",
         "latitude": 33.65434,
         "longitude": -117.81091,
         "description": "Directly across from the Gym, known here as the CU Arena, is the Hallerberg Center. This series of small structures is home to Academic Advising, the Center for Career & Vocation, the Student Athlete Weightroom (Formerly known as the Performing Arts Annex), the Center for Student Leadership & Development, and the Concordia Bookstore.",

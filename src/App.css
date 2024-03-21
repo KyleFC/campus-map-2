@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.map-container {
+  position: relative; /* This will be the parent relative container */
+  width: 100%;
+  height: 100vh; /* Full height of the viewport */
+}
+
+.sidebar {
+  position: absolute; /* Positioned absolutely relative to its parent */
+  left: 0; /* Align to the left side of the parent */
+  top: 0; /* Align to the top of the parent */
+  z-index: 1000; /* Higher index so it's on top of the map */
+  width: 300px; /* Width of the sidebar */
+  height: 100%; /* Full height of the parent */
+  background: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
+  overflow-y: auto; /* Allow scrolling if the content is too long */
+}
+
+.map {
+  z-index: 1;
+}
