@@ -1,18 +1,20 @@
 import React, {useState} from 'react';
-
-import { MapContainer, TileLayer /*,ImageOverlay*/ } from 'react-leaflet';
-import 'leaflet/dist/leaflet.css';
+import { MapContainer, TileLayer, ZoomControl, Marker /*,ImageOverlay*/ } from 'react-leaflet';
+import L from "leaflet";
 import { MarkerData } from '../models/MarkerData';
+import { Sidebar } from './SideBar';
+
+import 'leaflet/dist/leaflet.css';
+
 import GenericMarker from './GenericMarker';
 import useLocationTracker from './useLocationTracker';
 import buildingMarkers from '../data/markers.json';
 
 const MapComponent = ({ position }) => {
-  //const [visibleMarkers, setVisibleMarkers] = useState({});
-  const currentLocation = useLocationTracker();
 
   //Convert buildingMarkers from JSON into MarkerData instances
   const markerDataObjects = buildingMarkers.map(marker => new MarkerData(
+    marker.id,
     [marker.latitude, marker.longitude],
     marker.name,
     marker.category,
@@ -24,56 +26,54 @@ const MapComponent = ({ position }) => {
     building: true
   });
 
+  const [activeMarkerId, setActiveMarkerIdState] = useState(null);
+
+  const setActiveMarkerId = (buildingId) => {
+    setActiveMarkerIdState(buildingId);
+  }
+
   const toggleCategory = (category) => {
     setCategories(prevCategories => ({
       ...prevCategories,
       [category]: !prevCategories[category],
     }));
   };
+  
+  const currentLocation = useLocationTracker();
+  const icon = L.icon({
+    iconUrl: "https://e7.pngegg.com/pngimages/772/529/png-clipart-google-maps-here-google-map-street-view-thumbnail.png",
+    iconSize: [20, 25],
+    iconAnchor: [10,23]
+  })
 
-  const Sidebar = ({ categories, toggleCategory }) => {
-    return (
-      <div className="sidebar">
-        {Object.keys(categories).map((category) => (
-          <div key={category} className="category-item">
-            <label>
-              <input
-                type="checkbox"
-                checked={categories[category]}
-                onChange={() => toggleCategory(category)}
-              />
-              {category.charAt(0).toUpperCase() + category.slice(1)}
-            </label>
-          </div>
-        ))}
-      </div>
-    );
-  };
-
-  //const bounds = [[33.65109, -117.81465], [33.65694, -117.8064]];
-  //<ImageOverlay url={customMapOverlay} bounds={bounds} />
   return (
-    <MapContainer center={position} zoom={17} style={{ height: '100vh', width: '100%' }}>
-      <Sidebar categories={categories} toggleCategory={toggleCategory} />
-      <TileLayer url="https://tiles.stadiamaps.com/tiles/stamen_terrain/{z}/{x}/{y}{r}.png" />
+    <MapContainer 
+    center={position} 
+    zoom={17} zoomControl={false} 
+    style={{ height: '100vh', width: '100%' }}
+    >
       
+      <Sidebar 
+      categories={categories} 
+      toggleCategory={toggleCategory} 
+      buildings={buildingMarkers} 
+      setActiveMarkerId={setActiveMarkerId}
+      />
+      <TileLayer url="https://tiles.stadiamaps.com/tiles/stamen_terrain/{z}/{x}/{y}{r}.png" />
 
       {markerDataObjects.map((data, index) => (
         categories[data.category] && (
         <GenericMarker
-          
           key={index}
           data={data}
+          activeMarkerId={activeMarkerId}
         />
         )
       ))}
-
       {currentLocation && (
-        <GenericMarker
-          data={{position: currentLocation, name: "Your Location"}}
-          iconUrl={"https://e7.pngegg.com/pngimages/772/529/png-clipart-google-maps-here-google-map-street-view-thumbnail.png"}
-        />
+        <Marker position={currentLocation} icon={icon}/>
       )}
+      <ZoomControl position="topright" />
     </MapContainer>
   );
 };

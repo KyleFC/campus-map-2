@@ -74,8 +74,8 @@
       {
         "id": 9,
         "name": "Administration",
-        "category": "Administration",
-        "latitude": 33.65499,
+        "category": "building",
+        "latitude": 33.65496,
         "longitude": -117.81106,
         "description": "In the Administration building, students will discover a world of possibilities at the Moon International Center which serves Concordia’s international student population and is the hub for our study abroad programs. Our U.S. Staff Sgt. Matthew Thompson Veterans Resource Center (VRC) helps veterans, their spouses, and their dependents navigate their benefits for undergraduate, graduate, and certificate programs. This is also where services like Information Technology Services (ITS) and Campus Safety can be found.",
         "image": "library-cs.jpg"

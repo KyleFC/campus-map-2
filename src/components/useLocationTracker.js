@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 
-export const useLocationTracker = () => {
+const useLocationTracker = () => {
   const [currentLocation, setCurrentLocation] = useState(null);
 
   useEffect(() => {
