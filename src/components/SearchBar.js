@@ -20,7 +20,7 @@ const SearchBar = ({ buildings, setActiveMarkerId }) => {
     };
 
     return (
-        <div>
+        <div class="search-container">
             <input
                 type="text"
                 value={query}
@@ -29,7 +29,7 @@ const SearchBar = ({ buildings, setActiveMarkerId }) => {
                 style={{ width: '100%', padding: '10px' }}
             />
             {query && (
-                <ul style={{listStyleType: 'none', padding: 0}}>
+                <ul class="dropdown" style={{listStyleType: 'none', padding: 0}}>
                     {filteredBuildings.map((building) => (
                         <li key={building.id} style={{padding: '5px'}}  onClick={() => setActiveMarkerId(building.id)}>
                             {building.name}

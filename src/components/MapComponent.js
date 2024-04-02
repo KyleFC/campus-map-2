@@ -9,6 +9,7 @@ import 'leaflet/dist/leaflet.css';
 import GenericMarker from './GenericMarker';
 import useLocationTracker from './useLocationTracker';
 import buildingMarkers from '../data/markers.json';
+import curr_location_icon from '../assets/icons/current_location_icon.png';
 
 const MapComponent = ({ position }) => {
 
@@ -23,7 +24,9 @@ const MapComponent = ({ position }) => {
   ));
 
   const [categories, setCategories] = useState({
-    building: true
+    buildings: true,
+    housing: true,
+    athletics: true
   });
 
   const [activeMarkerId, setActiveMarkerIdState] = useState(null);
@@ -41,19 +44,20 @@ const MapComponent = ({ position }) => {
   
   const currentLocation = useLocationTracker();
   const icon = L.icon({
-    iconUrl: "https://e7.pngegg.com/pngimages/772/529/png-clipart-google-maps-here-google-map-street-view-thumbnail.png",
-    iconSize: [20, 25],
+    iconUrl: curr_location_icon,
+    iconSize: [25, 25],
     iconAnchor: [10,23]
   })
 
   return (
     <MapContainer 
+    boundsOptions={{padding: [0, 50]}}
     center={position} 
     zoom={17} zoomControl={false} 
     style={{ height: '100vh', width: '100%' }}
     >
       
-      <Sidebar 
+      <Sidebar
       categories={categories} 
       toggleCategory={toggleCategory} 
       buildings={buildingMarkers} 

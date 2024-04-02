@@ -1,24 +1,49 @@
 import React from 'react';
 import SearchBar from './SearchBar';
-
+import { useMap } from 'react-leaflet';
 
 export const Sidebar = ({categories, toggleCategory, buildings, setActiveMarkerId}) => {
-    return (
-      <div className="sidebar">
-        
+    const map = useMap();
+
+    const disableMapInteraction = () => {
+      map.dragging.disable();
+      map.scrollWheelZoom.disable();
+      if (map.tap) map.tap.disable(); // For mobile devices
+      // Include any other interactions you want to disable
+    };
+  
+    const enableMapInteraction = () => {
+      map.dragging.enable();
+      map.scrollWheelZoom.enable();
+      if (map.tap) map.tap.enable(); // For mobile devices
+      // Re-enable any other interactions you disabled
+    };
+
+  return (
+      <div className="sidebar"
+        onMouseEnter={disableMapInteraction}
+        onMouseLeave={enableMapInteraction}
+      >  
         <SearchBar buildings={buildings} setActiveMarkerId={setActiveMarkerId}/>
-        {Object.keys(categories).map((category) => (
-          <div key={category} className="category-item">
-            <label>
-              <input
-                type="checkbox"
-                checked={categories[category]}
-                onChange={() => toggleCategory(category)}
-              />
+        {Object.keys(categories).map((category) => {
+          const imagePath = require(`../assets/icons/${category}_icon.png`);
+          return (
+            <div key={category} className="category-item">
+            <span className="image-placeholder">
+              <img src={imagePath} alt={`${category} icon`} />
+            </span>
+            <label htmlFor={`checkbox-${category}`}>
               {category.charAt(0).toUpperCase() + category.slice(1)}
             </label>
-          </div>
-        ))}
+            <input
+              id={`checkbox-${category}`}
+              type="checkbox"
+              checked={categories[category]}
+              onChange={() => toggleCategory(category)}
+            />
+        </div>
+        
+        )})}
       </div>
     );
   };

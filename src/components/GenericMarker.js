@@ -17,15 +17,14 @@ const GenericMarker = ({ data, iconUrl, activeMarkerId }) => {
     }
   }, [activeMarkerId, data.id]);
 
-
+/*{data.category && <p>Category: {data.category}</p>} */
   return (
     <Marker position={data.position} icon={icon} ref={markerRef}>
       <Popup>
         <div>
           <h3>{data.name}</h3>
-          {data.category && <p>Category: {data.category}</p>}
-          {data.description && <p>Description: {data.description}</p>}
           {data.image && <img src={data.image} alt={data.name} style={{ maxWidth: '200px' }} />}
+          {data.description && <p>Description: {data.description}</p>}
         </div>
       </Popup>
     </Marker>
