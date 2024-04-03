@@ -1,7 +1,7 @@
 import React from 'react';
 import SearchBar from './SearchBar';
 import { useMap } from 'react-leaflet';
-
+import MartyChat from './MartyChat';
 export const Sidebar = ({categories, toggleCategory, buildings, setActiveMarkerId}) => {
     const map = useMap();
 
@@ -44,6 +44,7 @@ export const Sidebar = ({categories, toggleCategory, buildings, setActiveMarkerI
         </div>
         
         )})}
+        
       </div>
     );
   };

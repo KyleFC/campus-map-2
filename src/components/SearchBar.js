@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import SearchImg from '../assets/icons/search.svg';
 
 const SearchBar = ({ buildings, setActiveMarkerId }) => {
     const [query, setQuery] = useState('');
@@ -18,9 +19,9 @@ const SearchBar = ({ buildings, setActiveMarkerId }) => {
         );
         setFilteredBuildings(matchedBuildings);
     };
-
     return (
         <div class="search-container">
+            <img src={SearchImg} alt="Search icon" style={{height: '50px' }} />
             <input
                 type="text"
                 value={query}
@@ -29,7 +30,7 @@ const SearchBar = ({ buildings, setActiveMarkerId }) => {
                 style={{ width: '100%', padding: '10px' }}
             />
             {query && (
-                <ul class="dropdown" style={{listStyleType: 'none', padding: 0}}>
+                <ul className="dropdown" style={{listStyleType: 'none', padding: 0}}>
                     {filteredBuildings.map((building) => (
                         <li key={building.id} style={{padding: '5px'}}  onClick={() => setActiveMarkerId(building.id)}>
                             {building.name}
