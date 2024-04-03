@@ -1,12 +1,11 @@
-from django.shortcuts import render
-
-from rest_framework.views import APIView
+from django.http import JsonResponse
+from rest_framework.decorators import api_view
 from rest_framework.response import Response
-from .models import MyModel
-from .serializers import MyModelSerializer  # Add missing import statement
+from .utilities.analysis import get_response
 
-class MyModelList(APIView):
-    def get(self, request):
-        items = MyModel.objects.all()
-        serializer = MyModelSerializer(items, many=True)
-        return Response(serializer.data)
+@api_view(['POST'])
+def process_input(request):
+    user_input = request.data.get('userInput')
+    # Process the user input here and generate a response
+    response_data = {"finalOutput": get_response(user_input)}
+    return Response(response_data)

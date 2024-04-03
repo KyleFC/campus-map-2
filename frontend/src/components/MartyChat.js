@@ -1,5 +1,24 @@
 import React from 'react';
 
+async function sendUserInput(userInput) {
+    try {
+        const response = await fetch('/api/openai/', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                // Include other headers as needed, such as Authorization for JWT tokens
+            },
+            body: JSON.stringify({ userInput: userInput })
+        });
+        const data = await response.json();
+        // console.log(data.finalOutput);
+        return data.finalOutput;
+        // You can now use the finalOutput from Django in your React component
+    } catch (error) {
+        console.error('Error:', error);
+    }
+}
+
 class MartyChat extends React.Component {
     constructor(props) {
         super(props);
@@ -8,9 +27,8 @@ class MartyChat extends React.Component {
             inputText: ''
         };
     }
-    
+
     handleSubmit = async (event) => {
-        
         event.preventDefault();
         const { inputText, messages } = this.state;
         if (inputText.trim() !== '') {
@@ -18,23 +36,21 @@ class MartyChat extends React.Component {
                 id: messages.length + 1,
                 text: inputText
             };
-
-            const response = await fetch('http://localhost:5000/openai', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json',
-                },
-                body: JSON.stringify({ text: inputText }),
-            });
-    
-    
-            this.setState({
-                messages: [...messages, newMessage, { id: messages.length + 2, text: response }],
-                inputText: ''
-            });
+            sendUserInput(inputText)
+                .then(response => {
+                    // Directly push new message for debugging
+                    console.log(response);
+                    this.setState(prevState => ({
+                        messages: [...prevState.messages, { id: prevState.messages.length + 1, text: inputText }, { id: prevState.messages.length + 2, text: response }],
+                        inputText: ''
+                    }));
+                })
+            
+                .catch(error => {
+                    console.error('Error:', error);
+                });
         }
     }
-
 
     render() {
         const { messages, inputText } = this.state;

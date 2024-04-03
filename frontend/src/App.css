@@ -139,6 +139,7 @@ input[type="text"]::placeholder {
 
 .search-container {
   /*multiple elements in the same line */
+  overflow: hidden;
   display: flex;
   position: relative; /* This makes it the reference for its absolutely positioned children */
   width: 100%; /* Adjust the width as needed */

@@ -1,7 +1,6 @@
 from django.urls import include, path
-from .views import MyModelList
+from .views import process_input
 
 urlpatterns = [
-    path('api/my-model/', MyModelList.as_view()),
-    path('', include('myapi.urls')),
+    path('openai/', process_input, name='process_input'),
 ]
