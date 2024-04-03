@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a2572488.css",
+    "main.js": "/static/js/main.e90a159b.js",
+    "static/js/453.566b6941.chunk.js": "/static/js/453.566b6941.chunk.js",
+    "static/media/osm2.png": "/static/media/osm2.d52f02807b19fbee3e38.png",
+    "static/media/library-cs.jpg": "/static/media/library-cs.eecf21bcc9b07d179e03.jpg",
+    "static/media/buildings_icon.png": "/static/media/buildings_icon.4a7d14abb6349f17327d.png",
+    "static/media/bmc-outside.jpg": "/static/media/bmc-outside.8bb542db918e943615ab.jpg",
+    "static/media/housing_icon.png": "/static/media/housing_icon.f48e70aa347737cfa782.png",
+    "static/media/athletics_icon.png": "/static/media/athletics_icon.2bb5b9a7314098fe9d12.png",
+    "static/media/logo.svg": "/static/media/logo.512ee13295cef0d5e05ebe227a6ffd1e.svg",
+    "static/media/analyze_prompt.txt": "/static/media/analyze_prompt.85606e174a1a5718bfee.txt",
+    "static/media/search.svg": "/static/media/search.c65f18b23bd3fb764688fff79e99940d.svg",
+    "index.html": "/index.html",
+    "main.a2572488.css.map": "/static/css/main.a2572488.css.map",
+    "main.e90a159b.js.map": "/static/js/main.e90a159b.js.map",
+    "453.566b6941.chunk.js.map": "/static/js/453.566b6941.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2572488.css",
+    "static/js/main.e90a159b.js"
+  ]
+}
