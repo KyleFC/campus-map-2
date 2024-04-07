@@ -2,24 +2,38 @@ import React from 'react';
 
 async function sendUserInput(userInput) {
     try {
+
+        let chatHistory = JSON.parse(localStorage.getItem('chatHistory')) || [];
+
+        //add user and bot messages to chat history
+        chatHistory.push({ "role": "user", "content": userInput });
+        console.log(chatHistory);
         const response = await fetch('/api/openai/', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
-                // Include other headers as needed, such as Authorization for JWT tokens
             },
-            body: JSON.stringify({ userInput: userInput })
+            body: JSON.stringify({chatHistory: chatHistory})
         });
+        
         const data = await response.json();
+        
+        //save to local browser storage
+        localStorage.setItem('chatHistory', data.chatHistory);
+        console.log(data.chatHistory);
         // console.log(data.finalOutput);
+
         return data.finalOutput;
-        // You can now use the finalOutput from Django in your React component
     } catch (error) {
         console.error('Error:', error);
     }
 }
 
 class MartyChat extends React.Component {
+    //if componenet mounted then clear local storage
+    componentDidMount() {
+        localStorage.removeItem('chatHistory');
+    }
     constructor(props) {
         super(props);
         this.state = {
@@ -45,7 +59,7 @@ class MartyChat extends React.Component {
                         inputText: ''
                     }));
                 })
-            
+                
                 .catch(error => {
                     console.error('Error:', error);
                 });

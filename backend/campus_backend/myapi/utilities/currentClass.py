@@ -15,9 +15,14 @@ def time_to_datetime(time):
 
     return datetime.datetime.now().replace(hour=hour, minute=minute, second=0, microsecond=0)
 
-def find_current_classes(courses, input_day, input_time):
+def find_current_classes(courses, input_day=datetime.datetime.now().isoweekday(), input_time=datetime.datetime.now().strftime('%I:%M %p').upper()):
     current_classes = []
-
+    days = {'Monday': 'M', 'Tuesday': 'T', 'Wednesday': 'W', 'Thursday': 'R', 'Friday': 'F', 'Saturday': 'S', 'Sunday': 'U',
+            0: 'M', 1: 'T', 2: 'W', 3: 'R', 4: 'F', 5: 'S', 6: 'U'}
+    
+    if input_day in days:
+        input_day = days[input_day]
+    
     def is_course_at_time(course_day, course_times, input_day, input_time):
         if input_day not in course_day:
             return False
@@ -36,6 +41,7 @@ def find_current_classes(courses, input_day, input_time):
 
     return current_classes
 if __name__ == '__main__':
+    
     with open('C:/Users/epicb/Projects/Campus-Map/campus-map/backend/campus_backend/myapi/data/courses.json') as file:
         courses = json.load(file)
 
