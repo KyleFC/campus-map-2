@@ -55,7 +55,7 @@ MIDDLEWARE = [
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'frontend/build/static'),
 ]"""
-STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
+STATIC_ROOT = BASE_DIR / 'staticfiles'
 
 ROOT_URLCONF = "campus_backend.urls"
 CORS_ALLOW_ALL_ORIGINS = True
