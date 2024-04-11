@@ -60,10 +60,14 @@ STATIC_ROOT = BASE_DIR / 'staticfiles'
 ROOT_URLCONF = "campus_backend.urls"
 CORS_ALLOW_ALL_ORIGINS = True
 
+
+CORS_ALLOWED_ORIGINS = [
+    'https://kylefc.github.io'
+]
+
 TEMPLATES = [
     {
         "BACKEND": "django.template.backends.django.DjangoTemplates",
-        'DIRS': [os.path.join(BASE_DIR, 'frontend/build')],
         "APP_DIRS": True,
         "OPTIONS": {
             "context_processors": [
