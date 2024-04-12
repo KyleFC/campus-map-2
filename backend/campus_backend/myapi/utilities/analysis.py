@@ -7,7 +7,7 @@ from django.conf import settings
 #function that interacts with openai api
 def get_response(message_history=[]):
     #get analysis_prompt.txt
-    file_path = os.path.join(settings.BASE_DIR, 'backend/campus_backend/myapi/utilities/analysis_prompt.txt')
+    file_path = os.path.join(settings.BASE_DIR, 'myapi/utilities/analysis_prompt.txt')
 
     with open(file_path) as file:
         analysis_prompt = file.read()
@@ -66,7 +66,7 @@ def execute_command(command, args):
         return args['question']
     
     if command == "findCurrentClasses":
-        courses = os.path.join(settings.BASE_DIR, 'backend/campus_backend/myapi/data/courses.json')
+        courses = os.path.join(settings.BASE_DIR, 'myapi/data/courses.json')
         with open(courses) as file:
             courses = json.load(file)
         
