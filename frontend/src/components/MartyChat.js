@@ -9,7 +9,7 @@ async function sendUserInput(userInput) {
         chatHistory.push({ "role": "user", "content": userInput });
         console.log(chatHistory);
 
-        const response = await fetch(`${process.env.REACT_APP_BACKEND_URL}api/openai`, {
+        const response = await fetch(`${process.env.REACT_APP_BACKEND_URL}api/openai/`, {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
