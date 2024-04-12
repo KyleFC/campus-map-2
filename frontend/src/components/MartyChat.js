@@ -47,10 +47,10 @@ class MartyChat extends React.Component {
         event.preventDefault();
         const { inputText, messages } = this.state;
         if (inputText.trim() !== '') {
-            const newMessage = {
+            /* const newMessage = {
                 id: messages.length + 1,
                 text: inputText
-            };
+            }; */
             sendUserInput(inputText)
                 .then(response => {
                     // Directly push new message for debugging

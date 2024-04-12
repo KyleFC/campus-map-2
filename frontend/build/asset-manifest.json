@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/campus-map-2/static/css/main.1e8fca0b.css",
-    "main.js": "/campus-map-2/static/js/main.e15d2291.js",
+    "main.css": "/campus-map-2/static/css/main.f88c334a.css",
+    "main.js": "/campus-map-2/static/js/main.283e71d6.js",
     "static/js/453.566b6941.chunk.js": "/campus-map-2/static/js/453.566b6941.chunk.js",
     "static/media/osm2.png": "/campus-map-2/static/media/osm2.d52f02807b19fbee3e38.png",
     "static/media/library-cs.jpg": "/campus-map-2/static/media/library-cs.eecf21bcc9b07d179e03.jpg",
@@ -10,14 +10,14 @@
     "static/media/housing_icon.png": "/campus-map-2/static/media/housing_icon.f48e70aa347737cfa782.png",
     "static/media/athletics_icon.png": "/campus-map-2/static/media/athletics_icon.2bb5b9a7314098fe9d12.png",
     "static/media/logo.svg": "/campus-map-2/static/media/logo.512ee13295cef0d5e05ebe227a6ffd1e.svg",
-    "index.html": "/campus-map-2/index.html",
     "static/media/search.svg": "/campus-map-2/static/media/search.c65f18b23bd3fb764688fff79e99940d.svg",
-    "main.1e8fca0b.css.map": "/campus-map-2/static/css/main.1e8fca0b.css.map",
-    "main.e15d2291.js.map": "/campus-map-2/static/js/main.e15d2291.js.map",
+    "index.html": "/campus-map-2/index.html",
+    "main.f88c334a.css.map": "/campus-map-2/static/css/main.f88c334a.css.map",
+    "main.283e71d6.js.map": "/campus-map-2/static/js/main.283e71d6.js.map",
     "453.566b6941.chunk.js.map": "/campus-map-2/static/js/453.566b6941.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e8fca0b.css",
-    "static/js/main.e15d2291.js"
+    "static/css/main.f88c334a.css",
+    "static/js/main.283e71d6.js"
   ]
 }
