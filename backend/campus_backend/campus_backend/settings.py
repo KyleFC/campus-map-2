@@ -24,7 +24,7 @@ SECURE_REFERRER_POLICY = 'strict-origin-when-cross-origin'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["floating-wildwood-89276-b499c5483219.herokuapp.com"]
 
 
 # Application definition
