@@ -19,13 +19,8 @@ from django.http import HttpResponse
 from django.conf import settings
 from django.contrib.staticfiles.storage import staticfiles_storage
 
-def serve_react_app(request):
-    """Serve `index.html` for non-API routes."""
-    index_file_path = "https://kylefc.github.io/campus-map-2"
-    with open(index_file_path, 'rb') as file:
-        return HttpResponse(file.read(), content_type='text/html')
+from django.urls import path, include
 
 urlpatterns = [
-    path('api/', include('myapi.urls')),
-    re_path(r'^(?!api/).*$', serve_react_app),
+    path('api/', include('myapi.urls')),  # API routes
 ]
