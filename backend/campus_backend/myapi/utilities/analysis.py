@@ -1,9 +1,9 @@
-from openai import OpenAI
+#from openai import OpenAI
 import os
 import json
 import datetime
 from django.conf import settings
-
+from groq import Groq
 #function that interacts with openai api
 def get_response(message_history=[]):
     #get analysis_prompt.txt
@@ -18,15 +18,21 @@ def get_response(message_history=[]):
     print("Message history start\n", message_history, "Message history end\n")
     message_history.insert(0, {"role": "system", "content": analysis_prompt})
     
-    client = OpenAI()
+    #client = OpenAI()
+    client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
+    
     output = 'No response found.'
     for i in range(11):
         print("Iteration: ", i)
         try:
-            response = client.chat.completions.create(
+            """response = client.chat.completions.create(
                 model="gpt-3.5-turbo-0125",
                 messages=message_history)
-            #add to chat history the most recent response
+            #add to chat history the most recent response"""
+            response = client.chat.completions.create(
+                messages=message_history,
+                model="mixtral-8x7b-32768"
+            )
             message_history.append({"role": "assistant", "content": response.choices[0].message.content})
 
             print("Response output: ", response.choices[0].message.content)

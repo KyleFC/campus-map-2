@@ -18,7 +18,7 @@ async function sendUserInput(userInput) {
         });
         
         const data = await response.json();
-        
+        console.log("Data to be parsed:", data);
         //save to local browser storage
         localStorage.setItem('chatHistory', data.chatHistory);
         console.log(data.chatHistory);
