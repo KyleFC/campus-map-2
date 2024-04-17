@@ -6,7 +6,7 @@ async function sendUserInput(userInput) {
         let chatHistory = JSON.parse(localStorage.getItem('chatHistory')) || [];
 
         //add user and bot messages to chat history
-        chatHistory.push(JSON.stringify({ "role": "user", "content": userInput }));
+        chatHistory.push({ "role": "user", "content": userInput });
         console.log(chatHistory);
 
         const response = await fetch(`${process.env.REACT_APP_BACKEND_URL}api/openai/`, {
@@ -20,7 +20,7 @@ async function sendUserInput(userInput) {
         const data = await response.json();
         
         //save to local browser storage
-        localStorage.setItem('chatHistory', data.chatHistory);
+        localStorage.setItem('chatHistory', JSON.stringify(data.chatHistory));
         console.log(data.chatHistory);
         // console.log(data.finalOutput);
 
