@@ -58,8 +58,6 @@ def parse_course_line(line):
     course_info = match.groupdict()
    
     remaining_text = line[match.end():].strip()
-    additional_sessions = []
-
     if remaining_text:
         additional_pattern = re.compile(
             r'(?P<Additional_Start_End_Dates>\d{2}/\d{2}/\d{4}\s+-\s+\d{2}/\d{2}/\d{4})\s+'
@@ -69,10 +67,11 @@ def parse_course_line(line):
         )
 
         for additional_match in additional_pattern.finditer(remaining_text):
-            additional_sessions.append(additional_match.groupdict())
-
-    if additional_sessions:
-        course_info['Additional_Sessions'] = additional_sessions
+            additional_sessions = additional_match.groupdict()
+            course_info['Start_End_Dates'].append(additional_sessions["Additional_Start_End_Dates"])
+            course_info['Meetday'].append(additional_sessions["Additional_Meetday"])
+            course_info['Times'].append(additional_sessions["Additional_Times"])
+            course_info['Location'].append(additional_sessions["Additional_Location"])
 
     return course_info
 

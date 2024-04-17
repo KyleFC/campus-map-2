@@ -4,6 +4,7 @@ import json
 import datetime
 from django.conf import settings
 from groq import Groq
+
 #function that interacts with openai api
 def get_response(message_history=[]):
     #get analysis_prompt.txt
@@ -12,83 +13,91 @@ def get_response(message_history=[]):
     with open(file_path) as file:
         analysis_prompt = file.read()
         file.close()
-        
+
+    courses = json.load(os.path.join(settings.BASE_DIR, 'myapi/data/courses.json'))
+    #analysis_prompt = "You are a function calling LLM named Marty that utilizes tools to get information about Concordia University Irvine. Using this information, you will be able to answer questions about the university."
     #message history is a list of dictionaries with the role and content of each message
     #append system message to the front of the list
-    print("Message history start\n", message_history, "Message history end\n")
-    message_history.insert(0, {"role": "system", "content": analysis_prompt})
+    #print("Message history start\n", message_history, "Message history end\n")
+
+    if message_history[0]['role'] != 'system':
+        message_history.insert(0, {"role": "system", "content": analysis_prompt})
     
     #client = OpenAI()
-    client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
-    
-    output = 'No response found.'
-    for i in range(11):
-        print("Iteration: ", i)
+    client = Groq(api_key=os.environ.get('GROQ_API_KEY'))
+    tools = [
+        {
+            "type": "function",
+            "function": {
+                "name": "find_classes",
+                "description": "Get a json object of the classes that are in session on a given day and time",
+                "parameters": {
+                    "type": "object",
+                    "properties": {
+                        "day": {
+                            "type": "string",
+                            "description": "The day of the week (e.g. 'Monday')",
+                        },
+                        "time": {
+                            "type": "string",
+                            "description": "The time of day (e.g. '7:00 PM')",
+                        }
+                    },
+                    "required": ["day", "time"],
+                },
+            },
+        },
+    ]
+
+    while True:
         try:
-            """response = client.chat.completions.create(
-                model="gpt-3.5-turbo-0125",
-                messages=message_history)
-            #add to chat history the most recent response"""
+            # Create the completion request
             response = client.chat.completions.create(
                 messages=message_history,
-                model="mixtral-8x7b-32768"
+                model="mixtral-8x7b-32768",
+                tool_choice="auto",
+                tools=tools,
             )
-            message_history.append({"role": "assistant", "content": response.choices[0].message.content})
 
-            print("Response output: ", response.choices[0].message.content)
-
-            #parse the response to get the command and args
-            json_response = json.loads(response.choices[0].message.content)
-            command = json_response['command']['name']
-            args = json_response['command']['input'] if 'input' in json_response['command'] else None
-            output = execute_command(command, args)
+            # Get the response message and tool calls
+            response_message = response.choices[0].message
+            tool_calls = response_message.tool_calls
             
-            print(output)
-
-            
-            if type(output) == list:
-                # turn output into a string with a newline between each element
-                output = '\n'.join([str(elem) for elem in output])
-            
-            if command in ["final_response", "ask"]:
-                print("expecting user response")
+            # If there are no tool calls, break the loop
+            if not tool_calls:
                 break
 
+            available_functions = {
+                "find_classes": find_classes,
+            }
+            # Process each tool call
+            for tool_call in tool_calls:
+                function_name = tool_call.function.name
+                function_to_call = available_functions[function_name]
+                function_args = json.loads(tool_call.function.arguments)
+                function_response = function_to_call(
+                    courses=courses,
+                    input_time=function_args.get("time"),
+                    input_day=function_args.get("day")
+                )
+                # Append the function response to the message history
+                message_history.append(
+                    {
+                        "tool_call_id": tool_call.id,
+                        "role": "tool",
+                        "name": function_name,
+                        "content": str(function_response),
+                    }
+                )
+        
         except Exception as e:
             print(e)
-            continue
-
-    # Log all chat information and separate lines for debugging
-    """with open('log.txt', 'w') as file:
-        file.write(f"{datetime.datetime.now()} - User input: {message_history[-2]}\n")
-        file.write(f"{datetime.datetime.now()} - Response 1: {message_history[-1]}\n\n")
-        file.close()"""
-
-    return output, message_history[1:]
-
-def execute_command(command, args):
-
-    if command == "ask":
-        return args['question']
+            break
     
-    if command == "findCurrentClasses":
-        courses = os.path.join(settings.BASE_DIR, 'myapi/data/courses.json')
-        with open(courses) as file:
-            courses = json.load(file)
-        
-        if args != None and ('day' in args and 'time' in args):
-            classes = find_current_classes(courses, args['day'], args['time'])
-        else:
-            classes = find_current_classes(courses)
-        return  classes
-    
-    if command == "get_day_time":
-        return get_day_time()
-    
-    if command == 'final_response':
-        return args['final_response']
-    
-    return 'Command not found.'
+    # Get the final response
+    final_response = response.choices[0].message.content if response else 'No response found.'
+
+    return final_response, message_history[1:]
 
 def time_to_datetime(time):
     hour, minute = time.split(':')
@@ -103,7 +112,7 @@ def time_to_datetime(time):
 
     return datetime.datetime.now().replace(hour=hour, minute=minute, second=0, microsecond=0)
 
-def find_current_classes(courses, input_day=datetime.datetime.now().isoweekday(), input_time=datetime.datetime.now().strftime('%I:%M %p').upper()):
+def find_classes(courses, input_day=datetime.datetime.now().isoweekday(), input_time=datetime.datetime.now().strftime('%I:%M %p').upper()):
     current_classes = []
     days = {'Monday': 'M', 'Tuesday': 'T', 'Wednesday': 'W', 'Thursday': 'R', 'Friday': 'F', 'Saturday': 'S', 'Sunday': 'U',
             0: 'M', 1: 'T', 2: 'W', 3: 'R', 4: 'F', 5: 'S', 6: 'U'}
@@ -126,10 +135,30 @@ def find_current_classes(courses, input_day=datetime.datetime.now().isoweekday()
 
     for course in courses:
         if is_course_at_time(course['Meetday'], course['Times'], input_day, input_time):
-            current_classes.append(course)
+            #current_classes.append(course)
+            current_classes.append(f"Class name: {course['Title']}\nProfessor: {course['Professor']}\nTime: {course['Times']}\nLocation: {course['Location']}\n")
 
     return current_classes
 
 #function that returns the current day and time for the agent
 def get_day_time():
     return datetime.datetime.now().isoweekday(), datetime.datetime.now().strftime('%I:%M %p').upper()
+
+if __name__ == '__main__':
+        
+        with open('C:/Users/epicb/Projects/Campus-Map/campus-map/backend/campus_backend/myapi/data/courses.json') as file:
+            courses = json.load(file)
+    
+        """current_classes = find_classes(courses, "M", "7:00 PM")
+    
+        print("Current classes at the given time:")
+        for course in current_classes:
+            print(f"Class name: {course['Title']}\nProfessor: {course['Professor']}\nTime: {course['Times']}\nLocation: {course['Location']}\n")
+        """
+        sample_message_history = [
+            {
+                "role": "user",
+                "content": "What classes are in session at 9pm on Tuesday?"
+            }
+        ]
+        print(get_response(sample_message_history)[0])
