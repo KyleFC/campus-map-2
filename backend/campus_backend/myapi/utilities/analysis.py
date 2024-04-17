@@ -14,7 +14,7 @@ def get_response(message_history=[]):
         analysis_prompt = file.read()
         file.close()
 
-    course_file_location = json.load(os.path.join(settings.BASE_DIR, 'myapi/data/courses.json'))
+    course_file_location = os.path.join(settings.BASE_DIR, 'myapi/data/courses.json')
     with open(course_file_location) as file:
         courses = json.load(file)
         file.close()
