@@ -12,15 +12,6 @@ const Navbar = () => {
             <img src={logo} alt="Logo" className="logo" />
         </a>
         <ul className="navbar-nav">
-          <li className="nav-item">
-            <a href="/about" className="nav-link">About</a>
-          </li>
-          <li className="nav-item">
-            <a href="/services" className="nav-link">Services</a>
-          </li>
-          <li className="nav-item">
-            <a href="/contact" className="nav-link">Contact</a>
-          </li>
           {/* Add more nav items if needed */}
         </ul>
       </div>

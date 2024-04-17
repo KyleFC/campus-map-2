@@ -207,6 +207,9 @@ input[type="text"]::placeholder {
 .chatwindow {
   display: flex;
   flex-direction: column; /* Adjust the flex direction to column */
+  height: 100%;
+  position: relative; /* Change the position to relative */
+  overflow-y: auto;
 }
 
 .chatbox {
@@ -216,6 +219,7 @@ input[type="text"]::placeholder {
   bottom: 0;
   display: flex; /* Add display flex */
   justify-content: flex-end; /* Align the chatbox and button to the right */
+  position: sticky;
 }
 #martychat {
   width: 80%; /* Adjust the width as needed */
