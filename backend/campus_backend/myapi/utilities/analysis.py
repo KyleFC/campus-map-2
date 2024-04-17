@@ -99,7 +99,7 @@ def get_response(message_history=[]):
     
     # Get the final response
     final_response = response.choices[0].message.content if response else 'No response found.'
-
+    message_history.append({"role": "assistant", "content": final_response})
     return final_response, message_history[1:]
 
 def time_to_datetime(time):

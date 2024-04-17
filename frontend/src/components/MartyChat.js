@@ -2,7 +2,7 @@ import React from 'react';
 
 async function sendUserInput(userInput) {
     try {
-
+        console.log(localStorage.getItem('chatHistory'));
         let chatHistory = JSON.parse(localStorage.getItem('chatHistory')) || [];
 
         //add user and bot messages to chat history
