@@ -14,7 +14,10 @@ def get_response(message_history=[]):
         analysis_prompt = file.read()
         file.close()
 
-    courses = json.load(os.path.join(settings.BASE_DIR, 'myapi/data/courses.json'))
+    course_file_location = json.load(os.path.join(settings.BASE_DIR, 'myapi/data/courses.json'))
+    with open(course_file_location) as file:
+        courses = json.load(file)
+        file.close()
     #analysis_prompt = "You are a function calling LLM named Marty that utilizes tools to get information about Concordia University Irvine. Using this information, you will be able to answer questions about the university."
     #message history is a list of dictionaries with the role and content of each message
     #append system message to the front of the list
