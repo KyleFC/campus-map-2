@@ -70,7 +70,7 @@ def get_response(message_history=[]):
         {
             "type": "function",
             "function": {
-                "name": "perform_query",
+                "name": "retreive_major_info",
                 "description": "Perform a query on an index to retreive additional course or major information",
                 "parameters": {
                     "type": "object",
@@ -119,7 +119,7 @@ def get_response(message_history=[]):
                         input_day=function_args.get("day"),
                         input_time=function_args.get("time"),
                     )
-                elif function_name == "perform_query":
+                elif function_name == "retreive_major_info":
                     function_args = json.loads(tool_call.function.arguments)
                     function_response = function_to_call(
                     query=function_args.get("query"),
@@ -282,7 +282,7 @@ def upsert_embeddings(index, chunks, openai):
         # Log any errors that occur during the upsert process
         print("ERROR", e)
 
-def perform_query(index, query, chunks, openai):
+def retreive_major_info(index, query, chunks, openai):
     """
     This function performs a query on a given index using a model to generate embeddings.
 
