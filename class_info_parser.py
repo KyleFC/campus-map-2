@@ -3,8 +3,8 @@
 
 import re
 import os
-from pinecone import Pinecone
-from sentence_transformers import SentenceTransformer
+from pinecone import Pinecone, ServerlessSpec
+from openai import OpenAI
 import concurrent.futures
 
 def extract_text_line_by_line(file_path):
@@ -17,20 +17,19 @@ def parse_major(text):
     chunks = []
     for line in text.split('\n'):
         # major is indicated by major name (major shortened)
-        if re.match(r'(?!\d).*\(([A-Z]{3,})\)$', line):
+        if re.match(r'(?!\d).*\(([A-Z]{3,})\)$|^([A-Za-z]*: [A-Za-z]*)$', line):
             if major_info:
-                chunks.append(major_info)
-            major_info = ''
+                chunks.append(f"{major_info}")
+            major_info = f'{line}\n'
         else:
             major_info = f"{major_info} {line}"
     return chunks
 
-def embed_text(text):
-    model = SentenceTransformer('sentence-transformers/all-mpnet-base-v2')
-    embeddings = model.encode(text)
-    return embeddings
+def embed_text(text, openai_client):
+    embedding = openai_client.embeddings.create(input=text, model='text-embedding-3-large').data[0].embedding
+    return embedding
 
-def process_chunk(chunk):
+def process_chunk(chunk, openai):
     """
     This function processes a chunk of data, transforms it into embeddings using a model,
     and ensures the dimensionality of the resulting vector matches the expected dimensionality.
@@ -45,12 +44,13 @@ def process_chunk(chunk):
     """
 
     # Use the model to transform the chunk into embeddings and extract the 'embedding' value
-    vector = embed_text(chunk)
+
+    vector = embed_text(chunk, openai)
 
     # Convert the vector values to floats and return the result
     return list(map(float, vector))
 
-def upsert_embeddings(index, chunks):
+def upsert_embeddings(index, chunks, openai):
     """
     This function is used to upsert (update or insert) embeddings into a given index.
 
@@ -77,7 +77,7 @@ def upsert_embeddings(index, chunks):
                 # Log the current chunk being processed
                 print('uploading vector for chunk', i)
                 # Submit the chunk to the executor for processing and get a future
-                future = executor.submit(process_chunk, chunk)
+                future = executor.submit(process_chunk, chunk, openai)
 
                 # Append the future to the list of futures
                 futures.append((str(i), future))
@@ -98,7 +98,7 @@ def upsert_embeddings(index, chunks):
         # Log any errors that occur during the upsert process
         print("ERROR", e)
 
-def perform_query(index, query, chunks):
+def perform_query(index, query, openai):
     """
     This function performs a query on a given index using a model to generate embeddings.
 
@@ -114,31 +114,38 @@ def perform_query(index, query, chunks):
     """
     try:
         # Generate the query vector using the model
-        query_vector = list(map(float, embed_text(query)))
+        query_vector = list(map(float, embed_text(query, openai)))
 
         # Perform the query on the index
         results = index.query(vector=query_vector, top_k=5)
 
-
-        print(results)
-        context = []
-        for match in results["matches"]:
-            # Get the text of the matching chunk
-            print(match["id"])
-            context.append(chunks[int(match["id"])])
-        return context
+        return results
 
     except Exception as e:
         print("ERROR", e)
 
 if __name__ == "__main__":
     text = extract_text_line_by_line('course_info.txt')
+    openai = OpenAI()
+
     pinecone = Pinecone()
+    pinecone.delete_index('campus')
+    pinecone.create_index(name='campus', metric='cosine', dimension=3072, spec=ServerlessSpec(cloud='aws', region='us-east-1'))
     index = pinecone.Index('campus')
     chunks = parse_major(text)
-    embedding_list = []
+    for c in chunks:
+        print(len(c))
+        print(c.split('\n')[0])
 
-    #upsert_embeddings(index, chunks)
-    print(perform_query(index, "Computer Science", chunks))
+    embedding_list = []
+    #print(embed_text("Computer Science", openai))
+    upsert_embeddings(index, chunks, openai)
+    results = perform_query(index, "Computer Science", openai)
+    context = []
+    matches = results['matches']
+    for i, c in enumerate(matches):
+        text = chunks[int(c["id"])]
+        context.append(text)
+        print(f"{i} score: {c["score"]}\n{text}\n\n\n")              
 
     
