@@ -106,7 +106,7 @@ def get_response(message_history=[]):
 
             available_functions = {
                 "find_classes": find_classes,
-                "perform_query": perform_query,
+                "perform_query": retreive_major_info,
             }
             # Process each tool call
             for tool_call in tool_calls:
