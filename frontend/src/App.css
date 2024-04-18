@@ -213,14 +213,29 @@ input[type="text"]::placeholder {
 }
 
 .chatbox {
-  /*the box stays at the bottom and is inline-block*/
-  position: absolute; /* Change the position to sticky */
-  width: 100%;
+  width: 390px;
   bottom: 0;
   display: flex; /* Add display flex */
   justify-content: flex-end; /* Align the chatbox and button to the right */
-  position: sticky;
+  position: fixed;
 }
+.messages {
+  white-space: pre-wrap; /* Maintains natural breaks and spaces */
+  flex: 1 0 auto; /* Grow to fill available space */
+  overflow-y: auto; /* Scroll as needed */
+  padding: 10px; /* Padding for aesthetics */
+  padding-bottom: 50px; /* Add padding at the bottom to prevent overlap with the chatbox */
+  background-color: #f8f8f8; /* Optional: Background color for content */
+}
+.message {
+  white-space: pre-wrap; /* Maintains natural breaks and spaces */
+  margin-bottom: 10px; /* Space between messages */
+  padding: 8px; /* Padding inside each message */
+  background-color: #fff; /* White background for each message */
+  border-radius: 5px; /* Rounded corners for messages */
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Subtle shadow for depth */
+}
+
 #martychat {
   width: 80%; /* Adjust the width as needed */
   padding: 10px; /* Add padding */

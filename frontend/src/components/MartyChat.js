@@ -69,12 +69,21 @@ class MartyChat extends React.Component {
 
     render() {
         const { messages, inputText } = this.state;
+            
+        //format message to display in chat window with user and bot roles
+        const formatMessage = (message, message_id) => {
+            if (message_id % 2 === 1) {
+                return `User: ${message.text}`;
+            } else {
+                return `Marty: ${message.text}`;
+            }
+        }
 
         return (
             <div className="chatwindow">
-                <ul>
+                <ul className="messages">
                     {messages.map((message) => (
-                        <li key={message.id}>{message.text}</li>
+                        <li className="message" key={message.id}>{formatMessage(message, message.id)}</li>
                     ))}
                 </ul>
                 <form className="chatbox" onSubmit={this.handleSubmit}>
