@@ -7,6 +7,8 @@
 # testing
 /coverage
 
+#outer functions
+class_info_parser.py
 # production
 frontend/build
 frontend/node_modules
