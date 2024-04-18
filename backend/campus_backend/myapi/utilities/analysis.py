@@ -71,7 +71,7 @@ def get_response(message_history=[]):
             "type": "function",
             "function": {
                 "name": "retreive_major_info",
-                "description": "Perform a query on an index to retreive additional course or major information",
+                "description": "Gather more information about a major or course",
                 "parameters": {
                     "type": "object",
                     "properties": {
@@ -183,7 +183,7 @@ def find_classes(courses, input_day=datetime.datetime.now().isoweekday(), input_
     for course in courses:
         if is_course_at_time(course['Meetday'], course['Times'], input_day, input_time):
             #current_classes.append(course)
-            current_classes.append(f"Class name: {course['Title']}\nProfessor: {course['Professor']}\nTime: {course['Times']}\nLocation: {course['Location']}\n")
+            current_classes.append(f"Course: {course['Course']}\nTitle: {course['Title']}\nProfessor: {course['Professor']}\nTime: {course['Times']}\nLocation: {course['Location']}\n")
 
     return current_classes
 
