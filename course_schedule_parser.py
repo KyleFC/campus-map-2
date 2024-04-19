@@ -65,7 +65,10 @@ def parse_course_line(line):
             r'(?:(?P<Additional_Times>By Arrangement|\d+:\d+\s+[AP]M\s+-\s+\d+:\d+\s+[AP]M))\s+'
             r'(?P<Additional_Location>[A-Za-z0-9-]+)'
         )
-
+        course_info['Start_End_Dates'] = [course_info['Start_End_Dates']]
+        course_info['Meetday'] = [course_info['Meetday']]
+        course_info['Times'] = [course_info['Times']]
+        course_info['Location'] = [course_info['Location']]
         for additional_match in additional_pattern.finditer(remaining_text):
             additional_sessions = additional_match.groupdict()
             course_info['Start_End_Dates'].append(additional_sessions["Additional_Start_End_Dates"])

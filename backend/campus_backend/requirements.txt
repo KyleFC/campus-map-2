@@ -6,8 +6,10 @@ charset-normalizer==3.3.2
 colorama==0.4.6
 DateTime==5.5
 distro==1.9.0
+dj-database-url==2.1.0
 Django==5.0.4
 django-cors-headers==4.3.1
+django-heroku==0.3.1
 djangorestframework==3.15.1
 filelock==3.13.4
 fsspec==2024.3.1
@@ -25,6 +27,8 @@ networkx==3.3
 openai==1.22.0
 packaging==24.0
 pinecone-client==3.2.2
+psycopg2==2.9.9
+psycopg2-binary==2.9.9
 pydantic==2.6.4
 pydantic_core==2.16.3
 pytz==2024.1
@@ -43,4 +47,5 @@ typing_extensions==4.11.0
 tzdata==2024.1
 urllib3==2.2.1
 wheel==0.43.0
+whitenoise==6.6.0
 zope.interface==6.2
