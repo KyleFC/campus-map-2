@@ -53,7 +53,7 @@ def get_response(openai_client, index, groq_client, message_history=[], ):
             "type": "function",
             "function": {
                 "name": "retreive_major_info",
-                "description": "Gather more information about a major or course",
+                "description": "Retreive information about a major or course",
                 "parameters": {
                     "type": "object",
                     "properties": {
@@ -125,6 +125,7 @@ def get_response(openai_client, index, groq_client, message_history=[], ):
     
     # Get the final response
     final_response = response.choices[0].message.content if response else 'No response found.'
+    final_response = final_response.strip("</s>")
     message_history.append({"role": "assistant", "content": final_response})
     return final_response, message_history[1:]
 
@@ -284,14 +285,14 @@ def retreive_major_info(index, query, chunks, openai):
 
         # Perform the query on the index
         results = index.query(vector=query_vector, top_k=1)
-        matches = results['matches']
+        match = results['matches'][0]
         """context = []
         for i, c in enumerate(matches):
             text = chunks[int(c["id"])]
             context.append(text)
             print(f"{i} score: {c["score"]}\n{text}\n\n\n")  """
-        
-        return chunks[int(matches['id'])]
+        text = chunks[int(match['id'])]
+        return text
 
     except Exception as e:
         print("ERROR", e)            
@@ -302,10 +303,16 @@ def retreive_major_info(index, query, chunks, openai):
 
 
 if __name__ == '__main__':
-        
+        from groq import Groq
+        from pinecone import Pinecone
+        from openai import OpenAI
+
         with open('C:/Users/epicb/Projects/Campus-Map/campus-map/backend/campus_backend/myapi/data/courses.json') as file:
             courses = json.load(file)
-    
+        openai_client = OpenAI(api_key="")
+        groq_client = Groq(api_key="")
+        pinecone_client = Pinecone(api_key="")
+        index = pinecone_client.Index('campus')
         """current_classes = find_classes(courses, "M", "7:00 PM")
     
         print("Current classes at the given time:")
@@ -315,7 +322,7 @@ if __name__ == '__main__':
         sample_message_history = [
             {
                 "role": "user",
-                "content": "What classes are in session at 9pm on Tuesday?"
+                "content": "Can you tell me more about Concordia's computer science major?"
             }
         ]
-        print(get_response(sample_message_history)[0])
+        print(get_response(openai_client=openai_client, index=index, message_history=sample_message_history, groq_client=groq_client, )[0])
