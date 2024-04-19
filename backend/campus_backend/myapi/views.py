@@ -8,7 +8,7 @@ from campus_backend import openai_client, index
 def process_input(request):
     chatHistory = request.data.get('chatHistory')
     # Process the chat history and return the response
-    response = get_response(chatHistory, openai_client, index)
+    response = get_response(message_history=chatHistory, openai_client=openai_client, index=index)
     response_data = {"finalOutput": response[0], "chatHistory": response[1]}
     
     return Response(response_data)
