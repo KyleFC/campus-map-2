@@ -8,7 +8,7 @@ import re
 from pinecone import Pinecone, ServerlessSpec
 import concurrent.futures
 from openai import OpenAI
-
+from campus_backend import openai_client, index
 
 #function that interacts with openai api
 def get_response(message_history=[]):
@@ -25,10 +25,10 @@ def get_response(message_history=[]):
         courses = json.load(file)
         file.close()
 
-    pinecone = Pinecone(api_key=os.environ.get('PINECONE_API_KEY'))
+    """pinecone = Pinecone(api_key=os.environ.get('PINECONE_API_KEY'))
     #pinecone.delete_index('campus')
     #pinecone.create_index(name='campus', metric='cosine', dimension=3072, spec=ServerlessSpec(cloud='aws', region='us-east-1'))
-    index = pinecone.Index('campus')
+    index = pinecone.Index('campus')"""
 
     text = extract_text(os.path.join(settings.BASE_DIR, 'myapi/utilities/course_info.txt'))
     chunks = chunk_text(text)
@@ -44,7 +44,7 @@ def get_response(message_history=[]):
     
     #client = OpenAI()
     client = Groq(api_key=os.environ.get('GROQ_API_KEY'))
-    openai_client = OpenAI(api_key=os.environ.get('OPENAI_API_KEY'))
+    
     tools = [
         {
             "type": "function",
