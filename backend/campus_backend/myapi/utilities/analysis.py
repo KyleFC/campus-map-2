@@ -8,10 +8,9 @@ import re
 from pinecone import Pinecone, ServerlessSpec
 import concurrent.futures
 from openai import OpenAI
-from campus_backend import openai_client, index
 
 #function that interacts with openai api
-def get_response(message_history=[]):
+def get_response(openai_client, index, message_history=[], ):
     #get analysis_prompt.txt
     file_path = os.path.join(settings.BASE_DIR, 'myapi/utilities/analysis_prompt.txt')
 
