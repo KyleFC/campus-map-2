@@ -10,4 +10,4 @@ pinecone_client = Pinecone(api_key=os.environ.get('PINECONE_API_KEY'))
 index = pinecone_client.Index('campus')
 print('index initiralized')
 
-Tools = Tools(openai_client, groq_client=groq_client, index=index)
+Tools = Tools(openai_client=openai_client, groq_client=groq_client, index=index)
