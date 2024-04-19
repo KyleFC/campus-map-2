@@ -9,7 +9,7 @@ def get_response(tool=None, message_history=[], ):
     openai_client = tool.openai_client 
     groq_client = tool.groq_client
     index = tool.index
-    
+
     file_path = os.path.join(settings.BASE_DIR, 'myapi/utilities/analysis_prompt.txt')
 
     with open(file_path) as file:
@@ -75,7 +75,8 @@ def get_response(tool=None, message_history=[], ):
             # Create the completion request
             response = groq_client.chat.completions.create(
                 messages=message_history,
-                model="mixtral-8x7b-32768",
+                #model="mixtral-8x7b-32768",
+                model="llama3-70b-8192",
                 tool_choice="auto",
                 tools=tools,
             )
