@@ -26,8 +26,8 @@ def get_response(message_history=[]):
         file.close()
 
     pinecone = Pinecone(api_key=os.environ.get('PINECONE_API_KEY'))
-    pinecone.delete_index('campus')
-    pinecone.create_index(name='campus', metric='cosine', dimension=3072, spec=ServerlessSpec(cloud='aws', region='us-east-1'))
+    #pinecone.delete_index('campus')
+    #pinecone.create_index(name='campus', metric='cosine', dimension=3072, spec=ServerlessSpec(cloud='aws', region='us-east-1'))
     index = pinecone.Index('campus')
 
     text = extract_text(os.path.join(settings.BASE_DIR, 'myapi/utilities/course_info.txt'))
