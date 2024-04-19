@@ -20,11 +20,6 @@ def get_response(openai_client, index, groq_client, message_history=[], ):
         courses = json.load(file)
         file.close()
 
-    """pinecone = Pinecone(api_key=os.environ.get('PINECONE_API_KEY'))
-    #pinecone.delete_index('campus')
-    #pinecone.create_index(name='campus', metric='cosine', dimension=3072, spec=ServerlessSpec(cloud='aws', region='us-east-1'))
-    index = pinecone.Index('campus')"""
-
     text = extract_text(os.path.join(settings.BASE_DIR, 'myapi/utilities/course_info.txt'))
     chunks = chunk_text(text)
 
@@ -76,7 +71,7 @@ def get_response(openai_client, index, groq_client, message_history=[], ):
     while True:
         try:
             # Create the completion request
-            response = client.chat.completions.create(
+            response = groq_client.chat.completions.create(
                 messages=message_history,
                 model="mixtral-8x7b-32768",
                 tool_choice="auto",
@@ -85,6 +80,7 @@ def get_response(openai_client, index, groq_client, message_history=[], ):
 
             # Get the response message and tool calls
             response_message = response.choices[0].message
+
             tool_calls = response_message.tool_calls
             
             # If there are no tool calls, break the loop
@@ -93,7 +89,7 @@ def get_response(openai_client, index, groq_client, message_history=[], ):
 
             available_functions = {
                 "find_classes": find_classes,
-                "perform_query": retreive_major_info,
+                "retreive_major_info": retreive_major_info,
             }
             # Process each tool call
             for tool_call in tool_calls:
@@ -127,7 +123,9 @@ def get_response(openai_client, index, groq_client, message_history=[], ):
         except Exception as e:
             print(e)
             break
-    
+        """for message in message_history:
+            print(f"{message['role']}: {message['content']}\n")
+    """
     # Get the final response
     final_response = response.choices[0].message.content if response else 'No response found.'
     message_history.append({"role": "assistant", "content": final_response})
