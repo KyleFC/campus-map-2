@@ -2,7 +2,7 @@ import os
 from openai import OpenAI
 from pinecone import Pinecone
 from groq import Groq
-from tools import Tools
+from .tools import Tools
 
 openai_client = OpenAI(api_key=os.environ.get('OPENAI_API_KEY'))
 groq_client = Groq(api_key=os.environ.get('GROQ_API_KEY'))
