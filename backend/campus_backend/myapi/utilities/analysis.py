@@ -1,16 +1,12 @@
-#from openai import OpenAI
 import os
 import json
 import datetime
 from django.conf import settings
-from groq import Groq
 import re
-from pinecone import Pinecone, ServerlessSpec
 import concurrent.futures
-from openai import OpenAI
 
 #function that interacts with openai api
-def get_response(openai_client, index, message_history=[], ):
+def get_response(openai_client, index, groq_client, message_history=[], ):
     #get analysis_prompt.txt
     file_path = os.path.join(settings.BASE_DIR, 'myapi/utilities/analysis_prompt.txt')
 
@@ -32,17 +28,9 @@ def get_response(openai_client, index, message_history=[], ):
     text = extract_text(os.path.join(settings.BASE_DIR, 'myapi/utilities/course_info.txt'))
     chunks = chunk_text(text)
 
-    
-    #analysis_prompt = "You are a function calling LLM named Marty that utilizes tools to get information about Concordia University Irvine. Using this information, you will be able to answer questions about the university."
-    #message history is a list of dictionaries with the role and content of each message
-    #append system message to the front of the list
-    #print("Message history start\n", message_history, "Message history end\n")
-
     if message_history[0]['role'] != 'system':
         message_history.insert(0, {"role": "system", "content": analysis_prompt})
     
-    #client = OpenAI()
-    client = Groq(api_key=os.environ.get('GROQ_API_KEY'))
     
     tools = [
         {
