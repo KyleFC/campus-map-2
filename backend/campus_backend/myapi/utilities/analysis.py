@@ -80,7 +80,6 @@ def get_response(openai_client, index, groq_client, message_history=[], ):
 
             # Get the response message and tool calls
             response_message = response.choices[0].message
-
             tool_calls = response_message.tool_calls
             
             # If there are no tool calls, break the loop
@@ -123,9 +122,7 @@ def get_response(openai_client, index, groq_client, message_history=[], ):
         except Exception as e:
             print(e)
             break
-        """for message in message_history:
-            print(f"{message['role']}: {message['content']}\n")
-    """
+    
     # Get the final response
     final_response = response.choices[0].message.content if response else 'No response found.'
     message_history.append({"role": "assistant", "content": final_response})
