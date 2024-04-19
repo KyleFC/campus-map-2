@@ -6,7 +6,10 @@ from django.conf import settings
 #function that interacts with openai api
 def get_response(tool=None, message_history=[], ):
     #get analysis_prompt.txt
-
+    openai_client = tool.openai_client 
+    groq_client = tool.groq_client
+    index = tool.index
+    
     file_path = os.path.join(settings.BASE_DIR, 'myapi/utilities/analysis_prompt.txt')
 
     with open(file_path) as file:
