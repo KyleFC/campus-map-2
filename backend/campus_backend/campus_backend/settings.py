@@ -10,6 +10,8 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.2/ref/settings/
 """
 import django_heroku
+import dj_database_url
+import os
 from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -27,22 +29,7 @@ DEBUG = True
 ALLOWED_HOSTS = ["floating-wildwood-89276-b499c5483219.herokuapp.com"]
 
 DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'coursesdb',
-        'USER': 'mydefaultuser',
-        'PASSWORD': 'concordia',
-        'HOST': 'localhost',
-        'PORT': '',
-    },
-    'readonly': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'coursesdb',
-        'USER': 'myreadonlyuser',
-        'PASSWORD': 'concordia',
-        'HOST': 'localhost',
-        'PORT': '',
-    }
+    'default': dj_database_url.config(default=os.environ.get('DATABASE_URL'))
 }
 
 # Application definition
