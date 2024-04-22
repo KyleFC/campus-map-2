@@ -28,10 +28,10 @@ class Command(BaseCommand):
                 )
 
                 # Iterate through each session assuming meetday, start_time, end_time, location are lists
-                meetdays = entry.get('meetday', [])
-                start_times = entry.get('start_time', [])
-                end_times = entry.get('end_time', [])
-                locations = entry.get('location', [])
+                meetdays = entry.get('Meetday', [])
+                start_times = entry.get('Start_Time', [])
+                end_times = entry.get('End_Time', [])
+                locations = entry.get('Location', [])
 
                 num_sessions = len(meetdays)
                 for i in range(num_sessions):
