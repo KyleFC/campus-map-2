@@ -5,6 +5,9 @@ from myapi.models import Course, Session
 
 class Command(BaseCommand):
     help = 'Load a list of courses from a JSON file into the database'
+    
+    def add_arguments(self, parser):
+        parser.add_argument('json_file', type=str, help='The JSON file path containing the data')
 
     def handle(self, *args, **options):
         with open('courses.json', 'r') as file:
