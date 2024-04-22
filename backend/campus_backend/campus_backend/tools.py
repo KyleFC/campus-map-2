@@ -2,14 +2,44 @@
 import re
 import concurrent.futures
 import datetime
-
+import os
+from openai import OpenAI
+from pinecone import Pinecone
+from groq import Groq
 
 class Tools:
-    
-    def __init__(self, openai_client, groq_client, index):
-        self.openai_client = openai_client
-        self.groq_client = groq_client
-        self.index = index
+    def __init__(self):
+        self.openai_client = None
+        self.groq_client = None
+        self.index = None
+
+    def initialize(self):
+        if not self.openai_client:
+            self.openai_client = OpenAI(api_key=os.environ.get('OPENAI_API_KEY'))
+        if not self.groq_client:
+            self.groq_client = Groq(api_key=os.environ.get('GROQ_API_KEY'))
+        if not self.index:
+            pinecone_client = Pinecone(api_key=os.environ.get('PINECONE_API_KEY'))
+            self.index = pinecone_client.Index('campus')
+            print('Index initialized')
+
+    @property
+    def openai(self):
+        if not self.openai_client:
+            self.initialize()
+        return self.openai_client
+
+    @property
+    def groq(self):
+        if not self.groq_client:
+            self.initialize()
+        return self.groq_client
+
+    @property
+    def pinecone_index(self):
+        if not self.index:
+            self.initialize()
+        return self.index
 
     def time_to_datetime(self, time):
         hour, minute = time.split(':')
