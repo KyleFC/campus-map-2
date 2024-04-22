@@ -1,10 +1,11 @@
 from django.db import models
 
 class Course(models.Model):
+    crn = models.IntegerField(max_length=5)
     course_code = models.CharField(max_length=50)
     title = models.CharField(max_length=255)
     professor = models.CharField(max_length=100)
-    fees = models.DecimalField(max_digits=10, decimal_places=2, null=True, blank=True)
+    fees = models.IntegerField(max_digits=3, null=True, blank=True)
     comments = models.TextField(null=True, blank=True)
     start_date = models.DateField()
     end_date = models.DateField()
@@ -18,8 +19,6 @@ class Session(models.Model):
     start_time = models.CharField(max_length=20, blank=True, default='By Arrangement')
     end_time = models.CharField(max_length=20, blank=True, default='By Arrangement')
     location = models.CharField(max_length=100)
-    enrolled = models.IntegerField(default=0)
-    max_capacity = models.IntegerField()
 
     def __str__(self):
         times = f"from {self.start_time} to {self.end_time}" if self.start_time != 'By Arrangement' else self.start_time

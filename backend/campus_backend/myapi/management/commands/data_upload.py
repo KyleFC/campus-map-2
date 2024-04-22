@@ -16,13 +16,15 @@ class Command(BaseCommand):
             for entry in data:
                 # Create the Course object
                 course = Course.objects.create(
-                    course_code=entry.get('course_code'),
-                    title=entry.get('title'),
-                    professor=entry.get('professor'),
-                    fees=entry.get('fees'),
-                    comments=entry.get('comments'),
-                    start_date=parse_date(entry['start_date'][0]),  # Assumes start_date is a list
-                    end_date=parse_date(entry['end_date'][0])  # Assumes end_date is a list
+                    crn=int(entry.get('CRN')),
+                    course_code=entry.get('Course'),
+                    title=entry.get('Title'),
+                    professor=entry.get('Professor'),
+                    fees=int(entry.get('Fees', 0)) if entry.get('Fees') else None,
+                    comments=entry.get('Comments', ''),
+                    meetdays = entry.get('Meetday', ''),
+                    start_date=parse_date(entry['Start_Date'][0]),  # Assumes start_date is a list
+                    end_date=parse_date(entry['End_Date'][0])  # Assumes end_date is a list
                 )
 
                 # Iterate through each session assuming meetday, start_time, end_time, location are lists
@@ -30,7 +32,6 @@ class Command(BaseCommand):
                 start_times = entry.get('start_time', [])
                 end_times = entry.get('end_time', [])
                 locations = entry.get('location', [])
-                enrolled = entry.get('enrolled', 0)  # Assumes a single value for enrolled, not list-based
 
                 num_sessions = len(meetdays)
                 for i in range(num_sessions):
@@ -40,7 +41,6 @@ class Command(BaseCommand):
                         start_time=parse_time(start_times[i]) if i < len(start_times) else None,
                         end_time=parse_time(end_times[i]) if i < len(end_times) else None,
                         location=locations[i] if i < len(locations) else None,
-                        enrolled=enrolled
                     )
                     session.save()
 
