@@ -2,7 +2,7 @@ from django.http import JsonResponse
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from .utilities.analysis import get_response
-from tools import Tools
+from myapi.tools import Tools
 from django.db import connections
 
 tools_instance = Tools()  # Create an instance of Tools, which manages the initialization of clients.
