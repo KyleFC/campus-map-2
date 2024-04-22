@@ -10,7 +10,8 @@ class Command(BaseCommand):
         parser.add_argument('json_file', type=str, help='The JSON file path containing the data')
 
     def handle(self, *args, **options):
-        with open('courses.json', 'r') as file:
+        json_file = options['json_file']
+        with open(json_file, 'r') as file:
             data = json.load(file)
             for entry in data:
                 course = Course.objects.create(
