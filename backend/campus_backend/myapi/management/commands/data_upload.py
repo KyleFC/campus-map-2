@@ -14,26 +14,37 @@ class Command(BaseCommand):
         with open(json_file, 'r') as file:
             data = json.load(file)
             for entry in data:
+                # Create the Course object
                 course = Course.objects.create(
-                    course_code=entry.get('course_code', None),
-                    title=entry.get('title', None),
-                    professor=entry.get('professor', None),
-                    fees=entry.get('fees', None),
-                    comments=entry.get('comments', None),
-                    start_date=parse_date(entry.get('start_date', None)),
-                    end_date=parse_date(entry.get('end_date', None))
+                    course_code=entry.get('course_code'),
+                    title=entry.get('title'),
+                    professor=entry.get('professor'),
+                    fees=entry.get('fees'),
+                    comments=entry.get('comments'),
+                    start_date=parse_date(entry['start_date'][0]),  # Assumes start_date is a list
+                    end_date=parse_date(entry['end_date'][0])  # Assumes end_date is a list
                 )
 
-                session = Session.objects.create(
-                    course=course,
-                    meetday=entry.get('meetday', None),
-                    start_time=parse_time(entry.get('start_time', None)),
-                    end_time=parse_time(entry.get('end_time', None)),
-                    location=entry.get('location', None),
-                    enrolled=entry.get('enrolled', None),
-                    max_capacity=entry.get('max_capacity', None)
-                )
+                # Iterate through each session assuming meetday, start_time, end_time, location are lists
+                meetdays = entry.get('meetday', [])
+                start_times = entry.get('start_time', [])
+                end_times = entry.get('end_time', [])
+                locations = entry.get('location', [])
+                enrolled = entry.get('enrolled', 0)  # Assumes a single value for enrolled, not list-based
+
+                num_sessions = len(meetdays)
+                for i in range(num_sessions):
+                    session = Session.objects.create(
+                        course=course,
+                        meetday=meetdays[i] if i < len(meetdays) else None,
+                        start_time=parse_time(start_times[i]) if i < len(start_times) else None,
+                        end_time=parse_time(end_times[i]) if i < len(end_times) else None,
+                        location=locations[i] if i < len(locations) else None,
+                        enrolled=enrolled
+                    )
+                    session.save()
+
                 course.save()
-                session.save()
+
     
         self.stdout.write(self.style.SUCCESS('Successfully loaded courses'))

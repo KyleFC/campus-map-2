@@ -35,48 +35,85 @@ def parse_courses(text_file):
             course_info.append(text)
     return courses
 
+# Precompile regex patterns
+DATE_PATTERN = re.compile(r'(?P<Start_Date>\d{2}/\d{2}/\d{4})\s+-\s+(?P<End_Date>\d{2}/\d{2}/\d{4})')
+TIME_PATTERN = re.compile(r'(?P<Start_Time>\d{1,2}:\d{2}\s+[AP]M)\s+-\s+(?P<End_Time>\d{1,2}:\d{2}\s+[AP]M)')
+COURSE_PATTERN = re.compile(
+    r'(?P<CRN>\d{5})\s+'
+    r'(?P<Course>[A-Za-z]+-[A-Z0-9]+-(?:[A-Za-z0-9]+))\s+'
+    r'(?P<Title>[A-Z&-:/\s\(\)]+(?:\s+\([A-Za-z\s]+\))?)\s+'
+    r'(?P<Professor>(?:STAFF|[A-Za-z-\s\']+,\s+[A-Za-z]\.))\s+'
+    r'(?:(?P<Waitlist>Y+))?\s*'
+    r'(?:\$(?P<Fees>\d+))?\s*'
+    r'(?:\s*(?P<Comments>[^\$]+?))?\s*'
+    r'(?P<Start_End_Dates>\d{2}/\d{2}/\d{4}\s+-\s+\d{2}/\d{2}/\d{4})\s+'
+    r'(?P<Meetday>[MTWRFSU]*)\s*'
+    r'(?P<Times>(?:By Arrangement|\d+:\d+\s+[AP]M\s+-\s+\d+:\d+\s+[AP]M))\s+'
+    r'(?P<Location>[A-Za-z0-9-]+)\s+'
+    r'(?P<Units>\d+(?:\.\d+)?)\s+'
+    r'(?P<Enrolled>\d+/\d+)'
+)
+ADDITIONAL_PATTERN = re.compile(
+    r'(?P<Start_End_Dates>\d{2}/\d{2}/\d{4}\s+-\s+\d{2}/\d{2}/\d{4})\s+'
+    r'(?P<Meetday>[MTWRFSU]*)\s*'
+    r'(?:(?P<Times>By Arrangement|\d+:\d+\s+[AP]M\s+-\s+\d+:\d+\s+[AP]M))\s+'
+    r'(?P<Location>[A-Za-z0-9-]+)'
+)
+
+def parse_dates_and_times(course_info):
+    """Parse and split dates and times from course info, then store in lists."""
+    # Handle Dates
+    date_matches = DATE_PATTERN.search(course_info['Start_End_Dates'])
+    if date_matches:
+        course_info['Start_Date'] = date_matches.group('Start_Date')
+        course_info['End_Date'] = date_matches.group('End_Date')
+        del course_info['Start_End_Dates']  # Clean up the original date field
+    else: print(course_info['Start_End_Dates'], "\n\n\n\n\n\n")
+
+    # Handle Times
+    if 'Times' in course_info and course_info['Times'] != 'By Arrangement':
+        time_matches = TIME_PATTERN.search(course_info['Times'])
+        if time_matches:
+            course_info['Start_Time'] = time_matches.group('Start_Time')
+            course_info['End_Time'] = time_matches.group('End_Time')
+            del course_info['Times']  # Clean up the original time field
+    elif course_info['Times'] == 'By Arrangement':
+        course_info['Start_Time'] = 'By Arrangement'
+        course_info['End_Time'] = 'By Arrangement'
+        del course_info['Times']
+
 def parse_course_line(line):
-    pattern = re.compile(
-        r'(?P<CRN>\d{5})\s+'
-        r'(?P<Course>[A-Za-z]+-[A-Z0-9]+-(?:[A-Za-z0-9]+))\s+'
-        r'(?P<Title>[A-Z&-:/\s\(\)]+(?:\s+\([A-Za-z\s]+\))?)\s+'
-        r'(?P<Professor>(?:STAFF|[A-Za-z-\s\']+,\s+[A-Za-z]\.))\s+'
-        r'(?:(?P<Waitlist>Y+))?\s*'
-        r'(?:\$(?P<Fees>\d+))?\s*'
-        r'(?:\s*(?P<Comments>[^\$]+?))?\s*'
-        r'(?P<Start_End_Dates>\d{2}/\d{2}/\d{4}\s+-\s+\d{2}/\d{2}/\d{4})\s+'
-        r'(?P<Meetday>[MTWRFSU]*)\s*'
-        r'(?P<Times>(?:By Arrangement|\d+:\d+\s+[AP]M\s+-\s+\d+:\d+\s+[AP]M))\s+'
-        r'(?P<Location>[A-Za-z0-9-]+)\s+'
-        r'(?P<Units>\d+(?:\.\d+)?)\s+'
-        r'(?P<Enrolled>\d+/\d+)'
-    )
-    match = pattern.search(line)
+    match = COURSE_PATTERN.search(line)
     if not match:
-        return None
+        return None  # Early exit if line does not match the pattern
 
     course_info = match.groupdict()
-   
+    parse_dates_and_times(course_info)  # Parse initial session data
+
     remaining_text = line[match.end():].strip()
+    course_info['Start_Date'] = [course_info['Start_Date']]
+    course_info['End_Date'] = [course_info['End_Date']]
+    course_info['Start_Time'] = [course_info['Start_Time']]
+    course_info['End_Time'] = [course_info['End_Time']]
+    course_info['Location'] = [course_info['Location']]
+    course_info['Meetday'] = [course_info['Meetday']]
+    
     if remaining_text:
-        additional_pattern = re.compile(
-            r'(?P<Additional_Start_End_Dates>\d{2}/\d{2}/\d{4}\s+-\s+\d{2}/\d{2}/\d{4})\s+'
-            r'(?P<Additional_Meetday>[MTWRFSU]*)\s*'
-            r'(?:(?P<Additional_Times>By Arrangement|\d+:\d+\s+[AP]M\s+-\s+\d+:\d+\s+[AP]M))\s+'
-            r'(?P<Additional_Location>[A-Za-z0-9-]+)'
-        )
-        course_info['Start_End_Dates'] = [course_info['Start_End_Dates']]
-        course_info['Meetday'] = [course_info['Meetday']]
-        course_info['Times'] = [course_info['Times']]
-        course_info['Location'] = [course_info['Location']]
-        for additional_match in additional_pattern.finditer(remaining_text):
+        additional_info = ADDITIONAL_PATTERN.finditer(remaining_text)
+        for additional_match in additional_info:
             additional_sessions = additional_match.groupdict()
-            course_info['Start_End_Dates'].append(additional_sessions["Additional_Start_End_Dates"])
-            course_info['Meetday'].append(additional_sessions["Additional_Meetday"])
-            course_info['Times'].append(additional_sessions["Additional_Times"])
-            course_info['Location'].append(additional_sessions["Additional_Location"])
+            parse_dates_and_times(additional_sessions)  # Parse additional session data
+            course_info['Start_Date'].append(additional_sessions['Start_Date'])
+            course_info['End_Date'].append(additional_sessions['End_Date'])
+            course_info['Start_Time'].append(additional_sessions['Start_Time'])
+            course_info['End_Time'].append(additional_sessions['End_Time'])
+            course_info['Location'].append(additional_sessions['Location'])
+            course_info['Meetday'].append(additional_sessions['Meetday'])
+
+
 
     return course_info
+
 
 def course_dict_to_json(course_dict):
     json_string = json.dumps(course_dict, indent=4)
