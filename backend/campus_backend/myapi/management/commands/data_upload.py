@@ -16,15 +16,15 @@ class Command(BaseCommand):
             for entry in data:
                 # Create the Course object
                 course = Course.objects.create(
-                    crn=int(entry.get('CRN')),
+                    crn=entry.get('CRN'),
                     course_code=entry.get('Course'),
                     title=entry.get('Title'),
                     professor=entry.get('Professor'),
-                    fees=int(entry.get('Fees', 0)) if entry.get('Fees') else None,
-                    comments=entry.get('Comments', ''),
+                    fees=entry.get('Fees') if entry.get('Fees') else None,
+                    comments=entry.get('Comments') if entry.get('Comments') else None,
                     #meetday = entry.get('Meetday', '')[0],
-                    start_date=parse_date(entry['Start_Date'][0]),  # Assumes start_date is a list
-                    end_date=parse_date(entry['End_Date'][0])  # Assumes end_date is a list
+                    start_date=entry.get('Start_Date')[0],  # Assumes start_date is a list
+                    end_date=entry.get('End_Date')[0]  # Assumes end_date is a list
                 )
 
                 # Iterate through each session assuming meetday, start_time, end_time, location are lists
