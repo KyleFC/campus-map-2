@@ -29,7 +29,7 @@ DEBUG = True
 ALLOWED_HOSTS = ["floating-wildwood-89276-b499c5483219.herokuapp.com"]
 
 DATABASES = {
-    'default': dj_database_url.config(default="postgres://ur4a3gnshllbc:pb3b94893fa16059e8c298924487f419ad16c63721f679994063117ffc52b40c1@cbbirn8v9855bl.cluster-czrs8kj4isg7.us-east-1.rds.amazonaws.com:5432/da9d1vlqq04sa9")
+    'default': dj_database_url.config(default=os.environ.get('DATABASE_URL'))
 }
 
 # Application definition
