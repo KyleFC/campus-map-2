@@ -42,8 +42,8 @@ class Command(BaseCommand):
                         start_date=start_dates[i] if i < len(start_dates) else None,
                         end_date=end_dates[i] if i < len(end_dates) else None,
                         meetday=meetdays[i] if i < len(meetdays) else None,
-                        start_time=parse_time(start_times[i]) if i < len(start_times) else None,
-                        end_time=parse_time(end_times[i]) if i < len(end_times) else None,
+                        start_time=start_times[i] if i < len(start_times) else None,
+                        end_time=end_times[i] if i < len(end_times) else None,
                         location=locations[i] if i < len(locations) else None,
                     )
                     session.save()
