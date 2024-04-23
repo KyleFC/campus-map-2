@@ -22,7 +22,7 @@ class Command(BaseCommand):
                     professor=entry.get('Professor'),
                     fees=int(entry.get('Fees', 0)) if entry.get('Fees') else None,
                     comments=entry.get('Comments', ''),
-                    meetdays = entry.get('Meetday', ''),
+                    #meetday = entry.get('Meetday', '')[0],
                     start_date=parse_date(entry['Start_Date'][0]),  # Assumes start_date is a list
                     end_date=parse_date(entry['End_Date'][0])  # Assumes end_date is a list
                 )
