@@ -68,7 +68,6 @@ def parse_dates_and_times(course_info):
         course_info['Start_Date'] = date_matches.group('Start_Date')
         course_info['End_Date'] = date_matches.group('End_Date')
         del course_info['Start_End_Dates']  # Clean up the original date field
-    else: print(course_info['Start_End_Dates'], "\n\n\n\n\n\n")
 
     # Handle Times
     if 'Times' in course_info and course_info['Times'] != 'By Arrangement':
