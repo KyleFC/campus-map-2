@@ -1,11 +1,11 @@
 from django.db import models
 
 class Course(models.Model):
-    crn = models.IntegerField(max_digits=5)
+    crn = models.CharField(max_length=10)
     course_code = models.CharField(max_length=50)
     title = models.CharField(max_length=255)
     professor = models.CharField(max_length=100)
-    fees = models.IntegerField(max_digits=3, null=True, blank=True)
+    fees = models.CharField(max_length=10, null=True, blank=True)
     comments = models.TextField(null=True, blank=True)
     start_date = models.DateField()
     end_date = models.DateField()
@@ -15,6 +15,8 @@ class Course(models.Model):
 
 class Session(models.Model):
     course = models.ForeignKey(Course, related_name='sessions', on_delete=models.CASCADE)
+    start_date = models.DateField()
+    end_date = models.DateField()
     meetday = models.CharField(max_length=10, blank=True, default='')  # Allows blank strings
     start_time = models.CharField(max_length=20, blank=True, default='By Arrangement')
     end_time = models.CharField(max_length=20, blank=True, default='By Arrangement')

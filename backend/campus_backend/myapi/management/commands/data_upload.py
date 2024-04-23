@@ -29,6 +29,8 @@ class Command(BaseCommand):
 
                 # Iterate through each session assuming meetday, start_time, end_time, location are lists
                 meetdays = entry.get('Meetday', [])
+                start_dates = entry.get('Start_Date', [])
+                end_dates = entry.get('End_Date', [])
                 start_times = entry.get('Start_Time', [])
                 end_times = entry.get('End_Time', [])
                 locations = entry.get('Location', [])
@@ -37,6 +39,8 @@ class Command(BaseCommand):
                 for i in range(num_sessions):
                     session = Session.objects.create(
                         course=course,
+                        start_date=start_dates[i] if i < len(start_dates) else None,
+                        end_date=end_dates[i] if i < len(end_dates) else None,
                         meetday=meetdays[i] if i < len(meetdays) else None,
                         start_time=parse_time(start_times[i]) if i < len(start_times) else None,
                         end_time=parse_time(end_times[i]) if i < len(end_times) else None,
