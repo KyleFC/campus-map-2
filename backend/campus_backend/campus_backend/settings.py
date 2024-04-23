@@ -29,15 +29,7 @@ DEBUG = True
 ALLOWED_HOSTS = ["floating-wildwood-89276-b499c5483219.herokuapp.com"]
 
 DATABASES = {
-    'default': dj_database_url.config(default=os.environ.get('DATABASE_URL')),
-    'readonly': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': dj_database_url.config(default=os.environ.get('DATABASE_URL'))['NAME'],
-        'USER': 'myreadonlyuser',
-        'PASSWORD': os.environ.get('READONLY_PASSWORD'),
-        'HOST': dj_database_url.config(default=os.environ.get('DATABASE_URL'))['HOST'],
-        'PORT': dj_database_url.config(default=os.environ.get('DATABASE_URL'))['PORT'],
-    }
+    'default': dj_database_url.config(default=os.environ.get('DATABASE_URL'))
 }
 
 # Application definition
