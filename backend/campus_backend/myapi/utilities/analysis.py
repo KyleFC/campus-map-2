@@ -120,6 +120,7 @@ def get_response(tool=None, message_history=[], data_cursor=None):
             break
     
     # Get the final response
+    print(response)
     final_response = response.choices[0].message.content if response else 'No response found.'
     final_response = final_response.strip("</s>") #groq bug fix
     message_history.append({"role": "assistant", "content": final_response})
