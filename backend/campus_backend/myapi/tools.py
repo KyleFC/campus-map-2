@@ -6,12 +6,14 @@ import os
 from openai import OpenAI
 from pinecone import Pinecone
 from groq import Groq
+from django.db import connections
 
 class Tools:
     def __init__(self):
         self.openai_client = None
         self.groq_client = None
         self.index = None
+        self.cursor = None
 
     def initialize(self):
         if not self.openai_client:
@@ -22,6 +24,9 @@ class Tools:
             pinecone_client = Pinecone(api_key=os.environ.get('PINECONE_API_KEY'))
             self.index = pinecone_client.Index('campus')
             print('Index initialized')
+        if not self.cursor:
+            self.cursor = connections['default'].cursor()
+            print('Cursor initialized')
 
     @property
     def openai(self):
@@ -40,6 +45,66 @@ class Tools:
         if not self.index:
             self.initialize()
         return self.index
+    
+    @property
+    def databse_cursor(self):
+        if not self.cursor:
+            self.initialize()
+        return self.cursor
+
+    def query_course_database(self, query):
+        try:
+            # Create the completion request
+            response = self.groq_client.chat.completions.create(
+                messages=[{"role": "system", "content": """
+                        Your job is to create SQL queries based on the user's requested information from a course database for Concordia University Irvine with the following structure:
+                        Courses
+                            crn (varchar): Course Registration Number (e.g. 32112)
+                            course_code (varchar): Course Code (e.g. CSC-101-1)
+                            title (varchar): Course Title (e.g. HISTORY/LITERATURE OT, FUNDAMENTALS  OF PROGRAMMING)
+                            professor (varchar): Professor's Name (e.g. Cserhati, M.)
+                            fees (varchar): Course Fees (optional)
+                            comments (text): Additional Comments (optional)
+                            start_date (varchar): Course Start Date (e.g. 01/01/2024)
+                            end_date (varchar): Course End Date (e.g. 05/01/2024)
+                        Sessions
+                            id (int): Unique Session ID
+                            course_id (int): Foreign Key referencing the Courses table
+                            start_date (varchar): Session Start Date (e.g. 01/01/2024)
+                            end_date (varchar): Session End Date (e.g. 05/01/2024)
+                            meetday (varchar): Day of the week the session meets (optional) (e.g. MWF)
+                            start_time (varchar): Session Start Time (optional) (e.g. 9:10 AM)
+                            end_time (varchar): Session End Time (optional) (e.g. 4:40 PM)
+                            location (varchar): Session Location (e.g. LBART-121)
+                        Examples:
+                           example query: 'All bio courses'
+                           expected output: 'SELECT * FROM Courses WHERE course_code LIKE "BIO%"'
+
+                           example query: 'All courses on Monday'
+                           expected output: 'SELECT * FROM Sessions WHERE meetday LIKE "%M%"'
+                           
+                           example query: 'All courses at 2:00 PM'
+                           expected output: 'SELECT * FROM Sessions WHERE start_time = "2:00 PM"'
+                           
+                           example query: 'All courses by Professor Smith'
+                           expected output: 'SELECT * FROM Courses WHERE professor LIKE "%Smith%"'
+                           
+                           example query: 'All theology classes on Tuesday'
+                           expected output: 'SELECT * FROM Sessions WHERE meetday LIKE "%T%" AND course_id IN (SELECT id FROM Courses WHERE course_code LIKE "THEO%")'
+                           """}, {"role": "user", "content": query}],
+                model="llama3-70b-8192"
+            )
+            response_message = response.choices[0].message
+            print(response_message)
+            if "'''" in response_message:
+                #if ''' in responsde message then the sql code is likely surrounded by these quotations and we need to extract that sql code
+                response_message = response_message.split("'''")[1]
+            output = self.cursor.execute(response_message)
+            return output
+        
+        except Exception as e:
+            return e
+
 
     def time_to_datetime(self, time):
         hour, minute = time.split(':')
@@ -54,7 +119,7 @@ class Tools:
 
         return datetime.datetime.now().replace(hour=hour, minute=minute, second=0, microsecond=0)
 
-    def find_classes(self, courses, input_day=datetime.datetime.now().isoweekday(), input_time=datetime.datetime.now().strftime('%I:%M %p').upper()):
+    """def find_classes(self, courses, input_day=datetime.datetime.now().isoweekday(), input_time=datetime.datetime.now().strftime('%I:%M %p').upper()):
         current_classes = []
         days = {'Monday': 'M', 'Tuesday': 'T', 'Wednesday': 'W', 'Thursday': 'R', 'Friday': 'F', 'Saturday': 'S', 'Sunday': 'U',
                 0: 'M', 1: 'T', 2: 'W', 3: 'R', 4: 'F', 5: 'S', 6: 'U'}
@@ -80,7 +145,7 @@ class Tools:
                 #current_classes.append(course)
                 current_classes.append(f"Course: {course['Course']}\nTitle: {course['Title']}\nProfessor: {course['Professor']}\nTime: {course['Times']}\nLocation: {course['Location']}\n")
 
-        return current_classes
+        return current_classes"""
 
     def extract_text(self, file_path):
         with open(file_path, 'r', encoding='utf-8') as f:
@@ -207,3 +272,4 @@ class Tools:
 
         except Exception as e:
             print("ERROR", e)    
+

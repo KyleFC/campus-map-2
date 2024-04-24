@@ -4,7 +4,7 @@ from django.conf import settings
 
 
 #function that interacts with openai api
-def get_response(tool=None, message_history=[], ):
+def get_response(tool=None, message_history=[], data_cursor=None):
     #get analysis_prompt.txt
     openai_client = tool.openai_client 
     groq_client = tool.groq_client
@@ -33,21 +33,17 @@ def get_response(tool=None, message_history=[], ):
         {
             "type": "function",
             "function": {
-                "name": "find_classes",
-                "description": "Get a json object of the classes that are in session on a given day and time",
+                "name": "query_course_database",
+                "description": "request information from a database with course information",
                 "parameters": {
                     "type": "object",
                     "properties": {
-                        "day": {
+                        "query": {
                             "type": "string",
-                            "description": "The day of the week (e.g. 'Monday')",
-                        },
-                        "time": {
-                            "type": "string",
-                            "description": "The time of day (e.g. '7:00 PM')",
+                            "description": "The information you hope to get from the database (e.g. All bio courses, all courses on Monday, all courses at 2:10 PM, the room for SOFTWARE PROJ IMPLEMENTATION))",
                         }
                     },
-                    "required": ["day", "time"],
+                    "required": ["query"],
                 },
             },
         },
@@ -68,6 +64,7 @@ def get_response(tool=None, message_history=[], ):
                 },
             },
         },
+        
     ]
 
     while True:
@@ -90,19 +87,17 @@ def get_response(tool=None, message_history=[], ):
                 break
 
             available_functions = {
-                "find_classes": tool.find_classes,
+                "query_course_database": tool.query_course_database,
                 "retreive_major_info": tool.retreive_major_info,
             }
             # Process each tool call
             for tool_call in tool_calls:
                 function_name = tool_call.function.name
                 function_to_call = available_functions[function_name]
-                if function_name == "find_classes":
+                if function_name == "query_course_database":
                     function_args = json.loads(tool_call.function.arguments)
                     function_response = function_to_call(
-                        courses=courses,
-                        input_day=function_args.get("day"),
-                        input_time=function_args.get("time"),
+                        query=function_args.get("query"),
                     )
                 elif function_name == "retreive_major_info":
                     function_args = json.loads(tool_call.function.arguments)
