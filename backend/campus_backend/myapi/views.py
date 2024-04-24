@@ -5,6 +5,7 @@ from .utilities.analysis import get_response
 from myapi.tools import Tools
 
 tools_instance = Tools()  # Create an instance of Tools, which manages the initialization of clients.
+tools_instance.initialize()  # Initialize the clients for the tools.
 
 @api_view(['POST'])
 def process_input(request):

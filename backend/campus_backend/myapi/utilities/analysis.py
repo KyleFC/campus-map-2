@@ -12,13 +12,6 @@ def get_response(tool=None, message_history=[]):
         analysis_prompt = file.read()
         file.close()
 
-    course_file_location = os.path.join(settings.BASE_DIR, 'myapi/data/courses.json')
-
-    with open(course_file_location) as file:
-        courses = json.load(file)
-        file.close()
-
-
     if message_history[0]['role'] != 'system':
         message_history.insert(0, {"role": "system", "content": analysis_prompt})
     
