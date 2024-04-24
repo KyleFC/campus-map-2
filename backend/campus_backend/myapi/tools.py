@@ -99,7 +99,8 @@ class Tools:
             if "'''" in response_message:
                 #if ''' in responsde message then the sql code is likely surrounded by these quotations and we need to extract that sql code
                 response_message = response_message.split("'''")[1].strip('\n')
-            output = self.cursor.execute(response_message)
+            self.cursor.execute(response_message)
+            output = str(self.cursor.fetchall())
             return output
         
         except Exception as e:
