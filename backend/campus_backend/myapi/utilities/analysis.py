@@ -103,8 +103,6 @@ def get_response(tool=None, message_history=[], data_cursor=None):
                     function_args = json.loads(tool_call.function.arguments)
                     function_response = function_to_call(
                     query=function_args.get("query"),
-                    openai=openai_client,
-                    index=index,
                     chunks=chunks,
                     )
                 # Append the function response to the message history
