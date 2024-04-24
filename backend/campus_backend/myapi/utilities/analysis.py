@@ -4,11 +4,7 @@ from django.conf import settings
 
 
 #function that interacts with openai api
-def get_response(tool=None, message_history=[], data_cursor=None):
-    #get analysis_prompt.txt
-    openai_client = tool.openai_client 
-    groq_client = tool.groq_client
-    index = tool.index
+def get_response(tool=None, message_history=[]):
 
     file_path = os.path.join(settings.BASE_DIR, 'myapi/utilities/analysis_prompt.txt')
 
@@ -22,8 +18,6 @@ def get_response(tool=None, message_history=[], data_cursor=None):
         courses = json.load(file)
         file.close()
 
-    text = tool.extract_text(os.path.join(settings.BASE_DIR, 'myapi/utilities/course_info.txt'))
-    chunks = tool.chunk_text(text)
 
     if message_history[0]['role'] != 'system':
         message_history.insert(0, {"role": "system", "content": analysis_prompt})
@@ -70,7 +64,7 @@ def get_response(tool=None, message_history=[], data_cursor=None):
     while True:
         try:
             # Create the completion request
-            response = groq_client.chat.completions.create(
+            response = tool.groq_client.chat.completions.create(
                 messages=message_history,
                 #model="mixtral-8x7b-32768",
                 model="llama3-70b-8192",
@@ -100,6 +94,8 @@ def get_response(tool=None, message_history=[], data_cursor=None):
                         query=function_args.get("query"),
                     )
                 elif function_name == "retreive_major_info":
+                    text = tool.extract_text(os.path.join(settings.BASE_DIR, 'myapi/utilities/course_info.txt'))
+                    chunks = tool.chunk_text(text)
                     function_args = json.loads(tool_call.function.arguments)
                     function_response = function_to_call(
                     query=function_args.get("query"),
