@@ -76,6 +76,10 @@ class Tools:
                             start_time (varchar): Session Start Time (optional) (e.g. 9:10 AM)
                             end_time (varchar): Session End Time (optional) (e.g. 4:40 PM)
                             location (varchar): Session Location (e.g. LBART-121)
+                        You are expected to return the sql query in marks like this ```SELECT * FROM myapi_course WHERE course_code LIKE 'BIO%'```
+                        When unsure exactly what the user is asking for you can broaden your query to retrieve more data that would most likely contain what they are looking for.
+                        For example, the user may want to know information about an old testament course, but you don't know whether that's the actual name of the course.
+                        In this situation you should understand that old testament is most likely a theology course and you should query all theology courses.
                         Examples:
                            example query: 'All bio courses'
                            expected output: 'SELECT * FROM myapi_course WHERE course_code LIKE 'BIO%''
@@ -103,11 +107,14 @@ class Tools:
                 print('stripped\n')
             self.cursor.execute(response_message)
             print('executed\n')
-            output = str(self.cursor.fetchall())
-            print(output)
-            return output
+            if self.cursor is not None:
+                output = str(self.cursor.fetchall())
+                print(output)
+                return output
+            return 'No data found'
         
         except Exception as e:
+            self.initialize()
             return e
 
 
