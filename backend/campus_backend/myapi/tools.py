@@ -58,7 +58,7 @@ class Tools:
             response = self.groq_client.chat.completions.create(
                 messages=[{"role": "system", "content": """
                         Your job is to create SQL queries based on the user's requested information from a course database for Concordia University Irvine with the following structure:
-                        Courses
+                        myapi_course
                             crn (varchar): Course Registration Number (e.g. 32112)
                             course_code (varchar): Course Code (e.g. CSC-101-1)
                             title (varchar): Course Title (e.g. HISTORY/LITERATURE OT, FUNDAMENTALS  OF PROGRAMMING)
@@ -67,7 +67,7 @@ class Tools:
                             comments (text): Additional Comments (optional)
                             start_date (varchar): Course Start Date (e.g. 01/01/2024)
                             end_date (varchar): Course End Date (e.g. 05/01/2024)
-                        Sessions
+                        myapi_session
                             id (int): Unique Session ID
                             course_id (int): Foreign Key referencing the Courses table
                             start_date (varchar): Session Start Date (e.g. 01/01/2024)
@@ -78,19 +78,19 @@ class Tools:
                             location (varchar): Session Location (e.g. LBART-121)
                         Examples:
                            example query: 'All bio courses'
-                           expected output: 'SELECT * FROM Courses WHERE course_code LIKE "BIO%"'
+                           expected output: 'SELECT * FROM myapi_course WHERE course_code LIKE 'BIO%''
 
                            example query: 'All courses on Monday'
-                           expected output: 'SELECT * FROM Sessions WHERE meetday LIKE "%M%"'
+                           expected output: 'SELECT * FROM myapi_session WHERE meetday LIKE '%M%''
                            
                            example query: 'All courses at 2:00 PM'
-                           expected output: 'SELECT * FROM Sessions WHERE start_time = "2:00 PM"'
+                           expected output: 'SELECT * FROM myapi_session WHERE start_time = '2:00 PM''
                            
                            example query: 'All courses by Professor Smith'
-                           expected output: 'SELECT * FROM Courses WHERE professor LIKE "%Smith%"'
+                           expected output: 'SELECT * FROM myapi_course WHERE professor LIKE '%Smith%''
                            
                            example query: 'All theology classes on Tuesday'
-                           expected output: 'SELECT * FROM Sessions WHERE meetday LIKE "%T%" AND course_id IN (SELECT id FROM Courses WHERE course_code LIKE "THEO%")'
+                           expected output: 'SELECT * FROM myapi_session WHERE meetday LIKE '%T%' AND course_id IN (SELECT id FROM Courses WHERE course_code LIKE 'THEO%')'
                            """}, {"role": "user", "content": query}],
                 model="llama3-70b-8192"
             )
