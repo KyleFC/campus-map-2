@@ -1,64 +1,132 @@
 from selenium import webdriver
+from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.action_chains import ActionChains
 from webdriver_manager.chrome import ChromeDriverManager
-import re
 import os
 import time
+import re
+
+#normalize url to make sure we don't visit the same page twice because of a small difference in the url
+def normalize_url(url):
+    return re.sub(r'^https?://(www\.)?', '', url.rstrip('/').lower())
 
 def scrape_site(start_url, domain):
+    start_time = time.time()
     visited = set()
-    pages_to_visit_set = {start_url}
+    pages_to_visit_set = {normalize_url(start_url)}
     pages_to_visit = [start_url]
 
     # Set up the Chrome WebDriver
     service = Service(ChromeDriverManager().install())
     driver = webdriver.Chrome(service=service)
+    action = ActionChains(driver)
+    wait = WebDriverWait(driver, 3)
     count = 0
     while True:
         try:
-            print(count)
+            page_time = time.time()
             if pages_to_visit:
                 current_page = pages_to_visit.pop(0)
-                if current_page not in visited:
+                normalized_current = normalize_url(current_page)
+                if normalized_current not in visited:
+
                     driver.get(current_page)
-                    visited.add(current_page)
-                    visited.add(f"{current_page}/")
+                    if normalize_url(driver.current_url) in visited:
+                        print('Already visited:', current_page)
+                        continue
+
+                    visited.add(normalized_current)
+                    visited.add(normalized_current + '/')  # Handle both with and without trailing slash
                     print("Navigated to:", current_page)
 
-                    # Wait for JavaScript to load if necessary
-                    time.sleep(2)  # Adjust this sleep time as necessary for the site
-                
-                    # Process the page content
-                    text_content = driver.find_element("tag name", "body").text
-                    clean_text = text_content.encode('utf-8', 'ignore').decode('utf-8')
+                    wait.until(EC.presence_of_element_located((By.TAG_NAME, "body")))
+                    
+                    # Activate all dropdowns with the class 'togglebutton'
+                    
+                    dropdowns = driver.find_elements(By.CLASS_NAME, 'togglebutton')
+                    for dropdown in dropdowns:
+                        action.move_to_element(dropdown).click().perform()
+                        time.sleep(1)
+
+                    # Get the innerText of the body or any specific element
+                    body_element = driver.find_element(By.TAG_NAME, "body")
+                    text_content = body_element.get_attribute("innerText")
+
                     if not os.path.exists("output_folder"):
                         os.makedirs("output_folder")
 
-
                     # Save the text content to a file in the output folder
                     with open(os.path.join("output_folder", f"{count}_data.txt"), "w", encoding='utf-8') as file:
-                        # file will probably have some unknown chars so encode it to utf-8 and ignore the unknown chars
                         file.write(current_page + '\n')
-                        file.write(clean_text)
+                        file.write(text_content)
                         print("Wrote to file")
                     
                     count += 1
                     # Find all links on the page
-                    links = driver.find_elements("tag name", "a")
+                    links = driver.find_elements(By.TAG_NAME, "a")
                     for link in links:
                         href = link.get_attribute('href')
-                        #print(href)
                         if href:
-                            if domain in href and ('#' not in href) and ('.' not in href[-5:]) and href not in visited and href not in pages_to_visit_set:
+                            normalized_href = normalize_url(href)
+                            
+                            if domain in href and ('#' not in normalized_href) and ('.' not in normalized_href[-5:]) and normalized_href not in visited and normalized_href not in pages_to_visit_set:
                                 pages_to_visit.append(href)
-                                pages_to_visit_set.add(href)
+                                pages_to_visit_set.add(normalized_href)
 
                     print('Pages to visit length:', len(pages_to_visit))
+                    print("Time elapsed:", time.time() - page_time, "seconds")
             else:
+                print("FINISHED", time.time() - start_time, "seconds")
                 break
         except Exception as e:
-            print(e)
+            print(f"Error processing {current_page}: {e}")
     driver.quit()  # Make sure to close the driver
 
-# Example usage
-scrape_site('https://www.cui.edu/', 'https://www.cui.edu/')
+def clean_folder():
+    content_set = {}
+    files = os.listdir("output_folder")
+    files.sort(key=lambda x: int(x[:-9]))
+
+    for i, file in enumerate(files):
+        #print(i, file)
+        with open(os.path.join("output_folder", file), "r", encoding='utf-8') as f:
+            #first_line = f.readline()
+            content = f.read()
+            f.close()
+            #print(first_line)
+            """main_content = content[content.index('\n'):]
+            if main_content in content_set:
+                #os.remove(os.path.join("output_folder", file))
+                print("Removing file, already exists:", file, "in", content_set[main_content])
+                #next iteration
+                os.remove(os.path.join("output_folder", file))
+                continue
+            content_set[main_content] = file"""
+            
+            """if first_line[:20] != "https://www.cui.edu/" or '?' in first_line or '#' in first_line:
+                os.remove(os.path.join("output_folder", file))
+                print("Deleted:", file, first_line)"""
+            """if "coachs-playbook" in first_line:
+                os.remove(os.path.join("output_folder", file))
+                print("Deleted:", file, first_line)"""
+            """if "/post/" in first_line or '/news/' in first_line:
+                os.remove(os.path.join("output_folder", file))
+                print("Deleted:", file, first_line)"""
+            
+            #os.rename(os.path.join("output_folder", file), os.path.join("output_folder", f"{i}_data.txt"))
+            
+
+def summarizer():
+
+    pass
+if __name__ == '__main__':
+
+    #scrape_site('https://www.cui.edu/', 'https://www.cui.edu/')
+    #NOTES
+    #Maybe add the site that contained the url? could make a cool visual with the data.
+    clean_folder()
+
+    pass

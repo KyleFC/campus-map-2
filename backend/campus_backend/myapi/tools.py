@@ -76,10 +76,100 @@ class Tools:
                             start_time (varchar): Session Start Time (optional) (e.g. 9:10 AM)
                             end_time (varchar): Session End Time (optional) (e.g. 4:40 PM)
                             location (varchar): Session Location (e.g. LBART-121)
+                        Explain your thoughts step by step
                         You are expected to return the sql query in marks like this ```SELECT * FROM myapi_course WHERE course_code LIKE 'BIO%'```
                         When unsure exactly what the user is asking for you can broaden your query to retrieve more data that would most likely contain what they are looking for.
                         For example, the user may want to know information about an old testament course, but you don't know whether that's the actual name of the course.
                         In this situation you should understand that old testament is most likely a theology course and you should query all theology courses.
+                        all course code prefixes:
+                        INB
+                        MUBT
+                        CCI
+                        CBIO
+                        MUKC
+                        MUWC
+                        FIN
+                        MUBB
+                        MUWS
+                        PHI
+                        SPBU
+                        BIO
+                        HST
+                        CHST
+                        MUWO
+                        MUGB
+                        GRE
+                        NPHI
+                        MUGU
+                        BSC
+                        INT
+                        HCM
+                        MUVB
+                        MUVC
+                        CENG
+                        ACCM
+                        ART
+                        DCE
+                        REL
+                        THL
+                        PHY
+                        MKT
+                        MUCO
+                        LAT
+                        ENG
+                        EDLS
+                        SPA
+                        MUWF
+                        MUVH
+                        CED
+                        KIN
+                        MUE
+                        DAN
+                        NTHL
+                        MTH
+                        CPHI
+                        ANT
+                        MUBF
+                        SOC
+                        HEB
+                        ENGR
+                        MUWB
+                        MUKP
+                        ECO
+                        ACT
+                        IOP
+                        EDSP
+                        MUS
+                        MUVO
+                        BDA
+                        CHE
+                        MACL
+                        COM
+                        MGT
+                        CMTH
+                        PSY
+                        MUVA
+                        POL
+                        MUBU
+                        MUGC
+                        FDVP
+                        MUPE
+                        MUKO
+                        THR
+                        NUSA
+                        MUKI
+                        MUCS
+                        MUPD
+                        ATHL
+                        SCI
+                        MUVN
+                        WRT
+                        EDUC
+                        CTHL
+                        ARTG
+                        GCS
+                        BUS
+                        CSC
                         Examples:
                            example query: 'All bio courses'
                            expected output: 'SELECT * FROM myapi_course WHERE course_code LIKE 'BIO%''
@@ -116,48 +206,23 @@ class Tools:
         except Exception as e:
             self.initialize()
             return e
-
-
-    def time_to_datetime(self, time):
-        hour, minute = time.split(':')
-        minute, period = minute.split(' ')
-        hour = int(hour)
-        minute = int(minute)
-
-        if period == 'PM' and hour != 12:
-            hour += 12
-        elif period == 'AM' and hour == 12:
-            hour = 0
-
-        return datetime.datetime.now().replace(hour=hour, minute=minute, second=0, microsecond=0)
-
-    """def find_classes(self, courses, input_day=datetime.datetime.now().isoweekday(), input_time=datetime.datetime.now().strftime('%I:%M %p').upper()):
-        current_classes = []
-        days = {'Monday': 'M', 'Tuesday': 'T', 'Wednesday': 'W', 'Thursday': 'R', 'Friday': 'F', 'Saturday': 'S', 'Sunday': 'U',
-                0: 'M', 1: 'T', 2: 'W', 3: 'R', 4: 'F', 5: 'S', 6: 'U'}
         
-        if input_day in days:
-            input_day = days[input_day]
-        
-        def is_course_at_time(course_day, course_times, input_day, input_time):
-            if input_day not in course_day:
-                return False
-            if course_times == "TBA" or course_times == "By Arrangement":
-                return False
-            
-            start_time_str, end_time_str = course_times.split(' - ')
-            start_time = self.time_to_datetime(start_time_str)
-            end_time = self.time_to_datetime(end_time_str)
-            input_datetime = self.time_to_datetime(input_time)
+    def query_vector_database(self, query):
+        index = self.index
+        try:
+            # Generate the query vector using the model
+            query_vector = list(map(float, self.embed_text(query)))
 
-            return start_time <= input_datetime <= end_time
-
-        for course in courses:
-            if is_course_at_time(course['Meetday'], course['Times'], input_day, input_time):
-                #current_classes.append(course)
-                current_classes.append(f"Course: {course['Course']}\nTitle: {course['Title']}\nProfessor: {course['Professor']}\nTime: {course['Times']}\nLocation: {course['Location']}\n")
-
-        return current_classes"""
+            # Perform the query on the index
+            results = index.query(vector=query_vector, top_k=1)
+            match = results['matches'][0]
+            #ids in pinecone should correspond to filename
+            with open(os.path.join('output_folder', f"{match['id']}_data"), 'r', encoding='utf-8') as f:
+                text = f.read()
+            return text
+        except Exception as e:
+            self.initialize()
+            print("ERROR", e)    
 
     def extract_text(self, file_path):
         with open(file_path, 'r', encoding='utf-8') as f:

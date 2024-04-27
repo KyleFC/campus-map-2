@@ -3,10 +3,11 @@
 # dependencies
 /.pnp
 .pnp.js
-
+summary_folder
+output_folder
 # testing
 /coverage
-
+vector_creator.py
 #outer functions
 class_info_parser.py
 # production

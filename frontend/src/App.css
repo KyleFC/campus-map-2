@@ -64,14 +64,14 @@ ul {
   display: flex;
   justify-content: space-between; /* Space between the logo and nav items */
   align-items: center; /* Align items vertically */
-  height: 60px; /* Set the height of the navbar */
+  height: 40px; /* Set the height of the navbar */
 }
 
 .navbar-brand {
   color: white;
 }
 .navbar-brand img {
-  height: 50px;
+  height: 33px;
 }
 .navbar-nav {
   display: flex;

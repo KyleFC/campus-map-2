@@ -37,6 +37,23 @@ def get_response(tool=None, message_history=[]):
         {
             "type": "function",
             "function": {
+                "name": "query_vector_database",
+                "description": "obtain information regarding concordia by taking a query and semantic searching a vector database",
+                "parameters": {
+                    "type": "object",
+                    "properties": {
+                        "query": {
+                            "type": "string",
+                            "description": "The information you hope to get from the database (e.g. Computer Science faculty, President Thomas, application deadline, gala of the stars, campus events)",
+                        }
+                    },
+                    "required": ["query"],
+                },
+            },
+        },
+        """{
+            "type": "function",
+            "function": {
                 "name": "retreive_major_info",
                 "description": "Retreive information about a major or course",
                 "parameters": {
@@ -50,7 +67,7 @@ def get_response(tool=None, message_history=[]):
                     "required": ["query"],
                 },
             },
-        },
+        },"""
         
     ]
 
@@ -75,7 +92,7 @@ def get_response(tool=None, message_history=[]):
 
             available_functions = {
                 "query_course_database": tool.query_course_database,
-                "retreive_major_info": tool.retreive_major_info,
+                #"retreive_major_info": tool.retreive_major_info,
             }
             # Process each tool call
             for tool_call in tool_calls:
@@ -86,14 +103,19 @@ def get_response(tool=None, message_history=[]):
                     function_response = function_to_call(
                         query=function_args.get("query"),
                     )
-                elif function_name == "retreive_major_info":
+                elif function_name == "query_vector_database":
+                    function_args = json.loads(tool_call.function.arguments)
+                    function_response = function_to_call(
+                        query=function_args.get("query"),
+                    )
+                """elif function_name == "retreive_major_info":
                     text = tool.extract_text(os.path.join(settings.BASE_DIR, 'myapi/utilities/course_info.txt'))
                     chunks = tool.chunk_text(text)
                     function_args = json.loads(tool_call.function.arguments)
                     function_response = function_to_call(
                     query=function_args.get("query"),
                     chunks=chunks,
-                    )
+                    )"""
                 # Append the function response to the message history
                 message_history.append(
                     {
