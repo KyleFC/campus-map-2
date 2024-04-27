@@ -1,23 +1,38 @@
 {
   "files": {
-    "main.css": "/campus-map-2/static/css/main.1ac78bfa.css",
-    "main.js": "/campus-map-2/static/js/main.d5c8a73e.js",
+    "main.css": "/campus-map-2/static/css/main.375c91aa.css",
+    "main.js": "/campus-map-2/static/js/main.8ad70563.js",
     "static/js/453.566b6941.chunk.js": "/campus-map-2/static/js/453.566b6941.chunk.js",
     "static/media/osm2.png": "/campus-map-2/static/media/osm2.d52f02807b19fbee3e38.png",
+    "static/media/cu_arena.jpg": "/campus-map-2/static/media/cu_arena.c3c439fd47cf52222b40.jpg",
+    "static/media/breezeway.jpg": "/campus-map-2/static/media/breezeway.4cf228f8cb0a614aab22.jpg",
+    "static/media/gsc.jpg": "/campus-map-2/static/media/gsc.3fe0baba4e2a8c3dd9d3.jpg",
+    "static/media/cuc.jpg": "/campus-map-2/static/media/cuc.d2f13b53953ca9c53ae3.jpg",
+    "static/media/sigma.jpg": "/campus-map-2/static/media/sigma.68a52d420eb1d40663bd.jpg",
+    "static/media/founders.jpg": "/campus-map-2/static/media/founders.29d1f5dfe9a23aec030f.jpg",
+    "static/media/alpha.jpg": "/campus-map-2/static/media/alpha.afe733948e8c5cc59368.jpg",
+    "static/media/theatre.jpg": "/campus-map-2/static/media/theatre.b02480e4d6f3cb7a5c25.jpg",
+    "static/media/lowers.jpg": "/campus-map-2/static/media/lowers.70a37f1beb08502a0313.jpg",
     "static/media/library-cs.jpg": "/campus-map-2/static/media/library-cs.eecf21bcc9b07d179e03.jpg",
-    "static/media/buildings_icon.png": "/campus-map-2/static/media/buildings_icon.4a7d14abb6349f17327d.png",
+    "static/media/rho.jpg": "/campus-map-2/static/media/rho.14d8a14f26769b18e579.jpg",
+    "static/media/grimm.jpg": "/campus-map-2/static/media/grimm.cec29f2b58fb69581a77.jpg",
+    "static/media/student-union.jpg": "/campus-map-2/static/media/student-union.801c7f23804e419ec824.jpg",
     "static/media/bmc-outside.jpg": "/campus-map-2/static/media/bmc-outside.8bb542db918e943615ab.jpg",
+    "static/media/admin.jpg": "/campus-map-2/static/media/admin.a8907f98a6b68c651041.jpg",
+    "static/media/library.jpg": "/campus-map-2/static/media/library.bdc869feb265cbefddaf.jpg",
+    "static/media/buildings_icon.png": "/campus-map-2/static/media/buildings_icon.231df30bf8eaf607b1f5.png",
     "static/media/housing_icon.png": "/campus-map-2/static/media/housing_icon.f48e70aa347737cfa782.png",
     "static/media/athletics_icon.png": "/campus-map-2/static/media/athletics_icon.2bb5b9a7314098fe9d12.png",
+    "static/media/uppers.jpg": "/campus-map-2/static/media/uppers.dd330f05a336b1baebc8.jpg",
     "static/media/logo.svg": "/campus-map-2/static/media/logo.512ee13295cef0d5e05ebe227a6ffd1e.svg",
     "static/media/search.svg": "/campus-map-2/static/media/search.c65f18b23bd3fb764688fff79e99940d.svg",
     "index.html": "/campus-map-2/index.html",
-    "main.1ac78bfa.css.map": "/campus-map-2/static/css/main.1ac78bfa.css.map",
-    "main.d5c8a73e.js.map": "/campus-map-2/static/js/main.d5c8a73e.js.map",
+    "main.375c91aa.css.map": "/campus-map-2/static/css/main.375c91aa.css.map",
+    "main.8ad70563.js.map": "/campus-map-2/static/js/main.8ad70563.js.map",
     "453.566b6941.chunk.js.map": "/campus-map-2/static/js/453.566b6941.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ac78bfa.css",
-    "static/js/main.d5c8a73e.js"
+    "static/css/main.375c91aa.css",
+    "static/js/main.8ad70563.js"
   ]
 }
