@@ -8,6 +8,7 @@ def extract_text_line_by_line(pdf_path):
 
     for page in doc:
         blocks = page.get_text("blocks")
+        #sort blocks by y position then x position
         blocks.sort(key=lambda block: (block[1], block[0]))
         for block in blocks:
             text_blocks.append(block[4])
