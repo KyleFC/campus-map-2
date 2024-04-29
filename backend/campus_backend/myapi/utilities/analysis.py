@@ -41,13 +41,13 @@ def get_response(tool=None, message_history=[]):
             "type": "function",
             "function": {
                 "name": "query_vector_database",
-                "description": "obtain information regarding concordia. The function will return relevant information",
+                "description": "obtain information regarding concordia. The function will return relevant information. It's best to give it multiple keywords to get the best results.",
                 "parameters": {
                     "type": "object",
                     "properties": {
                         "query": {
                             "type": "string",
-                            "description": "The information you hope to get from the database (e.g. Computer Science faculty, President Thomas background, Professor Boleman, application deadline, gala of the stars, campus events, Borland Manske Center)",
+                            "description": "The information you hope to get from the database (e.g. Computer Science faculty, President Thomas background, Professor Boleman Computer Science faculty, undergraduate application deadline, gala of the stars event, campus events, Borland Manske Center)",
                         }
                     },
                     "required": ["query"],

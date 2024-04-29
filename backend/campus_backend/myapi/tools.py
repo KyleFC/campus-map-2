@@ -166,23 +166,7 @@ class Tools:
                         ARTG
                         GCS
                         BUS
-                        CSC
-                        Examples:
-                           example query: 'All bio courses'
-                           expected output: ```SELECT * FROM myapi_course WHERE course_code LIKE 'BIO%'```
-
-                           example query: 'All courses on Monday'
-                           expected output: ```SELECT * FROM myapi_session WHERE meetday LIKE '%M%'```
-                           
-                           example query: 'All courses at 2:00 PM'
-                           expected output: ```SELECT * FROM myapi_session WHERE start_time = '2:00 PM'```
-                           
-                           example query: 'All courses by Professor Smith'
-                           expected output: ```SELECT * FROM myapi_course WHERE professor LIKE '%Smith%'```
-                           
-                           example query: 'All theology classes on Tuesday'
-                           expected output: ```SELECT * FROM myapi_session WHERE meetday LIKE '%T%' AND course_id IN (SELECT id FROM Courses WHERE course_code LIKE 'THEO%')```
-                           """}, {"role": "user", "content": query}],
+                        CSC"""}, {"role": "user", "content": query}],
                 model="mixtral-8x7b-32768",
                 max_tokens=1000,
             )
