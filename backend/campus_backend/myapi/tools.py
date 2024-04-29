@@ -52,7 +52,6 @@ class Tools:
 
     def query_course_database(self, query):
         try:
-            # Create the completion request
             response = self.groq_client.chat.completions.create(
                 messages=[{"role": "system", "content": """
                         Your job is to create SQL queries based on the user's requested information from a course database for Concordia University Irvine with the following structure:
@@ -198,7 +197,17 @@ class Tools:
             if self.cursor is not None:
                 output = str(self.cursor.fetchall())
                 print(output)
-                return output
+                response = self.groq_client.chat.completions.create(
+                messages=[{"role": "system", "content": f"""
+                        Your role is to extract the most relevant information from a given SQL output.
+                        This information will be used as context or data that can answer multiple questions relating to what the user asked.
+                        Data:
+                        {output}"""}, {"role": "user", "content": f"Query: {query}"}],
+                model="llama3-8b-8192"
+            )
+                response_message = response.choices[0].message.content
+                print("sql response", response_message)
+                return response_message
             return 'No data found'
         
         except Exception as e:
@@ -208,10 +217,8 @@ class Tools:
     def query_vector_database(self, query):
         index = self.index
         try:
-            # Generate the query vector using the model
             query_vector = list(map(float, self.embed_text(query)))
 
-            # Perform the query on the index
             results = index.query(vector=query_vector, top_k=1)
             match = results['matches'][0]
             #ids in pinecone should correspond to filename
@@ -224,11 +231,11 @@ class Tools:
                         This information will be used as context or data that can answer multiple questions relating to what the user asked.
                         Context:
                         {text}"""}, {"role": "user", "content": f"Query: {query}"}],
-                model="llama3-70b-8192"
+                model="llama3-8b-8192"
             )
             response_message = response.choices[0].message.content
             print("vector response", response_message)
-            return text
+            return response_message
         
         except Exception as e:
             self.initialize()
@@ -260,10 +267,9 @@ class Tools:
         """
         index = self.index
         try:
-            # Generate the query vector using the model
+            #generate the query vector using the model
             query_vector = list(map(float, self.embed_text(query)))
 
-            # Perform the query on the index
             results = index.query(vector=query_vector, top_k=1)
             match = results['matches'][0]
             """context = []
