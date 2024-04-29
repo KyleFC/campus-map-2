@@ -115,13 +115,30 @@ def clean_folder():
             """if "/post/" in first_line or '/news/' in first_line:
                 os.remove(os.path.join("output_folder", file))
                 print("Deleted:", file, first_line)"""
-            
+            footer = """Concordia University Irvine is a private, Christian university that is ranked nationally among the "Top Performers on Social Mobility" universities by U.S. News & World Report. Concordia is accredited by WASC Senior College and University Commission (WSCUC) and serves over 5,000 students annually.
+
+Concordia University Irvine
+1530 Concordia West
+Irvine, CA, USA 92612
+
+(949) 854-8002
+info@cui.edu
+
+© 1998-2024 Concordia University Irvine | Privacy Statement | Terms of Use | Accessibility"""
+            """if footer in content:
+                with open(os.path.join("output_folder", file), "w", encoding='utf-8') as f:
+                    f.write(content[:content.index(footer)])
+                print('Removed footer from:', file)"""
             #os.rename(os.path.join("output_folder", file), os.path.join("output_folder", f"{i}_data.txt"))
+            if len(content) > 5000:
+                overlap = 1000
+                chunks = [content[i:i+5000] for i in range(0, len(content)-overlap, 5000-overlap)]
+                for j, chunk in enumerate(chunks):
+                    with open(os.path.join("output_folder", f"{file[:-9]}_{j}_data.txt"), "w", encoding='utf-8') as f:
+                        f.write(chunk)
+                        f.close()
             
 
-def summarizer():
-
-    pass
 if __name__ == '__main__':
 
     #scrape_site('https://www.cui.edu/', 'https://www.cui.edu/')

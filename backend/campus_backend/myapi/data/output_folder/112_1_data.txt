@@ -1,0 +1,77 @@
+ project as a part of their degree requirements. Internships are designed to produce graduates who are equipped intellectually and experientially to excel in graduate and professional degree programs or in the workplace. Below are just a few examples of where our students have interned:
+
+Pacific Life Insurance
+L-3 Aerospace Communications
+Scholarships
+Departmental Award
+President Honors Scholarship
+Graduate Schools Attended
+
+Many of our alumni in the natural sciences continue their education in graduate school. Concordia has proudly placed graduates in first-class PhD programs ranging from material science and nuclear chemistry to food science and chemical engineering.
+
+California State East Bay
+Colorado University - Denver
+University of California Irvine
+Würzburg University - Germany
+Notre Dame
+Washington State University
+Where Our Alumni Are Working
+United Healthcare
+PacificLife
+Orange Lutheran High School
+Centennial High School, Corona
+Tustin Unified High School
+Foothill High School, Tustin
+Long Beach State University
+L-3 Aerospace Communications
+Curriculum
+
+The Concordia mathematics program provides you with a background for continued studies in mathematics, business, and other science-related fields. Students anticipating doing graduate work in mathematics leading towards careers in teaching at the college level or in business should consider adding to their basic major courses in order to strengthen their background and foundation.
+
+SAMPLE COURSES
+Units
+CSC 104: Fundamentals of Programming
+4
+
+This course covers the basic principles of computer programming and algorithm design using the C# programming language. The class addresses basic language syntax, branching, looping, exceptions, I/O, string processing, best practices, and tools for writing quality computer programs. It also introduces the process of turning a program that was written in a high-level language into an intermediate language and how the operating system then loads and executes it. Students in the class will be able to write elementary programs that will run on the Microsoft .NET Framework and the open source equivalent, Mono.
+
+
+MTH 371: Linear Algebra
+3
+
+This course will study properties of matrix arithmetic, systems of linear equations, determinants, vector spaces, linear transformations, diagonalization, inner products, and applications of these topics. Prerequisite: C- or better in MTH 272.
+
+
+MTH 387: Probability and Statistics I
+3
+
+This course will look at the probability and combinatorics; discrete and continuous random variables; the normal, gamma, Chi-square, Poisson, and binomial distributions with applications. Prerequisite: C- or better in MTH 373 (concurrent enrollment allowed). Offered alternate years.
+
+
+MTH 489: Real Analysis
+3
+
+This course will provide an introduction to the advanced study of the real number system, and the ideas and proof techniques specific to mathematical analysis. Topics include properties of the real numbers, sequences, series, limits, continuity, and differentiation. Prerequisite: C- or better in MTH 313 and MTH 373. Offered alternate years.
+
+
+VIEW FULL CURRICULUM
+
+Meet Your Professors
+
+An education in mathematics doesn’t end with a diploma, but launches a student into new opportunities for exploration. Here at Concordia, students have the opportunity to develop a deep and long-lasting relationship with faculty members who are both experts in their field and Christians living their lives of faith in God’s grace and forgiveness.
+
+Professor Julie Melberg
+Department Chair, Professor of Mathematics
+
+Professor Julie Melberg joined the Concordia mathematics faculty in 2010. Professor Melberg enjoys teaching mathematics at Concordia University Irvine, teaching Core Mathematics classes as well as courses for the Mathematics major. Her teaching and research focus on inquiry-based learning and encouraging students to develop life-long thinking skills.
+
+Dr. Melinda Schulteis
+Professor of Mathematics
+
+Dr. Melinda Schulteis ’95, has been teaching mathematics at Concordia University since 1997.  Dr. Schulteis earned her Ph.D. in mathematics from the University of California, Irvine in 2004, working in an area of Mathematical Analysis related to mathematical physics.  Dr. Schulteis enjoys working with undergraduate students, and she has sponsored dozens of undergraduate research projects in Concordia’s Academic Showcase of Undergraduate Research.   Her recent conference presentations center on implementation of Active Learning techniques in upper level mathematics classes. Her favorite math topic to teach is the Fibonacci sequence because of its beautiful mathematical patterns and numerous connections to nature.
+
+More Faculty
+
+One of our greatest assets at Concordia University Irvine is our dedicated faculty. In a small learning environment, our professors care about you—not just your performance—and they cultivate lifelong mentoring relationships with the students they teach.
+
+MATHEMATICS FACULTY TALK TO A PROF

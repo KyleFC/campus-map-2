@@ -1,0 +1,97 @@
+https://www.cui.edu/academicprograms/undergraduate/minors/mathematics
+Skip to Main Content
+
+Search
+Undergraduate
+Academics 
+Campus Life 
+Tuition & Financial Aid
+Admission 
+Contact 
+Apply Now
+Mathematics Minor
+Related Majors
+Related Minors 
+Get Started
+Mathematics Minor
+SCHOOL OF ARTS AND SCIENCES
+ 
+ 
+ 
+ Apply Now  Visit Concordia  Talk to a Counselor  Request Info  Virtual Tour  Deposit
+The Value of a College Minor
+
+By declaring a minor, you’ll have the opportunity to pursue interests that might lie outside of your major. Gaining extra knowledge in an area that interests you can also help you in your future career! Not only will your skills and knowledge be more well-rounded, but you’ll also prove to future employers that you’re willing to work hard and exceed their expectations.
+
+Mathematics Minor
+MATHEMATICS MINOR
+17-18 Units
+MTH 271: Calculus I
+4
+
+This course will study differential and integral calculus in one variable through graphical, numerical and symbolic methods. Limits, continuity, derivatives, and integrals will be studied with algebraic, trigonometric, exponential and logarithmic functions, including applications using calculus to solve problems. Prerequisite: A passing score on the Calculus Placement Exam, or consent of the department chair.
+
+MTH 272: Calculus II
+4
+
+A continuation of MTH 271, this course will include a study of methods of integration, applied to algebraic and transcendental functions. Solids of revolution, definite and indefinite integrals, Taylor polynomials, sequences and series, will be studied including applications using calculus to solve problems. Prerequisite: C- or better in MTH 271 or acceptable AP examination credit.
+
+Choose three of the following courses:
+MTH 313: Mathematics Notation and Proof
+3
+
+This course will introduce standard mathematical notation, methods, truth tables, and principles of symbolic logic for use in determining the validity of arguments, dealing with proper notation and structure in mathematical proofs including direct and indirect proofs, mathematical induction, and construction of counter-examples. Application will be made to a field of mathematics such as set theory, algebra, or geometry. Prerequisite: C- or better in MTH 272.
+
+
+MTH 371: Linear Algebra
+3
+
+This course will study properties of matrix arithmetic, systems of linear equations, determinants, vector spaces, linear transformations, diagonalization, inner products, and applications of these topics. Prerequisite: C- or better in MTH 272.
+
+
+MTH 373: Calculus III
+4
+
+As a continuation of MTH 272, this course will include the study of vector calculus, three-dimensional calculus, partial derivatives, multiple integrals, differential calculus, and other selected topics in vector calculus. Prerequisite: C- or better in MTH 272.
+
+
+MTH 379: Numerical Analysis
+3
+
+This course serves as an introduction to the basic algorithms of numerical analysis. Topics may include numerical solutions of algebraic equations, interpolation and approximation methods, approximate numerical solutions to systems of linear and non-linear equations, and numerical differentiation and integration. Prerequisite: C- or better in CSC 104 and MTH 272. Offered alternate years.
+
+
+MTH 380: Modern Geometry
+3
+
+This course will provide a general study of deductive systems of geometry including Euclidean, projective, finite, and other non-Euclidean geometries. Offered alternate years. Prerequisite: C- or better in AMTH 101 or CMTH 101 or MTH 201 or MTH 252 or MTH 271 or equivalent.
+
+
+MTH 384: Ordinary Differential Equations
+3
+
+This course will cover the classification of differential equations along with first order equations, exact differentials, integrating factors, higher order differential equations, method of undetermined coefficients, variation of parameters, operator methods, solution by infinite series, and Laplace transformations. Prerequisite: C- or better in MTH 272. Offered alternate years.
+
+
+MTH 387: Probability and Statistics I
+3
+
+This course will look at the probability and combinatorics; discrete and continuous random variables; the normal, gamma, Chi-square, Poisson, and binomial distributions with applications. Prerequisite: C- or better in MTH 373 (concurrent enrollment allowed). Offered alternate years.
+
+
+MTH 388: Probability and Statistics II
+3
+
+A continuation of MTH 387, this course will cover various multivariate probability distributions, bias and unbiased estimators, Least Square estimation, ANOVA , Block Designs, and a revisit of hypothesis testing and a study of nonparametric statistics. Prerequisite: C- or better in MTH 387. Offered alternate years.
+
+
+MTH 473: Modern Algebra I
+3
+
+This course will study the properties and operations within groups, rings, integral domains, fields, normal subgroups, quotient groups, homomorphisms, and isomorphisms. Prerequisite: C- or better in MTH 313. Offered alternate years.
+
+
+MTH 474: Modern Algebra II
+3
+
+This course is a continuation of the study of the properties and

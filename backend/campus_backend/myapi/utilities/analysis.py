@@ -38,7 +38,7 @@ def get_response(tool=None, message_history=[]):
             "type": "function",
             "function": {
                 "name": "query_vector_database",
-                "description": "obtain information regarding concordia by taking a query and semantic searching a vector database",
+                "description": "obtain information regarding concordia. The function will return relevant information",
                 "parameters": {
                     "type": "object",
                     "properties": {

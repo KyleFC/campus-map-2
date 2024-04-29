@@ -1,12 +1,10 @@
-#create a class tools that will contain all functions groq needs
-import re
-import concurrent.futures
-import datetime
 import os
 from openai import OpenAI
 from pinecone import Pinecone
 from groq import Groq
 from django.db import connections
+from django.conf import settings
+
 
 class Tools:
     def __init__(self):
@@ -217,9 +215,21 @@ class Tools:
             results = index.query(vector=query_vector, top_k=1)
             match = results['matches'][0]
             #ids in pinecone should correspond to filename
-            with open(os.path.join('output_folder', f"{match['id']}_data"), 'r', encoding='utf-8') as f:
+            with open(os.path.join(settings.BASE_DIR, 'myapi/data/output_folder', f"{match['id']}.txt"), 'r', encoding='utf-8') as f:
                 text = f.read()
+                f.close()
+            response = self.groq_client.chat.completions.create(
+                messages=[{"role": "system", "content": f"""
+                        Your role is to extract the most relevant information from a given text based on the user query.
+                        This information will be used as context or data that can answer multiple questions relating to what the user asked.
+                        Context:
+                        {text}"""}, {"role": "user", "content": f"Query: {query}"}],
+                model="llama3-70b-8192"
+            )
+            response_message = response.choices[0].message.content
+            print("vector response", response_message)
             return text
+        
         except Exception as e:
             self.initialize()
             print("ERROR", e)    
@@ -229,93 +239,10 @@ class Tools:
             text = f.read()
         return text
 
-    def chunk_text(self, text):
-        major_info = ''
-        chunks = []
-        for line in text.split('\n'):
-            # major is indicated by major name (major shortened)
-            if re.match(r'(?!\d).*\(([A-Z]{3,})\)$|^([A-Za-z]*: [A-Za-z]*)$', line):
-                if major_info:
-                    chunks.append(f"{major_info}")
-                major_info = f'{line}\n'
-            else:
-                major_info = f"{major_info} {line}"
-        return chunks
-
     def embed_text(self, text):
         openai_client = self.openai_client
         embedding = openai_client.embeddings.create(input=text, model='text-embedding-3-large').data[0].embedding
         return embedding
-
-    def process_chunk(self, chunk):
-        """
-        This function processes a chunk of data, transforms it into embeddings using a model,
-        and ensures the dimensionality of the resulting vector matches the expected dimensionality.
-
-        Args:
-            chunk (str): The chunk of data to be processed.
-            model (Model): The model used to transform the chunk into embeddings.
-            expected_dim (int): The expected dimensionality of the resulting vector.
-
-        Returns:
-            list: The resulting vector with its values converted to floats.
-        """
-
-        # Use the model to transform the chunk into embeddings and extract the 'embedding' value
-
-        vector = self.embed_text(chunk)
-
-        # Convert the vector values to floats and return the result
-        return list(map(float, vector))
-
-    def upsert_embeddings(self, chunks):
-        """
-        This function is used to upsert (update or insert) embeddings into a given index.
-
-        Parameters:
-        index (object): The index object where the embeddings are to be upserted.
-        chunks (list): The list of chunks to be processed.
-        model (object): The model used to process the chunks.
-        expected_dim (int): The expected dimension of the embeddings.
-
-        Returns:
-        None
-        """
-        index = self.index
-        openai = self.openai_client
-        try:
-            # Create a ThreadPoolExecutor
-            with concurrent.futures.ThreadPoolExecutor() as executor:
-                # Log the start of the upsert process
-                print('upserting vectors...')
-                # Initialize an empty list to hold futures
-                futures = []
-
-                # Iterate over each chunk
-                for i, chunk in enumerate(chunks):
-                    # Log the current chunk being processed
-                    print('uploading vector for chunk', i)
-                    # Submit the chunk to the executor for processing and get a future
-                    future = executor.submit(self.process_chunk, chunk, openai)
-
-                    # Append the future to the list of futures
-                    futures.append((str(i), future))
-
-                # Iterate over each future
-                for chunk_id, future in futures:
-                    print('processing chunk', chunk_id)
-                    # Get the result from the future
-                    vector = future.result()
-                    # Upsert the vector into the index
-                    try:
-                        index.upsert(vectors=[(chunk_id, vector)])
-                    except:
-                        print("ERROR")
-                    print("upserted ", chunk_id)
-
-        except Exception as e:
-            # Log any errors that occur during the upsert process
-            print("ERROR", e)
 
     def retreive_major_info(self, query, chunks):
         """
