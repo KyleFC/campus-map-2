@@ -51,26 +51,8 @@ def get_response(tool=None, message_history=[]):
                 },
             },
         },
-        """{
-            "type": "function",
-            "function": {
-                "name": "retreive_major_info",
-                "description": "Retreive information about a major or course",
-                "parameters": {
-                    "type": "object",
-                    "properties": {
-                        "query": {
-                            "type": "string",
-                            "description": "The query to perform (e.g. 'Computer Science', 'SCI 115', 'Advanced Research Methods')",
-                        },
-                    },
-                    "required": ["query"],
-                },
-            },
-        },"""
-        
     ]
-
+    
     while True:
         try:
             # Create the completion request
@@ -116,6 +98,23 @@ def get_response(tool=None, message_history=[]):
                     query=function_args.get("query"),
                     chunks=chunks,
                     )"""
+                """{
+            "type": "function",
+            "function": {
+                "name": "retreive_major_info",
+                "description": "Retreive information about a major or course",
+                "parameters": {
+                    "type": "object",
+                    "properties": {
+                        "query": {
+                            "type": "string",
+                            "description": "The query to perform (e.g. 'Computer Science', 'SCI 115', 'Advanced Research Methods')",
+                        },
+                    },
+                    "required": ["query"],
+                },
+            },
+        },"""
                 # Append the function response to the message history
                 message_history.append(
                     {
