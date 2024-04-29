@@ -44,7 +44,7 @@ def get_response(tool=None, message_history=[]):
                     "properties": {
                         "query": {
                             "type": "string",
-                            "description": "The information you hope to get from the database (e.g. Computer Science faculty, President Thomas, application deadline, gala of the stars, campus events)",
+                            "description": "The information you hope to get from the database (e.g. Computer Science faculty, President Thomas, Professor Boleman, application deadline, gala of the stars, campus events, Borland Manske Center)",
                         }
                     },
                     "required": ["query"],
