@@ -1,0 +1,84 @@
+e, and camera functions with digital cameras, including software basics for photographic imaging and digital printing. Class fee: $50. This course is offered alternate years in fall semester.
+
+
+CSC 104: Fundamentals of Programming
+4
+
+This course covers the basic principles of computer programming and algorithm design using the C# programming language. The class addresses basic language syntax, branching, looping, exceptions, I/O, string processing, best practices, and tools for writing quality computer programs. It also introduces the process of turning a program that was written in a high-level language into an intermediate language and how the operating system then loads and executes it. Students in the class will be able to write elementary programs that will run on the Microsoft .NET Framework and the open source equivalent, Mono.
+
+
+ARTG 472: Web Design I
+3
+
+Students will plan and execute a site map and design brief, create a website using industry-standard software, and publish it to a server. Emphasis is placed on the layout, color, typography, interactive elements, and user experience. Class fee: $50. This course is offered every fall semester. Prerequisite: ARTG 361 or consent of instructor.
+
+
+CSC 210: Introduction to Operating Systems
+3
+
+This course examines the functional components of computer systems, including their hardware implementation and management at different levels, and their interaction, characteristics, and performance. The course will include process management, I/O devices, interrupt structures, resource and memory management, and file systems. Prerequisite: C- or better in CSC 104.
+
+
+Current students, please note: The requirements listed here may not reflect the most current courses for this major and may not be the requirements for the catalog year you are following to complete your major. Please refer to the Academic Catalog for official requirements you must meet to qualify for a degree.
+
+Get Started
+Request Info
+
+Provide us your contact information, and one of our admissions counselors will be happy to send you more information about our programs.
+
+First Name
+Last Name
+Email
+
+REQUEST INFO
+
+Schedule a Visit
+
+Attend an information meeting online or face-to-face. We will discuss the application process, financial aid, payment plans, and more.
+
+SEP
+
+14
+
+USA Cheer and Stunt Combine
+September 14, 7:00 AM
+CU Arena (Gym)
+
+SCHEDULE A VISIT
+
+Apply Now
+
+Are you ready to get started? Our online application is available 24/7. Begin your journey now and hear from a counselor once you finish.
+
+APPLY NOW
+
+Explore the Opportunities
+Apply Now
+Visit Concordia
+Talk to a Counselor
+Request Info
+Virtual Tour
+Deposit
+Concordia University Irvine Footer
+Connect
+University Events
+Resources
+Campus Map
+Employment
+MyCUI
+Parents
+Pay Tuition Online
+Press Room
+Sitemap
+Veterans Resource Center
+Services
+Academic Advising
+Bursar's Office
+Campus Safety
+Financial Aid
+at Concordia University Irvine
+Library
+Brand and Marketing Resources
+Registrar
+University Services
+

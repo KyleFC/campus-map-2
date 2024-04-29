@@ -1,0 +1,69 @@
+at come with bargain computers.
+
+Our students report that it is a big benefit to have an external mouse and reasonably-sized display monitor in their dorm rooms, but this is not a requirement.
+
+Most Chromebooks, iPads, and other tablets will not work because they do not allow you to install the proper development tools or only provide limited functionality. A few highly skilled students have managed to get by with a combination of a high-end Chromebook and the desktop computers that are available 24/7 in our computer science and engineering labs; however, this setup is discouraged.
+
+Curriculum
+
+The Computer Science major endeavors to prepare you with in-demand hard and soft skills for work vocations involving computers and technology in the 21st century.
+
+COMPUTER SCIENCE SAMPLE COURSES
+CSC 104: Fundamentals of Programming
+4
+
+This course covers the basic principles of computer programming and algorithm design using the C# programming language. The class addresses basic language syntax, branching, looping, exceptions, I/O, string processing, best practices, and tools for writing quality computer programs. It also introduces the process of turning a program that was written in a high-level language into an intermediate language and how the operating system then loads and executes it. Students in the class will be able to write elementary programs that will run on the Microsoft .NET Framework and the open source equivalent, Mono.
+
+CSC 105: Web Design
+3
+
+This course introduces contemporary web design. Students will learn basic HTML and CSS for building static web pages. The course will include JavaScript, jQuery, Bootstrap, and JSON to build an interactive website. Students will also learn about responsive web design and user experience concepts.
+
+
+CSC 210: Introduction to Operating Systems
+3
+
+This course examines the functional components of computer systems, including their hardware implementation and management at different levels, and their interaction, characteristics, and performance. The course will include process management, I/O devices, interrupt structures, resource and memory management, and file systems. Prerequisite: C- or better in CSC 104.
+
+
+CSC 214: Programming Languages
+3
+
+This course examines disciplined programming using a high-level language with specific emphasis on program design, style, efficiency and documentation. Topics include syntax and semantics, statement and subprogram control, data types and data control, design and implementation issues and source control.
+
+CSC 428: Information Security
+3
+
+This course examines the fundamentals of information and web security. Topics will include practices of computer system security, operating system security, network security, software security, web security and cryptography algorithms. Offered alternate years. Prerequisites: C- or better in CSC 210 and CSC 316.
+
+
+VIEW FULL CURRICULUM
+
+Meet Your Professors
+
+As a Computer Science major at Concordia, you will find that our qualified faculty are not only adept at teaching concepts and theories, they also care about your interests and goals and prepare you for your career by helping you develop employable skills.
+
+Julie Melberg
+Department Chair
+
+Professor Julie Melberg joined the Concordia mathematics faculty in 2010. Professor Melberg enjoys teaching mathematics at Concordia University Irvine, teaching Core Mathematics classes as well as courses for the Mathematics and Computer Science majors. Her teaching and research focus on inquiry-based learning and encouraging students to develop life-long thinking skills.
+
+Professor Joshua Tallman
+Assistant Professor of Computer Science & Program Director
+
+Professor Joshua Tallman joined the Concordia University faculty in 2019 as part of the Computer Science Department. He holds a Master's degree in Computer Science from Johns Hopkins University with a BA in Computer Engineering. Professor Tallman has 15+ years of experience working as a programmer and analyst in the field of computer security. He has held positions within the Department of Defense working in Maryland, Germany, and the United Kingdom, as well as working as an independent contractor for Dragos, Inc., a company specializing in security for Industrial Control Systems. 
+
+Matthew Cserhati
+Associate Professor of Computer Science
+
+Dr. Matthew Cserhati is associate professor in the Department of Computer Science here at Concordia University Irvine. He wrote his Ph.D. thesis in bioinformatics on the topic of an enumeration-based transcription factor binding site prediction algorithm while at the Hungarian Academy of Science’s Biological Research Center. He has 21 years of programming experience, 15 years in academia and 3 years in industry. He has authored more than 70 scientific papers in peer-reviewed journals, mainly in bioinformatics and baraminology and taught courses in computer science and bioinformatics.
+
+
+
+Previous faculty member
+
+
+Next faculty member
+More Faculty
+
+One of our greatest ass

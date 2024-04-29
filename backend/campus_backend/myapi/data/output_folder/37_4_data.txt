@@ -1,0 +1,66 @@
+. The material covers the various phases of exploratory data analysis: importing data, cleaning and transforming data, algorithmic thinking, grouping and aggregation, visualization, prediction and communication of results. Prerequisite: BDA 337 and BUS 261.
+
+ECO 321: Econometrics
+3
+
+This course is the study of Econometrics, providing techniques for the quantitative measurement and analysis of actual economic and business phenomena. Prerequisites: fulfillment of the general education math requirement, ECO 201 and ECO 202 and (MTH 252 or MTH 271).
+
+Choose two of the following courses:
+ACT 315: Accounting Information Systems
+3
+
+This course will look at the concepts, controls, and tools of computerized accounting information systems using spreadsheets and databases. Prerequisites: ACT 212 and BUS 261.
+
+COM 422: Studies in Public Relations
+3
+
+Public relations (PR) as a communication discipline will be examined in this course with an emphasis on developing and implementing campaigns including presentations by PR professionals and in-class projects/exercises on topics such as public relations in nonprofit organizations, corporate and social responsibility, media relations, technology, and ethical issues.
+
+
+ECO 428: Intermediate Macroeconomics and Public Policy
+3
+
+This course uses economic methodology to evaluate the economic methods used in, and the purposes driving, the development of economic public policies in the U.S., focusing on the role of government in shaping social policy and its impact on individuals. Students will (a) complete an essay describing a recent U.S. economic policy event, and (b) an essay describing the economic justification for recent public policy in one (1) of the following three (3) topics: Environmental and Natural Resource Economics; Economics of Health; or Economics of Education. Prerequisites: fulfillment of general education math requirement and ECO 201 and ECO 202 and (MTH 252 or MTH 271).
+
+MGT 323: Global Enterprise
+3
+
+Through an overview of world trade and investment patterns, international sourcing, marketing, and management for global businesses, this course will emphasize international trade theory, the world financial environment, and the role of multinational corporations including international sourcing, marketing, and management for global business. Prerequisite: MGT 321.
+
+MGT 343: Operations
+3
+
+This course will use applied quantitative methods to optimize cash flow; reduce material and inventory costs; create efficiencies; enhance quality and mitigate risks in the manufacture, distribution, servicing, and retirement of both tangible goods and intangible services. Prerequisite: MGT 321.
+
+MGT 351: Diversity in Organizations
+3
+
+This course will examine the impact of diversity, culture, and ethnic origin on the work experience while preparing individuals to meet the challenge of cultural diversity in organizations with an emphasis on how race, religion, age, gender, sexual orientation, physical and mental ability, work and family, weight and appearance, international diversity, theories, legislation, and organizational philosophy interact to create a set of rules for acceptable behaviors in complex organizations. Prerequisite: BUS 201.
+
+MKT 353: Professional Selling
+3
+
+This course focuses on the study of the principles of selling and basic sales concepts. Topics will include: Competitive advantage, researching company and competitor information, value proposition, customer needs, listening; communication skills, presenting information, negotiation, and closing skills. Prerequisite: MKT 341 (concurrent enrollment allowed).
+
+MKT 371: Digital Marketing
+3
+
+This course will provide a broad overview of digital media including effective web design, SEO (search engine optimization) strategies, social media tools, mobile marketing, metrics, and analytics with a focus on business strategies and trends while using the appropriate digital tools for maximum effectiveness. Prerequisite: MKT 341.
+
+Current students, please note: The requirements listed here may not reflect the most current courses for this major and may not be the requirements for the catalog year you are following to complete your major. Please refer to the Academic Catalog for official requirements you must meet to qualify for a degree.
+
+Where Our Alumni Are Working
+
+The value of an education is demonstrated by the success our graduates enjoy upon completion of their degree. Concordia University Irvine grads are respected in the many industries in which they find skillful work. Here are just a few of the places our alumni have recently been employed.
+
+Adidas
+Albertsons Companies, Inc.
+KPMG
+Los Angeles Clippers
+Marriott
+Misty May Treanor Sports Complex
+Northwestern Mutual
+Walt Disney Co.
+Meet Your Professors
+
+Professors in the School of Business and Economics are active participants in helping you reach your educational goals. Our courses are developed and delivered by faculty who integrate classroom techniques with best b

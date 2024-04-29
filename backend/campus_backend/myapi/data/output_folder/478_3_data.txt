@@ -1,0 +1,55 @@
+ 111 and (CHE 101 or CHE 221 or SCI 115) or consent of instructor. Typically offered alternate years (odd years, spring semester).
+
+BIO 345: Evolutionary Zoology
+4
+
+This course will study the diversity of the animal kingdom while focusing on natural history, anatomy, systematics, and evolutionary principles. Studied phyla include protozoans through mammals, or a subset therein. Lab time is included in the schedule. A lab fee is required. Prerequisites: C- or better in (BIO 101 or CBIO 101 or BIO 111) and BIO 112 or consent of instructor. Typically offered alternate years (even years, fall semester).
+
+BIO 351: General Microbiology
+4
+
+This course will introduce the morphology, physiology, and ecological and medical importance of microorganisms (focusing on viruses, bacteria, molds, and yeasts), with a strong focus on the molecular basis of physiological processes. Laboratory sessions will emphasize the culture, physiology, and identification of the major groups of microbes. Lab time is included in the schedule. A lab fee is required. Prerequisites: C- or better in (BIO 101 or BIO 111 or CBIO 101) and (CHE 101 or CHE 221 or SCI 115) or consent of instructor. Typically offered annually (fall semester).
+
+BIO 361: Field Biology Techniques
+3
+
+This field-based course will explore common techniques used to conduct biological field research and provide hands-on experience with transects, trapping, quadrats, aquatic survey methods, GPS, GIS, and others. Proper experimental design and statistical analysis of data will be included as students design and conduct their own research projects. During standard Fall or Spring semesters, up to three (3) weekend field trips are possible in addition to field trips during scheduled lab time or longer trips during mid-semester breaks. A lab fee is required and additional travel costs may apply. Prerequisites: C- or better in (BIO 101 or CBIO 101 or BIO 111) and (CHE 101 or CHE 221 or SCI 115) or consent of instructor. Offered alternate years (odd years, spring semester).
+
+BIO 371: Neuroscience
+4
+
+This course is an introduction to the neurosciences, including cellular, systems, cognitive, and computational neurobiology, as well as mammalian neuroanatomy. Primary neuroscientific literature will be analyzed, and approaches to studying the nervous system will be examined. Lab time is included in the schedule. A lab fee is required. Offered annually (typically fall semester).
+
+BIO 390: Practicum: Biology (1-4 units)
+1
+
+A practical experience outside the classroom that is directly related to the student's major, minor or professional program. It typically involves "hands-on" experience in the form of an internship that is a beneficial complement to the student's academic experience. Offered every semester, by arrangement.
+
+BIO 401: Biology Seminar
+2
+
+This course will take an in-depth look at current biological topics primarily through the use of primary literature. Library research using scientific journals may be required to prepare a major paper and oral presentation. Topics will vary each semester. Prerequisite: Sixteen (16) units of biology or consent of instructor; restricted to juniors and seniors. May be offered any semester as arranged by the instructor.
+
+CHE 421: Biochemistry I
+4
+
+This course will provide an introduction to the principles of chemistry that govern life systems including topics in pH and buffers, enzymes, amino acids, proteins, lipids, carbohydrates, nucleic acids, and metabolic pathways with exercises emphasizing protein purification and characterization techniques, plus kinetic modeling. Lab time is included in the schedule. A lab fee is required. Prerequisites: C- or better in CHE 221 and CHE 222 and CHE 321 and CHE 322 (concurrent enrollment allowed for CHE 322) or consent of instructor.
+
+
+KIN 306: Nutritional Sciences
+3
+
+This course will explore issues pertinent to the study of health and nutrition for the active individual. This course will analyze concepts and controversies and will emphasize the importance of research and clinical studies in the current nutritional literature. Students will also examine and discuss key concepts concerning the role of nutrition in overall health and well-being for a healthy lifestyle.
+
+
+OR
+
+KIN 307: Exercise and Gerontology
+3
+
+This course is will explore the latest evidence-based research on the effects of aging and will familiarize students with the physiological impacts of aging as it relates to the decline in physical development, cardiovascular and pulmonary functioning, and muscular strength and power. This course will also introduce the effects of declining motor skills as well as other physical-psychosocial relationships associated with aging.
+
+PHI 467: Bioethics and Healthcare Professions
+3
+
+This course will examine the ethical issues raised by modern advances in health care and biological research. Attention will be given to the language of bioethics, important philosophical and theological approaches, and socio-c

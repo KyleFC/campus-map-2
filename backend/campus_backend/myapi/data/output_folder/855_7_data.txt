@@ -1,0 +1,25 @@
+o provide consent for a patient with regard to health care decisions and is appropriate when it specifically includes entry into research. FDA defers to state and local laws regarding substituted consent. Therefore, the IRB must assure itself that the substituted consent procedures comply with state and local law, including assurance the law applies to obtaining informed consent for subjects participating in research as well as for patients who require health care decisions.
+
+When should study subjects be informed of changes in the study?
+
+Protocol amendments must receive IRB review and approval before they are implemented, unless an immediate change is necessary to eliminate an apparent hazard to the subjects (21 CFR 56.108(a)(4)). Those subjects who are presently enrolled and actively participating in the study should be informed of the change if it might relate to the subjects' willingness to continue their participation in the study (21 CFR 50.25(b)(5)). FDA does not require reconsenting of subjects that have completed their active participation in the study, or of subjects who are still actively participating when the change will not affect their participation, for example when the change will be implemented only for subsequently enrolled subjects.
+
+Informed Consent Document Content
+
+May an IRB require that the sponsor of the study and/or the clinical investigator be identified on the study's consent document?
+
+Yes. The FDA requirements for informed consent are the minimum basic elements of informed consent that must be presented to a research subject [21 CFR 50.25]. An IRB may require inclusion of any additional information which it considers important to a subject's decision to participate in a research study [21 CFR 56.109(b)].
+
+Does FDA require the informed consent document to contain a space for assent by children?
+
+No, however, many investigators and IRBs consider it standard practice to obtain the agreement of older children who can understand the circumstances before enrolling them in research. While the FDA regulations do not specifically address enrollment of children (other than to include them as a class of vulnerable subjects), the basic requirement of 21 CFR 50.20 applies, i.e., the legally effective informed consent of the subject or the subject's legally authorized representative must be obtained before enrollment. Parents, legal guardians and/or others may have the ability to give permission to enroll children in research, depending on applicable state and local law of the jurisdiction in which the research is conducted. (Note: permission to enroll in research is not the same as permission to provide medical treatment.) IRBs generally require investigators to obtain the permission of one or both of the parents or guardian (as appropriate) and the assent of children who possess the intellectual and emotional ability to comprehend the concepts involved. Some IRBs require two documents, a fully detailed explanation for parents and older children to read and sign, and a shorter, simpler one for younger children. [For research supported by DHHS, the additional protections at 45 CFR 46 Subpart D are also required. The Subpart D regulations provide appropriate guidance for all other pediatric studies.]
+On April 24, 2001, FDA issued an interim final rule, Additional Protections for Children, as subpart D to 21 CFR Part 50. Assent by children is addressed in subpart D. This interim final rule and its preamble are available at Additional Protections for Children.
+
+Does FDA require the signature of children on informed consent documents?
+
+As indicated above, researchers may seek assent of children of various ages. Older children may be well acquainted with signing documents through prior experience with testing, licensing and/or other procedures normally encountered in their lives. Signing a form to give their assent for research would not be perceived as unusual and would be reasonable. Younger children, however, may never have had the experience of signing a document. For these children requiring a signature may not be appropriate, and some other technique to verify assent could be used. For example, a third party may verify, by signature, that the assent of the child was obtained.
+As noted in the previous answer, on April 24, 2001, FDA issued an interim final rule, Additional Protections for Children, as subpart D to 21 CFR Part 50. Informed consent of children who participate in clinical trials is addressed in subpart D. This interim final rule and its preamble are available at Additional Protections for Children.
+
+Who should be listed on the consent as the contact to answer questions?
+
+21 CFR 50.25(a)(7) requires contacts for questions about the research, the research subject's rights and in case of a research-related injury. It does not specify whom to contact. The same person may be listed for all three. However, FDA and most IRBs believe it is better to name a knowledgeable person other t

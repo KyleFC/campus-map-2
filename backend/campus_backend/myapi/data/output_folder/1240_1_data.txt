@@ -1,0 +1,79 @@
+e contact your admissions counselor for assistance with your application (949-214-3010).
+The housing registration website. Please contact Residential Services for assistance (949-214-3052).
+Content on the CUI website. Please contact the Web Team for assistance with editing the website (webteam@cui.edu).
+Logging into Grammarly. You can register for an account using your eagles email to log in, but any support is provided directly by Grammarly.
+Enrolling in the Concordia Health Insurance. Please contact the Wellness Center. (949)-214-3102.
+
+I tried resetting my password, but it didn’t work. What should I do?
+
+Read the error message displayed to see if it explains the issue.
+Make sure that the password you are using is at least 8 characters long, has both uppercase and lowercase letters, as well as a number or a symbol, with neither your first nor last name. For staff and faculty members, this password is a minimum of 12 characters long.
+Try checking the box “unlock account” when resetting your password.
+Try following the guide for help with accessing your accounts.
+Feel free to contact IT Services for assistance (ITS@cui.edu, 949-214-3175).
+‌
+MyRecords FAQs
+
+What is my User ID and PIN for MyRecords?
+
+Your user ID is your ID number (starting with E00). MyRecords shares the same password as your Eagles Email.
+
+What is MyRecords?
+
+MyRecords lets you access and edit student and employment records, as well as personal information.
+For students, you will register for classes, find final grades, accept financial aid awards, and update contact information in MyRecords.
+For faculty and staff, you will fill out your timesheet, enter grades, view student data, and update your contact information in MyRecords.
+
+I am having trouble logging into MyRecords. What do I do?
+
+First, visit myaccount.cui.edu and unlock your account or reset your password.
+If this does not work, contact IT Services for assistance (ITS@cui.edu, 949-214-3175).
+
+How am I able to change my pin for MyRecords?
+
+Once you have logged into MyRecords, click on the “My Information” tab and click change pin.
+
+Some of the information about me in MyRecords is not correct. How do I fix it?
+
+You can correct this in the “My Information” section.
+If you are unable to do so yourself, you can contact the Registrar’s office (registrar@cui.edu, 949-214-3079).
+‌
+Blackboard FAQs
+
+What is my username and password for Blackboard?
+
+Your username is your User ID number (E#). Your Blackboard password is the same as your Eagles/staff/faculty mail password.
+
+I am having trouble logging into Blackboard. What do I do?
+
+Make sure that you are not using your MyRecords pin. Your Blackboard password is the same as your Eagles/staff/faculty mail password.
+If you cannot log in, try clicking the “Forgot Password” link on the login page to reset your own password. You may also type the link into your browser’s address bar: myaccount.cui.edu.
+If you have further trouble accessing your account, view this guide.
+If you have not yet activated your account on our My Account self-service reset site, please contact IT Services to have your password reset.
+
+What is Blackboard?
+
+Blackboard is our online Learning Management System. It contains the documentation for your courses, as well as interactive content, quizzes, and other study materials that your professor may make available. Each course’s Blackboard content will differ.
+
+Why aren’t all of my registered classes showing up in Blackboard?
+
+It is the instructor’s responsibility to make courses available for students to view. If you do not see your course, please contact your instructor.
+
+Why did my previous courses disappear from my course list on Blackboard?
+
+Instructors have control over their Blackboard courses. Following the completion of a course, some professors choose to make the course content unavailable. Please contact your professor if this occurs and is problematic for any reason.
+
+Why are old courses still showing up in my Blackboard course list?
+
+If a professor chooses not to disable a course following completion, it will remain on your course list. You can remove a course from your course list by hovering over the “My Courses” box and clicking the settings cog. Uncheck the desired courses and click submit to remove them from the list.
+
+I am unable to find course information in Blackboard. What do I do?
+
+Try contacting your professor for assistance. If there is a mistake on the management side of the course, they should be able to assist you in resolving the issue.
+The navigation bar on the left-hand side of the screen can be hidden. Look for the small “>” symbol on the left side of the screen when you are in a course and click it to show more options.
+
+I do not see a course I am teaching in Blackboard. How can it be added?
+
+The person to contact for assistance varies by department. Try contacting your direct supervisor if you are unsure of who can assist you.
+
+Can I change the email address that is listed under my Blackboard ac

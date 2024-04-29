@@ -1,0 +1,147 @@
+M	WNINDT
+Indianapolis	12/8/21 @ 8:00PM	WFYIDT3
+Indianapolis	12/18/21 @ 9:30PM	WIPBDT
+Indianapolis	12/25/21 @ 11:30AM	WTIUDT
+Indianapolis	12/25/21 @ 5:00PM	WIPBDT
+South Bend-Elkhart	12/12/21 @ 10:32PM	WNITDT
+South Bend-Elkhart	12/19/21 @ 10:30PM	WNITDT
+South Bend-Elkhart	12/25/21 @ 3:30AM	WNITDT
+‌
+Iowa
+Market	Date & Time	Station
+Cedar Rapids	12/14/21 @ 9:30PM	KIINDT
+Cedar Rapids	12/14/21 @ 9:30PM	KRINDT
+Cedar Rapids	12/24/21 @ 10:30PM	KIINDT
+Cedar Rapids	12/24/21 @ 10:30PM	KRINDT
+Cedar Rapids	12/25/21 @ 3:30AM	KIINDT
+Cedar Rapids	12/25/21 @ 3:30AM	KRINDT
+Davenport	12/14/21 @ 9:30PM	KQINDT
+Davenport	12/24/21 @ 3:00AM	WQPTDT
+Davenport	12/24/21 @ 10:30PM	KQINDT
+Davenport	12/25/21 @ 3:30AM	KQINDT
+Davenport	12/25/21 @ 3:00PM	WQPTDT
+Des Moines	12/14/21 @ 9:30PM	KDINDT
+Des Moines	12/14/21 @ 9:30PM	KTINDT
+Des Moines	12/24/21 @ 10:30PM	KDINDT
+Des Moines	12/24/21 @ 10:30PM	KTINDT
+Des Moines	12/25/21 @ 3:30AM	KDINDT
+Des Moines	12/25/21 @ 3:30AM	KTINDT
+Omaha	12/14/21 @ 9:30PM	KBINDT
+Omaha	12/14/21 @ 9:30PM	KHINDT
+Omaha	12/24/21 @ 10:30PM	KBINDT
+Omaha	12/24/21 @ 10:30PM	KHINDT
+Omaha	12/25/21 @ 3:30AM	KBINDT
+Omaha	12/25/21 @ 3:30AM	KHINDT
+Rochester	12/14/21 @ 9:30PM	KYINDT
+Rochester	12/24/21 @ 10:30PM	KYINDT
+Rochester	12/25/21 @ 3:30AM	KYINDT
+Sioux City	12/14/21 @ 9:30PM	KSINDT
+Sioux City	12/24/21 @ 10:30PM	KSINDT
+Sioux City	12/25/21 @ 3:30AM	KSINDT
+‌
+Kansas
+Market	Date & Time	Station
+Topeka	12/4/21 @ 5:30AM	KTWUDT3
+Topeka	12/18/21 @ 12:00AM	KTWUDT3
+Wichita	12/25/21 @ 4:00PM	KOODDT
+Wichita	12/25/21 @ 4:00PM	KDCKDT
+Wichita	12/25/21 @ 4:00PM	KSWKDT
+Wichita	12/25/21 @ 4:00PM	KWKSDT
+‌
+Kentucky
+Market	Date & Time	Station
+Bowling Green	12/7/21 @ 4:30AM	WKGBDT
+Bowling Green	12/14/21 @ 9:30PM	WKGBDT
+Bowling Green	12/16/21 @ 2:30AM	WKGBDT
+Bowling Green	12/20/21 @ 9:30PM	WKGBDT2
+Bowling Green	12/22/21 @ 1:30AM	WKGBDT2
+Charleston	12/7/21 @ 5:30AM	WKASDT
+Charleston	12/7/21 @ 5:30AM	WKPIDT
+Charleston	12/14/21 @ 10:30PM	WKASDT
+Charleston	12/14/21 @ 10:30PM	WKPIDT
+Charleston	12/16/21 @ 3:30AM	WKASDT
+Charleston	12/16/21 @ 3:30AM	WKPIDT
+Charleston	12/20/21 @ 10:30PM	WKASDT2
+Charleston	12/20/21 @ 10:30PM	WKPIDT2
+Charleston	12/22/21 @ 2:30AM	WKASDT2
+Charleston	12/22/21 @ 2:30AM	WKPIDT2
+Cincinnati	12/7/21 @ 5:30AM	WCVNDT
+Cincinnati	12/7/21 @ 5:30AM	WKONDT
+Cincinnati	12/14/21 @ 10:30PM	WCVNDT
+Cincinnati	12/14/21 @ 10:30PM	WKONDT
+Cincinnati	12/16/21 @ 3:30AM	WCVNDT
+Cincinnati	12/16/21 @ 3:30AM	WKONDT
+Cincinnati	12/20/21 @ 10:30PM	WCVNDT2
+Cincinnati	12/20/21 @ 10:30PM	WKONDT2
+Cincinnati	12/22/21 @ 2:30AM	WCVNDT2
+Cincinnati	12/22/21 @ 2:30AM	WKONDT2
+Evansville	12/7/21 @ 4:30AM	WKMADT
+Evansville	12/7/21 @ 4:30AM	WKOHDT
+Evansville	12/14/21 @ 9:30PM	WKMADT
+Evansville	12/14/21 @ 9:30PM	WKOHDT
+Evansville	12/16/21 @ 2:30AM	WKMADT
+Evansville	12/16/21 @ 2:30AM	WKOHDT
+Evansville	12/20/21 @ 9:30PM	WKMADT2
+Evansville	12/20/21 @ 9:30PM	WKOHDT2
+Evansville	12/22/21 @ 1:30AM	WKMADT2
+Evansville	12/22/21 @ 1:30AM	WKOHDT2
+Lexington	12/7/21 @ 5:30AM	WKHADT
+Lexington	12/7/21 @ 5:30AM	WKLEDT
+Lexington	12/7/21 @ 5:30AM	WKMRDT
+Lexington	12/7/21 @ 5:30AM	WKSODT
+Lexington	12/14/21 @ 10:30PM	WKHADT
+Lexington	12/14/21 @ 10:30PM	WKLEDT
+Lexington	12/14/21 @ 10:30PM	WKMRDT
+Lexington	12/14/21 @ 10:30PM	WKSODT
+Lexington	12/16/21 @ 3:30AM	WKHADT
+Lexington	12/16/21 @ 3:30AM	WKLEDT
+Lexington	12/16/21 @ 3:30AM	WKMRDT
+Lexington	12/16/21 @ 3:30AM	WKSODT
+Lexington	12/20/21 @ 10:30PM	WKLEDT2
+Lexington	12/20/21 @ 10:30PM	WKHADT2
+Lexington	12/20/21 @ 10:30PM	WKMRDT2
+Lexington	12/20/21 @ 10:30PM	WKSODT2
+Lexington	12/22/21 @ 2:30AM	WKLEDT2
+Lexington	12/22/21 @ 2:30AM	WKHADT2
+Lexington	12/22/21 @ 2:30AM	WKMRDT2
+Lexington	12/22/21 @ 2:30AM	WKSODT2
+Louisville	12/7/21 @ 5:30AM	WKPCDT
+Louisville	12/7/21 @ 5:30AM	WKZTDT
+Louisville	12/14/21 @ 10:30PM	WKPCDT
+Louisville	12/14/21 @ 10:30PM	WKZTDT
+Louisville	12/16/21 @ 3:30AM	WKPCDT
+Louisville	12/16/21 @ 3:30AM	WKZTDT
+Louisville	12/20/21 @ 10:30PM	WKMJDT2
+Louisville	12/20/21 @ 10:30PM	WKPCDT2
+Louisville	12/20/21 @ 10:30PM	WKZTDT2
+Louisville	12/22/21 @ 2:30AM	WKMJDT
+Louisville	12/22/21 @ 2:30AM	WKPCDT2
+Louisville	12/22/21 @ 2:30AM	WKZTDT2
+Paducah-Cape Girard	12/7/21 @ 4:30AM	WKMUDT
+Paducah-Cape Girard	12/7/21 @ 4:30AM	WKPDDT
+Paducah-Cape Girard	12/14/21 @ 9:30PM	WKMUDT
+Paducah-Cape Girard	12/14/21 @ 9:30PM	WKPDDT
+Paducah-Cape Girard	12/16/21 @ 2:30AM	WKMUDT
+Paducah-Cape Girard	12/16/21 @ 2:30AM	WKPDDT
+Paducah-Cape Girard	12/20/21 @ 9:30PM	WKMUDT2
+Paducah-Cape Girard	12/20/21 @ 9:30PM	WKPDDT2
+Paducah-Cape Girard	12/22/21 @ 1:30AM	WKMUDT2
+Paducah-Cape Girard	12/22/21 @ 1:30AM	WKPDDT2
+‌
+Louisiana
+Market	Date & Time	Station
+New Orleans	12/17/21 @ 10:30PM	WYESDT
+New Orleans	12/20/21 @ 3:30AM	WYESDT
+‌
+Michigan
+Market	Date & Time	Station
+Alpena	12/5/21 @ 1:30AM	WCMLDT
+Alpena	12/14/21 @ 10:30PM	WCMLDT
+Alpena	12/15/21 @ 5:00PM	WCMLDT
+Alpena	12/19/21 @ 12:30PM	WCMLDT
+Detroit	12/20/21 @ 5:30PM	WTVSDT
+Detroit	12/22/21 @ 8:00PM	WTVSDT5
+Detroit	12/25/21 @ 8:00PM	WTVSDT5
+Flint-Saginaw	12/5/21 @ 1:30AM	WCMUDT
+Flint-Saginaw	12/5/21 @ 1:30AM	WCMZDT
+Flint-Saginaw	12/14

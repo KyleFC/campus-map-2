@@ -1,0 +1,66 @@
+ platform. Proprietary analytics will be used to forecast price standard deviations. Prerequisite: MBA 675 Investing or MBA 674 Investing Practicum
+
+MBA 620: Global Leadership
+2
+
+This course explores the global business environment and the leadership qualities needed to be successful in today’s expanding markets. This course provides a forum for the development of strategies, skills and techniques that promote successful leadership within organizations having a global strategic base where cross-cultural, social, political and economic environments differ.
+
+MBA 621: International Finance I
+2
+
+This course will focus on the globalization of the marketplace and events currently taking place in the global financial markets. Basic essentials of international financial management will be explored from a macroeconomic framework, including flow of funds, balance of payments and financial markets; currency, credit and stock markets, and the variables that influence them. Prerequisite: MBA 604
+
+MBA 622: International Finance II
+2
+
+This course will focus on the globalization of the marketplace and events currently taking place in the global financial markets, explored from a microeconomic framework, including the managerial aspects of exchange rate risk, foreign investment and capital budgeting, country risk and capital structure decisions. Prerequisite: MBA 606 and 621
+
+MBA 625: Creating New Ventures
+2
+
+This course investigates the options available when creating a new venture including organization and structures available to the prospective new business owner.
+
+MBA 630A: Big Data I: Software & Infrastructure
+2
+
+Methods, tools and applications used to extract and analyze big data in developing or responding to business opportunities are explored through the investigation and development of the basic programming, design and critical thinking skills necessary to use industry standard applications. This course specifically focuses on the architectural patterns and concepts used for big data analytic tools including both software and infrastructure components.
+
+MBA 630B: Big Data II: Programming
+2
+
+Methods, tools and applications used to extract and analyze big data in developing or responding to business opportunities are explored through the investigation and development of the basic programming, design and critical thinking skills necessary to use industry standard applications. This course specifically focuses on emerging and higher level programming tools deployed in big data analysis. Prerequisite: MBA 630A.
+
+MBA 632: Economics
+2
+
+This course teaches basic concepts of Economics and the impact on business; focusing on supply and demand and resource allocation. It explores basic forms of economies, how wealth is generated in society, government intervention, and fiscal and monetary policy. Course material is drawn from current events and how they relate to economic principles.
+
+MBA 633: Essential Business Law
+2
+
+This course will examine the fundamentals of the law that most affect business environments. Selected topics may include contracts, business organization, the Constitution, regulatory environment, the legislative process, the court system, and ethics, as well as other current topics of interest. Knowledge of the law will enable students to identify areas of risk, plan solutions and make business decisions designed to avoid and mitigate the risk.
+
+MBA 635: Economics of Sustainability
+2
+
+This course will look at the nature of resource re-use and renewability by looking at examples and practices of various industries and initiatives.
+
+MBA 637: Business Contracts
+2
+
+This course examines the essential elements of a binding contract, the importance of individual provisions and the purpose for their existence. Students will review and analyze common agreements found in the work place, discovering provisions necessary in the execution of any agreement.
+
+MBA 640: International Business
+2
+
+This course presents an overview of the dynamics of the global marketplace and international sources of economic change. Topics include globalization; the role of technology; and the mandate of emerging markets. Comparative economic development, control and democratic regimes, and international competition and cooperation are investigated. Students will apply their knowledge to foreign market analysis and business planning, analyzing the multiple internal and external factors that must be addressed for economic success of the global expertise.
+
+MBA 642: Effective Communication
+2
+
+This course analyzes communications in formal and informal business settings, focusing on written formats, formal presentations and verbal and nonverbal modes. Conflict resolution strategies, team environments and leadership perspectives will be explored.
+
+MBA 645: Leadership and Development
+2
+
+The focus will be on developing the broad intellectual foundations of leadership. The course will survey the landscape of leadership thinking today and the successful

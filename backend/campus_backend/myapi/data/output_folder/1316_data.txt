@@ -1,0 +1,108 @@
+https://www.cui.edu/webteam/styles-toggles
+Skip to Main Content
+
+Search
+Academics 
+Admissions 
+About
+Athletics
+Student Life
+The Arts
+Giving
+ MyCUI 
+Web Team
+Website Request
+Common Styles
+Survey
+Faculty Form
+UG Majors Project
+MyCUI Promotion Policy
+TOGGLES
+Web Team
+Standard Toggles
+
+This treatment is intended to be used with information that may not be relevant to every user that comes to the page. This could come in the form of audience-based information (parents, prospective students, current students, etc.), steps in a process, or good ol' FAQs.
+
+‌
+When should I use a toggle?
+
+Toggles must be a last resort! Hiding content from the user is generally not an ideal solution so we should be asking if this content merits being visible at all times on the page or if it needs its own subpage. If neither of those options work then we can think about using toggles. Here are the most common use-cases:
+
+Frequently Asked Questions (FAQs)
+Step-by-step process
+Repeating information separated by date
+‌
+What can I put in a toggle?
+Inline image with caption
+
+The content within the toggle is raw html so it is pretty flexible. We can add anything from standard HTML5 tags to custom embed codes. The editor must use their best judgement with how the information is laid out. In most cases, the content is fairly simple and will include one or more of the following:
+
+Standard paragraphs
+Blockquotes
+Unordered Lists
+Ordered Lists
+Tables
+Inline Images
+Embedded iFrames for forms, audio files, videos, etc.
+‌
+What does a toggle within a toggle look like?
+‌
+Sub Toggle #1
+
+Simple as that.
+
+‌
+Sub Toggle #2
+
+Simple as that.
+
+‌
+Sub Toggle #3
+
+Simple as that.
+
+
+<div class="toggles">
+  <dl>
+    <dd>
+      <h3><em class="fa fa-angle-double-down" aria-hidden="true">‌</em>When should I use a toggle?</h3>
+    </dd>
+    <dt>
+      <p>Toggles must be a last resort! Hiding content from the user is generally not an ideal solution so we should be asking if this content merits being visible at all times on the page or if it needs its own subpage. If neither of those options work then we can think about using toggles. Here are the most common use-cases:</p>
+      <ol>
+        <li>Frequently Asked Questions (FAQs)</li>
+        <li>Step-by-step process</li>
+        <li>Repeating information separated by date</li>
+      </ol>
+    </dt>
+  </dl>
+</div>
+Join Our Community
+Apply Now
+Visit Concordia
+Request Info
+Virtual Tour
+Contact Us
+Concordia University Irvine Footer
+Connect
+University Events
+Resources
+Campus Map
+Employment
+MyCUI
+Parents
+Pay Tuition Online
+Press Room
+Sitemap
+Veterans Resource Center
+Services
+Academic Advising
+Bursar's Office
+Campus Safety
+Financial Aid
+at Concordia University Irvine
+Library
+Brand and Marketing Resources
+Registrar
+University Services
+

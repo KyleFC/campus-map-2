@@ -1,0 +1,154 @@
+
+Albuquerque	12/22/21 @ 4:00AM	KNMEDT
+Albuquerque	12/27/21 @ 2:00AM	KWSUDT
+Albuquerque	12/28/21 @ 1:30AM	KENWDT3
+‌
+New York
+Market	Date & Time	Station
+Albany-Schenectady	12/17/21 @ 10:30PM	WMHTDT
+Burlington	12/17/21 @ 10:30PM	WCFEDT
+Burlington	12/18/21 @ 3:00AM	WMHTDT
+Burlington	12/25/21 @ 10:31PM	WCFEDT
+New York	12/21/21 @ 11:30PM	WLIWDT4
+New York	12/22/21 @ 5:30PM	WLIWDT4
+New York	12/24/21 @ 3:30AM	WLIWDT4
+New York	12/24/21 @ 11:00AM	WLIWDT4
+New York	12/24/21 @ 1:00PM	WLIWDT4
+New York	12/24/21 @ 4:00PM	WLIWDT4
+Rochester	12/24/21 @ 8:30PM	WXXIDT
+Watertown	12/11/21 @ 7:00PM	WNPIDT
+Watertown	12/11/21 @ 7:00PM	WPBSDT
+Watertown	12/12/21 @ 3:00PM	WNPIDT
+Watertown	12/12/21 @ 3:00PM	WPBSDT
+Watertown	12/16/21 @ 10:32PM	WNPIDT
+Watertown	12/16/21 @ 10:32PM	WPBSDT
+‌
+North Carolina
+Market	Date & Time	Station
+Charlotte	12/17/21 @ 10:30PM	WUNEDT2
+Charlotte	12/17/21 @ 10:30PM	WUNGDT
+Charlotte	12/19/21 @ 5:30AM	WUNEDT2
+Charlotte	12/19/21 @ 5:30AM	WUNGDT
+Charlotte	12/19/21 @ 6:30PM	WTVIDT
+Charlotte	12/23/21 @ 12:00AM	WTVIDT
+Greensboro	12/17/21 @ 10:30PM	WUNLDT
+Greensboro	12/19/21 @ 5:30AM	WUNLDT
+Greenville-New Bern	12/17/21 @ 10:30PM	WUNKDT
+Greenville-New Bern	12/17/21 @ 10:30PM	WUNMDT2
+Greenville-New Bern	12/19/21 @ 5:30AM	WUNKDT
+Greenville-New Bern	12/19/21 @ 5:30AM	WUNMDT2
+Greenvll-Spartan	12/17/21 @ 10:30PM	WUNFDT
+Greenvll-Spartan	12/17/21 @ 10:30PM	WUNWDT2
+Greenvll-Spartan	12/19/21 @ 5:30AM	WUNFDT
+Greenvll-Spartan	12/19/21 @ 5:30AM	WUNWDT2
+Myrtle Beach	12/17/21 @ 10:30PM	WUNUDT
+Myrtle Beach	12/19/21 @ 5:30AM	WUNUDT
+Norfolk	12/17/21 @ 10:30PM	WUNDDT
+Norfolk	12/19/21 @ 5:30AM	WUNDDT
+Raleigh-Durham	12/17/21 @ 10:30PM	WUNCDT
+Raleigh-Durham	12/17/21 @ 10:30PM	WUNPDT2
+Raleigh-Durham	12/19/21 @ 5:30AM	WUNCDT
+Raleigh-Durham	12/19/21 @ 5:30AM	WUNPDT2
+Wilmington	12/17/21 @ 10:30PM	WUNJDT
+Wilmington	12/19/21 @ 5:30AM	WUNJDT
+‌
+Ohio
+Market	Date & Time	Station
+Cincinnati	12/7/21 @ 5:30AM	WCVNDT
+Cincinnati	12/7/21 @ 5:30AM	WKONDT
+Cincinnati	12/11/21 @ 9:00PM	WCETDT3
+Cincinnati	12/12/21 @ 9:00AM	WCETDT3
+Cincinnati	12/12/21 @ 2:00PM	WCETDT3
+Cincinnati	12/12/21 @ 6:00PM	WCETDT3
+Cincinnati	12/13/21 @ 10:00AM	WCETDT3
+Cincinnati	12/13/21 @ 4:00PM	WCETDT3
+Cincinnati	12/13/21 @ 11:00PM	WCETDT3
+Cincinnati	12/14/21 @ 10:30PM	WCVNDT
+Cincinnati	12/14/21 @ 10:30PM	WKONDT
+Cincinnati	12/16/21 @ 3:30AM	WCVNDT
+Cincinnati	12/16/21 @ 3:30AM	WKONDT
+Cincinnati	12/20/21 @ 10:30PM	WCVNDT2
+Cincinnati	12/20/21 @ 10:30PM	WKONDT2
+Cincinnati	12/22/21 @ 2:30AM	WCVNDT2
+Cincinnati	12/22/21 @ 2:30AM	WKONDT2
+Cleveland	12/17/21 @ 10:30PM	WVIZDT
+Cleveland	12/18/21 @ 3:30AM	WVIZDT
+Cleveland	12/19/21 @ 5:30AM	WVIZDT
+Cleveland	12/19/21 @ 9:30PM	WEAODT2
+Cleveland	12/21/21 @ 10:30PM	WEAODT
+Cleveland	12/22/21 @ 3:30AM	WEAODT
+Cleveland	12/25/21 @ 8:30PM	WEAODT
+Columbus	12/12/21 @ 8:00PM	WOSUDT
+Columbus	12/13/21 @ 8:00PM	WOSUDT3
+Columbus	12/24/21 @ 6:30PM	WOUBDT
+Columbus	12/24/21 @ 6:30PM	WOUCDT
+Youngstown	12/19/21 @ 9:30PM	WNEODT2
+Youngstown	12/21/21 @ 10:30PM	WNEODT
+Youngstown	12/22/21 @ 3:30AM	WNEODT
+Youngstown	12/25/21 @ 8:30PM	WNEODT
+‌
+Oklahoma
+Market	Date & Time	Station
+Oklahoma City	12/14/21 @ 9:30PM	KETADT
+Oklahoma City	12/14/21 @ 9:30PM	KWETDT
+Oklahoma City	12/14/21 @ 9:30PM	KETA
+Tulsa	12/14/21 @ 9:30PM	KOEDDT
+Tulsa	12/14/21 @ 9:30PM	KOETDT
+Tulsa	12/14/21 @ 9:30PM	KOED
+‌
+Pennsylvania
+Market	Date & Time	Station
+Erie	12/18/21 @ 4:30PM	WQLNDT
+Erie	12/19/21 @ 4:30PM	WQLNDT
+Harrisburg-Lancaster	12/26/21 @ 2:31AM	WITFDT
+Philadelphia	12/20/21 @ 3:30AM	WPPTDT
+Philadelphia	12/20/21 @ 10:30AM	WPPTDT
+Philadelphia	12/24/21 @ 9:30PM	WLVTDT
+Philadelphia	12/25/21 @ 3:30AM	WLVTDT
+Philadelphia	12/25/21 @ 5:00PM	WPPTDT
+Philadelphia	12/26/21 @ 12:00AM	WPPTDT
+Wilkes Barre	12/25/21 @ 12:30PM	WVIADT
+Wilkes Barre	12/25/21 @ 11:40PM	WVIADT
+‌
+South Carolina
+Market	Date & Time	Station
+Charleston	12/25/21 @ 7:00AM	WITVDT3
+‌
+South Dakota
+Market	Date & Time	Station
+Minot-Bismarck	12/12/21 @ 10:00PM	KQSDDT
+Minot-Bismarck	12/16/21 @ 4:30AM	KQSDDT
+Rapid City	12/12/21 @ 9:00PM	KBHEDT
+Rapid City	12/12/21 @ 10:00PM	KPSDDT
+Rapid City	12/12/21 @ 10:00PM	KZSDDT
+Rapid City	12/16/21 @ 3:30AM	KBHEDT
+Rapid City	12/16/21 @ 4:30AM	KPSDDT
+Rapid City	12/16/21 @ 4:30AM	KZSDDT
+Sioux Falls	12/12/21 @ 10:00PM	KCSDDT
+Sioux Falls	12/12/21 @ 10:00PM	KDSDDT
+Sioux Falls	12/12/21 @ 10:00PM	KESDDT
+Sioux Falls	12/12/21 @ 10:00PM	KTSDDT
+Sioux Falls	12/12/21 @ 10:00PM	KUSDDT
+Sioux Falls	12/16/21 @ 4:30AM	KCSDDT
+Sioux Falls	12/16/21 @ 4:30AM	KDSDDT
+Sioux Falls	12/16/21 @ 4:30AM	KESDDT
+Sioux Falls	12/16/21 @ 4:30AM	KTSDDT
+Sioux Falls	12/16/21 @ 4:30AM	KUSDDT
+‌
+Tennessee
+Market	Date & Time	Station
+Chattanooga	12/17/21 @ 10:30PM	WTCIDT
+Chattanooga	12/25/21 @ 10:38PM	WTCIDT
+Memphis	12/24/21 @ 10:33PM	WKNODT2
+Memphis	12/26/21 @ 11:30PM	WKNODT
+Memphis	12/27/21 @ 4:30AM	WKNODT
+Nashville	12/19/21 @ 9:30PM	WCTEDT
+Nashville	12/22/21 @ 8:30PM	WCTEDT
+‌
+Texas
+Market	Date & Time	Station
+Amarillo	12/25/21 @ 11:30PM	KACVDT
+Austin	12/24/21 @ 7:30PM	KLRUDT
+Austin	12/25/21 @ 6:00PM	KLRUDT
+Corpus Christi	12/17/21 @ 9:30PM	KEDTDT
+Corpus Christi	1

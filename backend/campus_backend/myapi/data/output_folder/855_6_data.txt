@@ -1,0 +1,25 @@
+you obtain informed consent from someone who speaks and understands English but cannot read?
+
+Illiterate persons who understand English may have the consent read to them and "make their mark," if appropriate under applicable state law. The 21 CFR 50.27(b)(2) requirements for signature of a witness to the consent process and signature of the person conducting consent interview must be followed, if a "short form" is used. Clinical investigators should be cautious when enrolling subjects who may not truly understand what they have agreed to do. The IRB should consider illiterate persons as likely to be vulnerable to coercion and undue influence and should determine that appropriate additional safeguards are in place when enrollment of such persons is anticipated, see 21 CFR 56.111(b).
+
+Must a witness observe the entire consent interview or only the signature of the subject?
+
+FDA does not require the signature of a witness when the subject reads and is capable of understanding the consent document, as outlined in 21 CFR 50.27(b)(1). The intended purpose is to have the witness present during the entire consent interview and to attest to the accuracy of the presentation and the apparent understanding of the subject. If the intent of the regulation were only to attest to the validity of the subject's signature, witnessing would also be required when the subject reads the consent.
+
+Should the sponsor prepare a model informed consent document?
+
+Although not required by the IND regulations, the sponsor provides a service to the clinical investigator and the IRB when it prepares suggested study-specific wording for the scientific and technical content of the consent document. However, the IRB has the responsibility and authority to determine the adequacy and appropriateness of all of the wording in the consent, see 21 CFR 56.109(a), 111(a)(4) and 111(a)(5). If an IRB insists on wording the sponsor cannot accept, the sponsor may decide not to conduct the study at that site. For medical device studies that are conducted under an IDE, copies of all forms and informational materials to be provided to subjects to obtain informed consent must be submitted to FDA as part of the IDE, see 21 CFR 812.25(g).
+
+Is the sponsor required to review the consent form approved by the IRB to make sure all FDA requirements are met?
+
+For investigational devices, the informed consent is a required part of the IDE submission. It is, therefore, approved by FDA as part of the IDE application. When an IRB makes substantive changes in the document, FDA reapproval is required and the sponsor is necessarily involved in this process.
+FDA regulations for other products do not specifically require the sponsor to review IRB approved consent documents. However, most sponsors do conduct such reviews to assure the wording is acceptable to the sponsor.
+
+Are there alternatives to obtaining informed consent from a subject?
+
+The regulations generally require that the investigator obtain informed consent from subjects. Investigators also may obtain informed consent from a legally authorized representative of the subject. FDA recognizes that a durable power of attorney might suffice as identifying a legally authorized representative under some state and local laws. For example, a subject might have designated an individual to provide consent with regard to health care decisions through a durable power of attorney and have specified that the individual also has the power to make decisions on entry into research. FDA defers to state and local laws regarding who is a legally authorized representative. Therefore, the IRB should assure that the consent procedures comply with state and local laws, including assurance that the law applies to obtaining informed consent for subjects participating in research as well as for patients who require health care decisions."
+Alternatives 1 and 2 are provided for in the regulations and are appropriate. Alternative 3 allows a designated individual to provide consent for a patient with regard to health care decisions and is appropriate when it specifically includes entry into research. FDA defers to state and local laws regarding substituted consent. Therefore, the IRB must assure itself that the substituted consent procedures comply with state and local law, including assurance the law applies to obtaining informed consent for subjects participating in research as well as for patients who require health care decisions.
+
+When should study subjects be informed of changes in the study?
+
+Protocol amendments must receive IRB review and approval before they are implemented, unless an immediate change is necessary to eliminate an apparent hazard to the subjects (21 CFR 56.108(a)(4)). Those subjects who are presently enrolled and actively participating in the study should be informed of the change if it might relate to the subjects' willingness to continue their participation in the study (21 CFR 50.25(b)(5)). FDA does not require recons

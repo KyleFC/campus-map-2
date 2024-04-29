@@ -1,0 +1,34 @@
+earch may be carried out by the IRB chairperson or by one or more experienced members of the IRB designated by the chairperson. The reviewer(s) may exercise all the authorities of the IRB, except disapproval. Research may only be disapproved following review by the full committee. The IRB is required to adopt a method of keeping all members advised of research studies that have been approved by expedited review.
+[See Conditions for IRB Use of Expedited Review - Federal Register: November 9, 1998 (Volume 63, Number 216), Notices]
+
+Are sponsors allowed access to IRB written procedures, minutes and membership rosters?
+
+The FDA regulations do not require public or sponsor access to IRB records. However, FDA does not prohibit the sponsor from requesting IRB records. The IRB and the institution may establish a policy on whether minutes or a pertinent portion of the minutes are provided to sponsors.
+Because of variability, each IRB also needs to be aware of State and local laws regarding access to IRB records.
+
+If an IRB disapproves a study submitted to it, and it is subsequently sent to another IRB for review, should the second IRB be told of the disapproval?
+
+Yes. When an IRB disapproves a study, it must provide a written statement of the reasons for its decision to the investigator and the institution [21 CFR 56.109(e)]. If the study is submitted to a second IRB, a copy of this written statement should be included with the study documentation so that it can make an informed decision about the study. 21 CFR 56.109(a) requires an IRB to "... review ... all research activities [emphasis added] ...." The FDA regulations do not prohibit submission of a study to another IRB following disapproval. However, all pertinent information about the study should be provided to the second IRB.
+
+May an independent IRB review a study to be conducted in an institution with an IRB?
+
+Generally, no. Most institutional IRB have jurisdiction over all studies conducted within that institution. An independent IRB may become the IRB of record for such studies only upon written agreement with the administration of the institution or the in-house IRB.
+
+Could an IRB lose its quorum when members with a conflict of interest leave the room for deliberation and voting on a study?
+
+Yes. "The quorum is the count of the number of members present. If the number present falls below a majority, the quorum fails. The regulations only require that a member who is conflicted not participate in the deliberations and voting on a study on which he or she is conflicted. The IRB may decide whether an individual should remain in the room."
+
+Does FDA prohibit direct communication between sponsors and IRBs?
+
+It is important that a formal line of communication be established between the clinical investigator and the IRB. Clinical investigators should report adverse events directly to the responsible IRB, and should send progress reports directly to that IRB. However, FDA does not prohibit direct communication between the sponsor and the IRB, and recognizes that doing so could result in more efficient resolution of some problems.
+FDA does require direct communication between the sponsors and the IRBs for certain studies of medical devices and when the 21 CFR 50.24 informed consent waiver has been invoked. Sponsors and IRBs are required to communicate directly for medical device studies under 21 CFR 812.2, 812.66 and 812.150(b). For informed consent waiver studies, direct communication between sponsors and IRBs is required under 21 CFR 50.24(e), 56.109(e), 56.109(g), 312.54(b), 312.130(d), 812.38(b)(4) and 812.47(b).
+IRB Records
+
+Are annual IRB reviews required when all studies are reviewed by the IRB each quarter?
+
+The IRB records for each study's initial and continuing review should note the frequency (not to exceed one year) for the next continuing review in either months or other conditions, such as after a particular number of subjects are enrolled.
+An IRB may decide to review all studies on a quarterly basis. If every quarterly report contains sufficient information for an adequate continuing review and is reviewed by the IRB under procedures that meet FDA requirements for continuing review, FDA would not require an additional "annual" review.
+
+CFR 56.115(a)(1) requires that the IRB maintain copies of "research proposals reviewed." Is the "research proposal" the same as the formal study protocol that the investigator receives from the sponsor of the research?
+
+Yes. The IRB should receive and review all research activities [21 CFR 56.109(a)]. The documents reviewed should include the complete documents received from the clinical investigator, such as the protocol, the investigator's brochure, a sample consent document and any advertising intended to be seen or heard by prospective study subjects. Some IRBs also require the investigator to submit an institutionally-developed protocol summary form. A copy of all documentation reviewed is to be maintained for at

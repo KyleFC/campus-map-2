@@ -1,0 +1,79 @@
+ns using calculus to solve problems. Prerequisite: A passing score on the Calculus Placement Exam, or consent of the department chair.
+
+MTH 272: Calculus II
+4
+
+A continuation of MTH 271, this course will include a study of methods of integration, applied to algebraic and transcendental functions. Solids of revolution, definite and indefinite integrals, Taylor polynomials, sequences and series, will be studied including applications using calculus to solve problems. Prerequisite: C- or better in MTH 271 or acceptable AP examination credit.
+
+MTH 373: Calculus III
+4
+
+As a continuation of MTH 272, this course will include the study of vector calculus, three-dimensional calculus, partial derivatives, multiple integrals, differential calculus, and other selected topics in vector calculus. Prerequisite: C- or better in MTH 272.
+
+
+PHY 221: Calculus-based Physics I
+4
+
+This course will study Newtonian mechanics: vectors and scalars, kinematics and dynamics of translational and rotational motion, Newton's laws, speed, velocity, acceleration, force, torque, work, energy, linear and angular momentum, wave and harmonic motion, gravitation, friction, conservation of energy and momentum, thermodynamics. A lab fee is required. Prerequisite: MTH 271 (concurrent enrollment allowed) or consent of instructor.
+
+
+PHY 222: Calculus-based Physics II
+4
+
+As a continuation of PHY 221, this course will cover thermodynamics, Maxwell's equations of electricity and magnetism, current, voltage, resistance, inductance, reactance, power, optics and optical systems, interference, diffraction, polarization, dispersion, and coherence. Lab time is included in the schedule. A lab fee is required. Prerequisites: C- or better in PHY 221 and MTH 272 (concurrent enrollment allowed) or consent of instructor.
+
+
+SCI 455: History and Philosophy of Science
+3
+
+This course will introduce the philosophic nature of science with a literary review of philosophic issues associated with the epistemological and historical development of science starting with ancient Greece through today. Cross listed with HST 455. Prerequisite: CBIO 101 or consent of instructor. Typically offered every spring semester.
+
+
+SCI 495: Research Methods
+1
+
+This course will introduce basic techniques in laboratory research, experimental design, library databases, review of peer-reviewed literature, and quantitative and qualitative analyses. Students will compose a research proposal intended to guide future original student-conducted research. Interdisciplinary topics are included. Prerequisite: Sixteen (16) units of major courses or consent of instructor. Typically offered each semester.
+
+
+ELECTIVES
+12-15 Units
+CHE 322: Organic Chemistry II
+4
+
+This course will focus on aromaticity, advanced synthesis and reaction mechanisms, kinetics, organometallic chemistry, and bio-organic chemistry. A lab fee is required. Prerequisite: C- or better in CHE 321.
+
+
+CHE 403: Biological Inorganic Chemistry
+3
+
+This course will investigate the roles of metals in biology. Topics will include metals homeostasis in living organisms, metalloenzymes, metals in medicine, metalloproteins that function in respiration, photosynthesis, and electronic transfer.
+
+
+CHE 405: Chemical Biology
+3
+
+This course will investigate modern topics of chemical biology. Topics will include protein modification, solid phase synthesis of proteins and DNA, chemical tags of biomolecules, biomimetic structures, unnatural nucleic acids and proteins, and medicinal chemistry.
+
+
+CHE 418: Molecular Spectroscopy
+4
+
+An advanced exposition of theoretical concepts with experimental aspects of atomic and molecular spectroscopy on electronic absorption, electronic luminescence, Raman, and infrared spectroscopes within a group theoretical and symmetry-based conceptual framework. Lab time is included in the schedule. A lab fee is required. Prerequisite: C- or better in CHE 431 and CHE 432 (concurrent enrollment allowed for CHE 432) or consent of instructor.
+
+
+CHE 422: Biochemistry II
+3
+
+This course is the second semester of a two-semester general biochemistry course which will be focusing on structural biology and information pathways, including topics amino acids, proteins, nucleic acids, genes and chromosomes, DNA/RNA/protein metabolism. Lab time is included in the schedule. Prerequisite: CHE 321 and CHE 322 and CHE 421 or consent of instructor.
+
+
+CHE 432: Physical Chemistry II
+4
+
+This course will examine quantum mechanics; atomic and molecular orbital theory; symmetry, atomic, and molecular spectroscopy; statistical thermodynamics; and philosophical/scientific implications of quantum mechanics. Lab time is included in the schedule. A lab fee is required. Prerequisite: C- or better in CHE 431 or consent of instructor. Offered alternate years.
+
+
+PHY 435: Solid State Physics and Chemistry
+3
+
+This course will provide a comprehensive overview of the fundamental concepts of the structure, bonding, and chemical/physical properties of solid systems: metals,

@@ -1,0 +1,149 @@
+ Hope
+Market	Date & Time	Station
+Champaign	12/24/23 @ 12:00PM CT	WILLDT
+Champaign	12/24/23 @ 9:00PM CT	WEIUDT
+Champaign	12/25/23 @ 11:00PM CT	WEIUDT
+Champaign	12/26/23 @ 4:00AM CT	WEIUDT
+Chicago	12/24/23 @ 6:00AM CT	WTTWDT2
+Davenport	12/24/23 @ 6:00PM CT	WQPTDT
+Davenport	12/25/23 @ 1:00AM CT	WQPTDT
+Davenport	12/25/23 @ 8:00AM CT	WQPTDT
+Peoria	12/18/23 @ 10:00PM CT	WTVPDT
+‌
+Kansas
+All is Bright
+Market	Date & Time	Station
+Wichita	12/22/23 @ 10:00PM CT	KPTSDT
+Repeat the Sounding Joy
+Market	Date & Time	Station
+Wichita	12/24/23 @ 10:30AM CT	KPTSDS2
+Wichita	12/28/23 @ 9:00PM CT	KOODDT
+Wichita	12/28/23 @ 9:00PM CT	KDCKDT
+Wichita	12/28/23 @ 9:00PM CT	KSWKDT
+Wichita	12/28/23 @ 9:00PM CT	KWKSDT
+The Thrill Of Hope
+Market	Date & Time	Station
+Topeka	12/8/23 @ 11:00PM CT	KTWUDT3
+Wichita	12/13/23 @ 5:00PM CT	KPTSDT2
+Louisiana
+The Thrill Of Hope
+Market	Date & Time	Station
+New Orleans	12/9/23 @ 9:00PM CT	WYESDT
+New Orleans	12/10/23 @ 2:00PM CT	WYESDT
+New Orleans	12/24/23 @ 2:00PM CT	WYESDT
+‌
+Maine
+The Thrill Of Hope
+Market	Date & Time	Station
+Bangor	12/24/23 @ 7:00PM CT	WMEBDT
+Bangor	12/24/23 @ 7:00PM CT	WMEDDT
+Portland-Auburn	12/24/23 @ 7:00PM CT	WCBBDT
+Portland-Auburn	12/24/23 @ 7:00PM CT	WMEADT
+Presque Isle	12/24/23 @ 7:00PM CT	WMEMDT
+‌
+Michigan
+The Thrill Of Hope
+Market	Date & Time	Station
+Alpena	12/24/23 @ 3:00PM CT	WCMLDT
+Detroit	12/23/23 @ 11:30PM CT	WTVSDT5
+Detroit	12/24/23 @ 3:30AM CT	WTVSDT5
+Detroit	12/24/23 @ 3:00PM CT	WTVSDT
+Detroit	12/25/23 @ 3:00AM CT	WTVSDT
+Flint-Saginaw	12/24/23 @ 3:00PM CT	WCMUDT
+Flint-Saginaw	12/24/23 @ 3:00PM CT	WCMZDT
+Traverse	12/24/23 @ 3:00PM CT	WCMVDT
+‌
+Minnesota
+All is Bright
+Market	Date & Time	Station
+Duluth-Superior	12/13/23 @ 9:30PM CT	WDSEDT4
+Duluth-Superior	12/13/23 @ 9:30PM CT	WRPTDT4
+Duluth-Superior	12/13/23 @ 3:30PM CT	WDSEDT4
+Duluth-Superior	12/13/23 @ 3:30PM CT	WRPTDT4
+Duluth-Superior	12/13/23 @ 9:30PM CT	WDSEDT4
+Duluth-Superior	12/13/23 @ 9:30PM CT	WRPTDT4
+Minneapolis	12/13/23 @ 12:00AM CT	KAWBDT
+Minneapolis	12/13/23 @ 12:00AM CT	KAWEDT
+Minneapolis	12/13/23 @ 3:30AM CT	KTCADT2
+Minneapolis	12/13/23 @ 3:30AM CT	KAWBDT6
+Minneapolis	12/13/23 @ 3:30AM CT	KAWEDT6
+Minneapolis	12/13/23 @ 3:30AM CT	KWCMDT3
+Minneapolis	12/13/23 @ 9:30AM CT	KTCADT2
+Minneapolis	12/13/23 @ 9:30AM CT	KAWBDT6
+Minneapolis	12/13/23 @ 9:30AM CT	KAWEDT6
+Minneapolis	12/13/23 @ 9:30AM CT	KWCMDT3
+Minneapolis	12/13/23 @ 3:30PM CT	KTCADT2
+Minneapolis	12/13/23 @ 3:30PM CT	KAWBDT6
+Minneapolis	12/13/23 @ 3:30PM CT	KAWEDT6
+Minneapolis	12/13/23 @ 3:30PM CT	KWCMDT3
+Minneapolis	12/13/23 @ 9:30PM CT	KTCADT2
+Minneapolis	12/13/23 @ 9:30PM CT	KAWBDT6
+Minneapolis	12/26/23 @ 6:30AM CT	KAWBDT
+Minneapolis	12/26/23 @ 6:30AM CT	KAWEDT
+Minneapolis	12/30/23 @ 10:30PM CT	KAWBDT
+Minneapolis	12/30/23 @ 10:30PM CT	KAWEDT
+Minneapolis	12/31/23 @ 10:30PM CT	KAWBDT5
+Minneapolis	12/31/23 @ 10:30PM CT	KAWEDT5
+Rochester	12/13/23 @ 3:30AM CT	KSMQDT4
+Rochester	12/13/23 @ 9:30AM CT	KSMQDT4
+Rochester	12/13/23 @ 3:30PM CT	KSMQDT4
+Rochester	12/13/23 @ 9:30PM CT	KSMQDT4
+The Thrill Of Hope
+Market	Date & Time	Station
+Duluth-Superior	12/12/23 @ 9:00PM CT	WDSEDT
+Duluth-Superior	12/12/23 @ 9:00PM CT	WRPTDT
+Duluth-Superior	12/13/23 @ 12:00AM CT	WDSEDT2
+Duluth-Superior	12/13/23 @ 12:00AM CT	WRPTDT2
+Duluth-Superior	12/16/23 @ 11:00PM CT	WDSEDT
+Duluth-Superior	12/11/23 @ 11:00PM CT	WRPTDT
+Minneapolis	12/9/23 @ 2:00AM CT	KTCADT
+Minneapolis	12/11/23 @ 8:00PM CT	KWCMDT
+Minneapolis	12/15/23 @ 11:00PM CT	KTCADT
+Minneapolis	12/16/23 @ 5:00AM CT	KTCADT
+Minneapolis	12/23/23 @ 2:00PM CT	KWCMDT
+Minneapolis	12/24/23 @ 3:00PM CT	KWCMDT
+Minneapolis	12/25/23 @ 12:30PM CT	KWCMDT
+Rochester	12/25/23 @ 11:00PM CT	KSMQDT
+Rochester	12/25/23 @ 7:00PM CT	KSMQDT
+Rochester	12/25/23 @ 2:00PM CT	KSMQDT
+Rochester	12/25/23 @ 10:00PM CT	KSMQDT
+Rochester	12/25/23 @ 3:30PM CT	KSMQDT
+Rochester	12/25/23 @ 10:00PM CT	KSMQDT
+Sioux Falls	12/23/23 @ 9:00AM CT	KSMNDT
+Sioux Falls	12/24/23 @ 3:00PM CT	KSMNDT
+Sioux Falls	12/25/23 @ 12:30PM CT	KSMNDT
+‌
+Missouri
+All is Bright
+Market	Date & Time	Station
+St. Louis	12/18/23 @ 12:00AM CT	KETCDT
+The Thrill Of Hope
+Market	Date & Time	Station
+Columbia	12/9/23 @ 9:00PM CT	KMOSDT3
+Joplin-Pittsburg	12/24/23 @ 1:30PM CT	KOZJDT
+Springfield	12/24/23 @ 1:30PM CT	KOZKDT
+‌
+Montana
+The Thrill Of Hope
+Market	Date & Time	Station
+Billings	12/25/23 @ 2:00PM CT	KBGSDT
+Butte-Bozeman	12/25/23 @ 2:00AM CT	KUSMDTf
+Great Falls	12/25/23 @ 2:00AM CT	KUGFDT
+Helena	12/25/23 @ 2:00AM CT	KUHMDT
+Missoula	12/25/23 @ 2:00AM CT	KUFMDT
+Missoula	12/25/23 @ 2:00AM CT	KUKLDT
+‌
+Nebraska
+Repeat the Sounding Joy
+Market	Date & Time	Station
+Lincoln-Hastings	12/25/23 @ 10:00AM CT	KHNEDT
+Lincoln-Hastings	12/25/23 @ 10:00AM CT	KUONDT
+Lincoln-Hastings	12/25/23 @ 10:00AM CT	KUON-X
+Lincoln-Hastings	12/25/23 @ 10:00AM CT	NETE
+Lincoln-Hastings	12/25/23 @ 10:00AM CT	NETHD
+Lincoln-Hastings	12/25/23 @ 10:00AM CT	KLNEDT
+Lincoln-Hastings	12/25/23 @ 10:00AM CT	NET1
+Lincoln-Hastings	12/25/23 @ 10:00AM CT	KMNEDT
+North Platte	12/25/23 @ 10:00AM CT	KPNEDT
+North Platte	12/25/23 @ 10:00AM CT	KPNEDT5
+Omaha	12/25/23 

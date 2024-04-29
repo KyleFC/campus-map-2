@@ -1,0 +1,31 @@
+e reimbursed.
+
+Is the purpose of the IRB review of informed consent to protect the institution or the subject?
+
+The fundamental purpose of IRB review of informed consent is to assure that the rights and welfare of subjects are protected. A signed informed consent document is evidence that the document has been provided to a prospective subject (and presumably, explained) and that the subject has agreed to participate in the research. IRB review of informed consent documents also ensures that the institution has complied with applicable regulations.
+
+Does an IRB or institution have to compensate subjects if injury occurs as a result of participation in a research study?
+
+Institutional policy, not FDA regulation, determines whether compensation and medical treatment(s) will be offered and the conditions that might be placed on subject eligibility for compensation or treatment(s). The FDA informed consent regulation on compensation [21 CFR 50.25(a)(6)] requires that, for research involving more than minimal risk, the subject must be told whether any compensation and any medical treatment(s) are available if injury occurs and, if so, what they are, or where further information may be obtained. Any statement that compensation is not offered must avoid waiving or appearing to waive any of the subject's rights or releasing or appearing to release the investigator, sponsor, or institution from liability for negligence [21 CFR 50.20].
+
+IRB Membership
+
+May a clinical investigator be an IRB member?
+
+Yes, however, the IRB regulations [21 CFR 56.107(e)] prohibit any member from participating in the IRB's initial or continuing review of any study in which the member has a conflicting interest, except to provide information requested by the IRB. When selecting IRB members, the potential for conflicts of interest should be considered. When members frequently have conflicts and must absent themselves from deliberation and abstain from voting, their contributions to the group review process may be diminished and could hinder the review procedure. Even greater disruptions may result if this person is chairperson of the IRB.
+
+The IRB regulations require an IRB to have a diverse membership. May one member satisfy more than one membership category?
+
+Yes. For example, one member could be otherwise unaffiliated with the institution and have a primary concern in a non-scientific area. This individual would satisfy two of the membership requirements of the regulations. IRBs should strive, however, for a membership that has a diversity of representative capacities and disciplines. In fact, the FDA regulations [21 CFR 56.107(a)] require that, as part of being qualified as an IRB, the IRB must have "... diversity of members, including consideration of race, gender, cultural backgrounds and sensitivity to such issues as community attitudes ...."
+
+When IRB members cannot attend a convened meeting, may they send someone from their department to vote for them?
+
+No. Alternates who are formally appointed and listed in the membership roster may substitute, but ad hoc substitutes are not permissible as members of an IRB. However, a member who is unable to be present at the convened meeting may participate by video-conference or conference telephone call, when the member has received a copy of the documents that are to be reviewed at the meeting. Such members may vote and be counted as part of the quorum. If allowed by IRB procedures, ad hoc substitutes may attend as consultants and gather information for the absent member, but they may not be counted toward the quorum or participate in either deliberation or voting with the board. The IRB may, of course, ask questions of this representative just as they could of any non-member consultant. Opinions of the absent members that are transmitted by mail, telephone, telefax or e-mail may be considered by the attending IRB members but may not be counted as votes or the quorum for convened meetings.
+
+May the IRB use alternate members?
+
+The use of formally appointed alternate IRB members is acceptable to the FDA, provided that the IRB's written procedures describe the appointment and function of alternate members. The IRB roster should identify the primary member(s) for whom each alternate member may substitute. To ensure maintaining an appropriate quorum, the alternate's qualifications should be comparable to the primary member to be replaced. The IRB minutes should document when an alternate member replaces a primary member. When alternates substitute for a primary member, the alternate member should have received and reviewed the same material that the primary member received or would have received.
+
+Does a non-affiliated member need to attend every IRB meeting?
+
+No. Although 21 CFR 56.108(c) does not specifically require the presence of a member not otherwise affiliated with the institution to constitute a quorum, FDA considers the presence of such members an important element of the IRB's diversity

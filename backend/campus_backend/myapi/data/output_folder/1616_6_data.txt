@@ -1,0 +1,140 @@
+@ 12:00PM CT	WLVTDT
+Philadelphia	12/24/23 @ 12:00PM CT	WLVT-TV
+Philadelphia	12/25/23 @ 12:00AM CT	WLVTDT
+Philadelphia	12/25/23 @ 12:00AM CT	WLVT-TV
+Philadelphia	12/25/23 @ 10:00PM CT	WPPTDT
+Philadelphia	12/26/23 @ 4:00AM CT	WPPTDT
+Philadelphia	12/26/23 @ 10:00AM CT	WPPTDT
+Philadelphia	12/26/23 @ 4:00PM CT	WPPTDT
+Pittsburgh	12/24/23 @ 5:00PM CT	WQEDDT
+‌
+Puerto Rico
+All is Bright
+Market	Date & Time	Station
+Puerto Rico	12/24/23 @ 3:30AM CT	WMTJ
+Puerto Rico	12/27/23 @ 5:30PM CT	WMTJ
+Puerto Rico	12/30/23 @ 5:00PM CT	WMTJ
+Repeat the Sounding Joy
+Market	Date & Time	Station
+Puerto Rico	12/28/23 @ 8:00PM CT	WMTJ
+‌
+Rhode Island
+All is Bright
+Market	Date & Time	Station
+Providence	12/22/23 @ 4:00PM CT	WSBEDT
+Repeat the Sounding Joy
+Market	Date & Time	Station
+Providence	12/27/23 @ 2:00PM CT	WSBEDT
+The Thrill Of Hope
+Market	Date & Time	Station
+Providence	12/18/23 @ 12:00AM CT	WSBEDT
+‌
+South Carolina
+All is Bright
+Market	Date & Time	Station
+Charleston	12/24/23 @ 11:30PM CT	WITVDT
+Charleston	12/25/23 @ 8:30PM CT	WITVDT2
+Charleston	12/31/23 @ 1:30AM CT	WITVDT3
+Columbia	12/24/23 @ 11:30PM CT	WRJADT
+Columbia	12/24/23 @ 11:30PM CT	WRJADT
+Columbia	12/25/23 @ 8:30PM CT	WRJADT2
+Columbia	12/25/23 @ 8:30PM CT	WRJADT2
+Columbia	12/31/23 @ 1:30AM CT	WRLKDT3
+Columbia	12/31/23 @ 1:30AM CT	WRLKDT3
+Greenville-Spartan	12/24/23 @ 11:30PM CT	WNEHDT
+Greenville-Spartan	12/24/23 @ 11:30PM CT	WNTVDT
+Greenville-Spartan	12/24/23 @ 11:30PM CT	WRETDT
+Greenville-Spartan	12/25/23 @ 8:30PM CT	WNEHDT2
+Greenville-Spartan	12/25/23 @ 8:30PM CT	WNTVDT2
+Greenville-Spartan	12/25/23 @ 8:30PM CT	WRJADT2
+Greenville-Spartan	12/31/23 @ 1:30AM CT	WNEHDT3
+Greenville-Spartan	12/31/23 @ 1:30AM CT	WNTVDT3
+Greenville-Spartan	12/31/23 @ 1:30AM CT	WRETDT3
+Myrtle Beach	12/24/23 @ 11:30PM CT	WHMCDT
+Myrtle Beach	12/24/23 @ 11:30PM CT	WJPMDT
+Myrtle Beach	12/25/23 @ 8:30PM CT	WHMCDT2
+Myrtle Beach	12/25/23 @ 8:30PM CT	WJPMDT2
+Myrtle Beach	12/31/23 @ 1:30AM CT	WHMCDT3
+Myrtle Beach	12/31/23 @ 1:30AM CT	WJPMDT3
+The Thrill Of Hope
+Market	Date & Time	Station
+Augusta	12/11/23 @ 11:00PM CT	WEBADT2
+Charleston	12/11/23 @11:00PM CT	WITVDT2
+Charlotte	12/11/23 11:00PM CT	WNSCDT2
+Columbia	12/11/23 11:00PM CT	WRJADT2
+Columbia	12/11/23 11:00PM CT	WRJADT2
+Greenvll-Spartan	12/11/23 11:00PM CT	WNEHDT2
+Greenvll-Spartan	12/11/23 11:00PM CT	WNTVDT2
+Greenvll-Spartan	12/11/23 11:00PM CT	WRETDT2
+Myrtle Beach	12/11/23 11:00PM CT	WHMCDT2
+Myrtle Beach	12/11/23 11:00PM CT	WJPMDT2
+Savannah	12/11/23 11:00PM CT	WJWJDT2
+‌
+South Dakota
+All is Bright
+Market	Date & Time	Station
+Sioux Falls	12/13/23 @ 3:30AM CT	KSMNDT3
+Sioux Falls	12/13/23 @ 9:30AM CT	KSMNDT3
+Sioux Falls	12/13/23 @ 3:30PM CT	KSMNDT3
+Sioux Falls	12/13/23 @ 9:30PM CT	KSMNDT3
+Repeat the Sounding Joy
+Market	Date & Time	Station
+Sioux Falls	12/25/23 @ 9:00AM CT	KRNEDT
+The Thrill Of Hope
+Market	Date & Time	Station
+Sioux Falls	12/4/23 @ 9:00PM CT	KCSDDT
+Sioux Falls	12/4/23 @ 9:00PM CT	KDSDDT
+Sioux Falls	12/4/23 @ 9:00PM CT	KESDDT
+Sioux Falls	12/4/23 @ 9:00PM CT	KTSDDT
+Sioux Falls	12/4/23 @ 9:00PM CT	KUSDDT
+Sioux Falls	12/5/23 @ 1:00AM CT	KCSDDT
+Sioux Falls	12/5/23 @ 1:00AM CT	KDSDDT
+Sioux Falls	12/5/23 @ 1:00AM CT	KESDDT
+Sioux Falls	12/5/23 @ 1:00AM CT	KTSDDT
+Sioux Falls	12/5/23 @ 1:00AM CT	KUSDDT
+Sioux Falls	12/6/23 @ 2:00AM CT	KCSDDT
+Sioux Falls	12/6/23 @ 2:00AM CT	KDSDDT
+Sioux Falls	12/6/23 @ 2:00AM CT	KESDDT
+Sioux Falls	12/6/23 @ 2:00AM CT	KTSDDT
+Sioux Falls	12/6/23 @ 2:00AM CT	KUSDDT
+Sioux Falls	12/10/23 @ 10:00PM CT	KCSDDT
+Sioux Falls	12/10/23 @ 10:00PM CT	KDSDDT
+Sioux Falls	12/10/23 @ 10:00PM CT	KESDDT
+Sioux Falls	12/10/23 @ 10:00PM CT	KTSDDT
+Sioux Falls	12/10/23 @ 10:00PM CT	KUSDDT
+Sioux Falls	12/11/23 @ 8:00PM CT	KSMNDT
+Sioux Falls	12/24/23 @ 10:00PM CT	KCSDDT
+Sioux Falls	12/24/23 @ 10:00PM CT	KDSDDT
+Sioux Falls	12/24/23 @ 10:00pM CT	KESDDT
+Sioux Falls	12/24/23 @ 10:00PM CT	KTSDDT
+Sioux Falls	12/24/23 @ 10:00PM CT	KUSDDT
+Sioux Falls	12/31/23 @ 10:00PM CT	KCSDDT
+Sioux Falls	12/31/23 @ 10:00PM CT	KDSDDT
+Sioux Falls	12/31/23 @ 10:00PM CT	KESDDT
+Sioux Falls	12/31/23 @ 10:00PM CT	KTSDDT
+Sioux Falls	12/31/23 @ 10:00PM CT	KUSDDT
+Sioux Falls	1/7/23 @ 10:00PM CT	KCSDDT
+Sioux Falls	1/7/23 @ 10:00PM CT	KDSDDT
+Sioux Falls	1/7/23 @ 10:00PM CT	KESDDT
+Sioux Falls	1/7/23 @ 10:00PM CT	KTSDDT
+Sioux Falls	1/7/23 @ 10:00PM CT	KUSDDT
+Rapid City	12/4/23 @ 8:00PM CT	KBHEDT
+Rapid City	12/4/23 @ 9:00PM CT	KPSDDT
+Rapid City	12/4/23 @ 9:00PM CT	KZSDDT
+Rapid City	12/5/23 @ 12:00AM CT	KBHEDT
+Rapid City	12/5/23 @ 1:00AM CT	KPSDDT
+Rapid City	12/5/23 @ 1:00AM CT	KZSDDT
+Rapid City	12/6/23 @ 2:00AM CT	KBHEDT
+Rapid City	12/6/23 @ 2:00AM CT	KPSDDT
+Rapid City	12/6/23 @ 2:00AM CT	KZSDDT
+Rapid City	12/10/23 @ 9:00PM CT	KBHEDT
+Rapid City	12/10/23 @ 10:00PM CT	KPSDDT
+Rapid City	12/10/23 @ 10:00PM CT	KZSDDT
+Rapid City	12/24/23 @ 9:00PM CT	KBHEDT
+Rapid City	12/24/23 @ 10:00PM CT	KPSDDT
+Rapid City	12/24/23 @ 10:00PM CT	KZSDDT
+Rapid City	12/31/23 @ 9:00PM CT	KBHEDT
+Rapid City	12/31/23 @ 10:00PM CT	KPSDDT
+Rapid City	12/31/23 @ 10:00PM CT	KZSDDT
+Rapid City	1/7/23 @ 9:00PM CT	KBHEDT
+Rapid Cit

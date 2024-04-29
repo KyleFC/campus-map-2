@@ -1,0 +1,149 @@
+10:00PM CT	KTSDDT
+Sioux Falls	12/31/23 @ 10:00PM CT	KUSDDT
+Sioux Falls	1/7/23 @ 10:00PM CT	KCSDDT
+Sioux Falls	1/7/23 @ 10:00PM CT	KDSDDT
+Sioux Falls	1/7/23 @ 10:00PM CT	KESDDT
+Sioux Falls	1/7/23 @ 10:00PM CT	KTSDDT
+Sioux Falls	1/7/23 @ 10:00PM CT	KUSDDT
+Rapid City	12/4/23 @ 8:00PM CT	KBHEDT
+Rapid City	12/4/23 @ 9:00PM CT	KPSDDT
+Rapid City	12/4/23 @ 9:00PM CT	KZSDDT
+Rapid City	12/5/23 @ 12:00AM CT	KBHEDT
+Rapid City	12/5/23 @ 1:00AM CT	KPSDDT
+Rapid City	12/5/23 @ 1:00AM CT	KZSDDT
+Rapid City	12/6/23 @ 2:00AM CT	KBHEDT
+Rapid City	12/6/23 @ 2:00AM CT	KPSDDT
+Rapid City	12/6/23 @ 2:00AM CT	KZSDDT
+Rapid City	12/10/23 @ 9:00PM CT	KBHEDT
+Rapid City	12/10/23 @ 10:00PM CT	KPSDDT
+Rapid City	12/10/23 @ 10:00PM CT	KZSDDT
+Rapid City	12/24/23 @ 9:00PM CT	KBHEDT
+Rapid City	12/24/23 @ 10:00PM CT	KPSDDT
+Rapid City	12/24/23 @ 10:00PM CT	KZSDDT
+Rapid City	12/31/23 @ 9:00PM CT	KBHEDT
+Rapid City	12/31/23 @ 10:00PM CT	KPSDDT
+Rapid City	12/31/23 @ 10:00PM CT	KZSDDT
+Rapid City	1/7/23 @ 9:00PM CT	KBHEDT
+Rapid City	1/7/23 @ 10:00PM CT	KPSDDT
+Rapid City	1/7/23 @ 10:00PM CT	KZSDDT
+Minot-Bismarck	12/4/23 @ 9:00PM CT	KQSDDT
+Minot-Bismarck	12/5/23 @ 1:00AM CT	KQSDDT
+Minot-Bismarck	12/6/23 @ 2:00AM CT	KQSDDT
+Minot-Bismarck	12/10/23 @ 10:00PM CT	KQSDDT
+Minot-Bismarck	12/24/23 @ 10:00PM CT	KQSDDT
+Minot-Bismarck	12/31/23 @ 10:00PM CT	KQSDDT
+Minot-Bismarck	1/7/23 @ 10:00PM CT	KQSDDT
+‌
+Tennessee
+The Thrill of Hope
+Market	Date & Time	Station
+Nashville	12/16/23 @ 9:30AM CT	WNPTDT
+‌
+Texas
+Repeat the Sounding Joy
+Market	Date & Time	Station
+El Paso	12/9/23 @ 4:00AM CT	KCOSDT
+El Paso	12/9/23 @ 4:00AM CT	KCOS-X
+Lubbock	12/9/23 @ 4:00AM CT	KTTZDT
+The Thrill Of Hope
+Market	Date & Time	Station
+Amarillo	12/17/23 @ 4:00AM CT	KACVDT
+Austin	12/8/23 @ 9:55PM CT	KLRUDT
+Austin	12/21/23 @ 4:00PM CT	KLRUDT
+Corpus Christi	12/24/23 @ 3:00PM CT	KEDTDT
+El Paso	12/23/23 @ 7:00PM CT	KCOSDT
+El Paso	12/23/23 @ 7:00PM CT	KCOS-X
+Houston	12/11/23 @ 9:00PM CT	KUHTDT
+Houston	12/13/23 @ 3:30AM CT	KUHTDT
+Houston	12/24/23 @ 3:00PM CT	KUHTDT
+Odessa-Midland	12/25/23 @ 4:00PM CT	KPBTDT
+Odessa-Midland	12/25/23 @ 4:00PM CT	KPBT-2
+San Antonio	12/7/23 @ 6:00PM CT	KLRNDT2
+San Antonio	12/8/23 @ 8:00PM CT	KLRNDT
+San Antonio	12/10/23 @ 1:00PM CT	KLRNDT2
+San Antonio	12/24/23 @ 3:00PM CT	KLRNDT
+Waco-Temple-Bryan	12/8/23 @ 8:00PM CT	KAMUDT
+‌
+Utah
+The Thrill Of Hope
+Market	Date & Time	Station
+Salt Lake City	12/17/23 @ 1:00PM CT	WNJSDT
+Salt Lake City	12/25/23 @ 2:00AM CT	WNJSDT
+‌
+Vermont
+The Thrill Of Hope
+Market	Date & Time	Station
+Burlington	12/3/23 @ 4:00PM CT	WETKDT2
+Burlington	12/3/23 @ 4:00PM CT	WVERDT2
+Burlington	12/3/23 @ 4:00PM CT	WVTADT2
+Burlington	12/3/23 @ 4:00PM CT	WVTBDT2
+Burlington	12/7/23 @ 10:00PM CT	WETKDT
+Burlington	12/7/23 @ 10:00PM CT	WVERDT
+Burlington	12/7/23 @ 10:00PM CT	WVTADT
+Burlington	12/7/23 @ 10:00PM CT	WVTBDT
+Burlington	12/11/23 @ 4:30PM CT	WETKDT
+Burlington	12/11/23 @ 4:30PM CT	WVERDT
+Burlington	12/11/23 @ 4:30PM CT	WVTADT
+Burlington	12/11/23 @ 4:30PM CT	WVTBDT
+‌
+Wyoming
+Repeat the Sounding Joy
+Market	Date & Time	Station
+Cheyenne	12/25/23 @ 9:00AM CT	KTNEDT5
+Cheyenne	12/25/23 @ 9:00AM CT	KTNEDT
+Sioux Falls	12/25/23 @ 9:30AM CT	KTNEDT
+The Thrill Of Hope
+Market	Date & Time	Station
+Casper-Riverton	12/3/23 @ 10:00PM CT	KCWCDT
+Casper-Riverton	12/3/23 @ 10:00PM CT	KPTWDT
+Casper-Riverton	12/3/23 @ 11:00PM CT	KCWCDT2
+Casper-Riverton	12/3/23 @ 11:00PM CT	KPTWDT2
+Casper-Riverton	12/4/23 @ 4:00AM CT	KCWCDT
+Casper-Riverton	12/4/23 @ 4:00AM CT	KPTWDT
+Cheyenne	12/3/23 @ 10:00PM CT	KWYPDT
+Cheyenne	12/3/23 @ 11:00PM CT	KWYPDT2
+Cheyenne	12/4/23 @ 4:00AM CT	KWYPDT
+‌
+Washington
+Repeat the Sounding Joy
+Market	Date & Time	Station
+Seattle	12/24/23 @ 7:00PM CT	KBTCDT
+Seattle	12/24/23 @ 7:00PM CT	KCKADT
+Seattle	12/25/23 @ 8:00AM CT	KBTCDT
+Seattle	12/25/23 @ 8:00AM CT	KCKADT
+Spokane	12/18/23 @ 10:00PM CT	KCDTDT
+Spokane	12/18/23 @ 10:00PM CT	KUIDDT
+Spokane	12/22/23 @ 12:00AM CT	KCDTDT2
+Spokane	12/22/23 @ 12:00AM CT	KUIDDT2
+Spokane	12/23/23 @ 9:00PM CT	KCDTDT2
+Spokane	12/23/23 @ 9:00PM CT	KUIDDT2
+Spokane	12/24/23 @ 1:00AM CT	KCDTDT2
+Spokane	12/24/23 @ 1:00AM CT	KUIDDT2
+The Thrill Of Hope
+Market	Date & Time	Station
+Spokane	12/4/23 @ 10:00PM CT	KSPSDT
+Spokane	12/5/23 @ 2:00AM CT	KSPSDT
+Spokane	12/6/23 @ 3:00AM CT	KSPSDT
+Spokane	12/8/23 @ 12:00PM CT	KSPSDT
+Spokane	12/25/23 @ 2:00AM CT	KSPSDT
+Spokane	12/25/23 @ 2:00PM CT	KSPSDT
+Seattle	12/21/23 @ 8:00PM CT	KBTCDT
+Seattle	12/21/23 @ 8:00PM CT	KCKADT
+Seattle	12/22/23 @ 7:00AM CT	KBTCDT
+Seattle	12/22/23 @ 7:00AM CT	KCKADT
+Seattle	12/24/23 @ 8:00PM CT	KBTCDT
+Seattle	12/24/23 @ 8:00PM CT	KCKADT
+‌
+Wisconsin
+Repeat the Sounding Joy
+Market	Date & Time	Station
+Green Bay-Appleton	12/24/23 @ 11:00PM CT	WPNEDT2
+La Crosse-Eau Claire	12/24/23 @ 11:00PM CT	WHLADT2
+La Crosse-Eau Claire	12/24/23 @ 11:00PM CT	WHWCDT2
+Madison	12/24/23 @ 11:00PM CT	WHADT2
+Madison	12/24/23 @ 11:00PM CT	WPT2
+Wausau-Rhinelander	12/24/23 @ 11:00PM CT	WPT2
+Wausau-Rhinelander	12/24/23 @ 11:00PM CT	WHRMDT2
+Cheyenne	12/3/23 @ 11:00PM CT	WLEFDT2
+Milwaukee	12/11/23 @ 1:00AM CT	WMVTDT
+Advent w

@@ -1,0 +1,122 @@
+https://www.cui.edu/webteam/styles-lists
+Skip to Main Content
+
+Search
+Academics 
+Admissions 
+About
+Athletics
+Student Life
+The Arts
+Giving
+ MyCUI 
+Web Team
+Website Request
+Common Styles
+Survey
+Faculty Form
+UG Majors Project
+MyCUI Promotion Policy
+LIST STYLES
+Web Team
+Default Unordered List
+Item 1
+Item 2
+
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+</ul>
+Unstyled Unordered List
+Item 1
+Item 2
+
+<ul class="unstyled">
+  <li>Item 1</li>
+  <li>Item 2</li>
+</ul>
+Inline Unordered List
+Item 1
+Item 2
+Item 3
+Item 4
+Item 5
+Item 6
+
+<ul class="inline-list">
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+  <li>Item 4</li>
+  <li>Item 5</li>
+  <li>Item 6</li>
+</ul>
+Default Ordered List
+Item 1
+Item 2
+
+<ol class="unstyled">
+  <li>Item 1</li>
+  <li>Item 2</li>
+</ol>
+Branded Unordered List
+Item 1
+Item 2
+
+<ul class="cui-brand">
+  <li>Item 1</li>
+  <li>Item 2</li>
+</ul>
+Small Branded Unordered List
+Item 1
+Item 2
+
+<ul class="cui-brand small">
+  <li>Item 1</li>
+  <li>Item 2</li>
+</ul>
+Branded Inline Unordered List
+Item 1
+Item 2
+Item 3
+Item 4
+Item 5
+Item 6
+
+<ul class="inline-list cui-brand">
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+  <li>Item 4</li>
+  <li>Item 5</li>
+  <li>Item 6</li>
+</ul>
+Join Our Community
+Apply Now
+Visit Concordia
+Request Info
+Virtual Tour
+Contact Us
+Concordia University Irvine Footer
+Connect
+University Events
+Resources
+Campus Map
+Employment
+MyCUI
+Parents
+Pay Tuition Online
+Press Room
+Sitemap
+Veterans Resource Center
+Services
+Academic Advising
+Bursar's Office
+Campus Safety
+Financial Aid
+at Concordia University Irvine
+Library
+Brand and Marketing Resources
+Registrar
+University Services
+

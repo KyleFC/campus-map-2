@@ -1,0 +1,108 @@
+https://www.cui.edu/webteam/styles-tables
+Skip to Main Content
+
+Search
+Academics 
+Admissions 
+About
+Athletics
+Student Life
+The Arts
+Giving
+ MyCUI 
+Web Team
+Website Request
+Common Styles
+Survey
+Faculty Form
+UG Majors Project
+MyCUI Promotion Policy
+TABLE STYLES
+Web Team
+Default Table
+
+This table solution can be used for any table that does not exceed 3 columns in a row.
+
+Table Header	Table Header	Table Header
+Information	Information	Information
+Information	Information	Information
+Information	Information	Information
+Information	Information	Information
+
+<table>
+<tbody>
+  <tr>
+    <th>Table Header</th>
+    <th>Table Header</th>
+    <th>Table Header</th>
+  <tr>
+  <tr>
+    <td>Table Header</td>
+    <td>Table Header</td>
+    <td>Table Header</td>
+  <tr>
+</tbody>
+</table>
+
+Responsive Table
+
+This table solution is what will need to be used for any table that have more than 3 columns in a row.
+
+Table Header	Table Header	Table Header	Table Header	Table Header	Table Header
+Information	Information	Information	Information	Information	Information
+Information	Information	Information	Information	Information	Information
+Information	Information	Information	Information	Information	Information
+Information	Information	Information	Information	Information	Information
+
+<div class="table-responsive">
+<table>
+<tbody>
+  <tr>
+    <th>Table Header</th>
+    <th>Table Header</th>
+    <th>Table Header</th>
+    <th>Table Header</th>
+    <th>Table Header</th>
+    <th>Table Header</th>
+  <tr>
+  <tr>
+    <td>Table Header</td>
+    <td>Table Header</td>
+    <td>Table Header</td>
+    <td>Table Header</td>
+    <td>Table Header</td>
+    <td>Table Header</td>
+  <tr>
+</tbody>
+</table>
+</div>
+
+Join Our Community
+Apply Now
+Visit Concordia
+Request Info
+Virtual Tour
+Contact Us
+Concordia University Irvine Footer
+Connect
+University Events
+Resources
+Campus Map
+Employment
+MyCUI
+Parents
+Pay Tuition Online
+Press Room
+Sitemap
+Veterans Resource Center
+Services
+Academic Advising
+Bursar's Office
+Campus Safety
+Financial Aid
+at Concordia University Irvine
+Library
+Brand and Marketing Resources
+Registrar
+University Services
+

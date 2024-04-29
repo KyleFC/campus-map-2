@@ -1,0 +1,47 @@
+s students with the fundamentals of analog and digital signal processing in the context of engineering systems. Interpretation and analysis of continuous and discrete time signals are introduced, as well as the use of Fourier and Laplace transforms. Sampling, filtering, modulation, and feedback for systems are discussed using cases from diverse areas of engineering.
+
+PHY 325: Scientific Equipment Design and Fabrication
+3
+
+This hands-on course will focus on the design of scientific equipment, the use of scientific glassblowing, and machine shop tools, particularly the lathe and the knee-type mill, to fabricate, repair, and modify scientific equipment; also included will be a comprehensive introduction to vacuum technology. Lab time is included in the schedule. A lab fee is required. Prerequisite: C- or better in PHY 221 or consent of instructor.
+
+ENGR 330: Computer Aided Design
+3
+
+Two- and three-dimensional computer aided design principles are developed through the use of a 3D solid modeling program. Students will design and create engineering drawings and geometric models. The course will culminate with a team-based project resulting in the design and fabrication of a prototype. Pre/Co-requisite: ENGR 101
+
+ENGR 495: Senior Capstone I
+2
+
+Students engage the knowledge content of their academic discipline in the context of a specific technology problem or need and in collaboration with a partner organization or client community. Teams demonstrate effective project management strategies, report on progress consistently, and document significant design activity.  Senior level status required
+
+ENGR 496: Senior Capstone II
+2
+
+Students engage the knowledge content of their academic discipline in the context of a specific technology problem or need and in collaboration with a partner organization or client community. Teams demonstrate effective project management strategies, report on progress consistently, and document significant design activity.  Senior level status required
+
+All Engineering majors are required to complete a Senior Capstone project. This culminating course allows you to apply what you have learned throughout your four years to solve a specific engineering problem or need in collaboration with a partner organization or client community. Students who select the engineering major must take CHE 221 in general education.
+
+VIEW FULL CURRICULUM
+
+Program Learning Outcomes (PLOs)
+An ability to identify, formulate, and solve engineering problems by applying principles of engineering, science, and mathematics.
+An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.
+An ability to communicate effectively with a range of audiences.
+An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts.
+An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives.
+An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions.
+An ability to acquire and apply new knowledge as needed, using appropriate learning strategies.
+Meet Your Professors
+
+With small class sizes, you will get to know your professors on an individual basis, and they will get to know you and your educational goals. All of our faculty are Christian professionals who teach with the passion of helping you discover and grow in your callings. Here are some of the professors whom you will meet as an Engineering major.
+
+Dr. Gabriela Espinosa
+Founding Director of Engineering
+
+Dr. Gabriela Espinosa joined Concordia University Irvine as the founding Director of Engineering in 2021. She earned a bachelor’s degree from Yale University in Applied Physics followed by MS and PhD degrees in Biomedical Engineering from Saint Louis University and Washington University in St. Louis, respectively. Dr. Espinosa also completed a postdoctoral fellowship at the University of California, Irvine. Her research has focused on the interaction between mechanical forces and biological systems, such as the role of blood flow on congenital heart defects and the use of mechanical stimuli for improved orthopaedic tissue engineering.
+
+Professor Joshua Tallman
+Assistant Professor of Computer Science & Program Director
+
+Professor Joshua Tallman joined the Concordia University faculty in 2019 as part of the Computer Science Department. He holds a Master's degree in Computer Science from Johns Hopkins University with a BA in Computer Engineering. Professor Tallman has 15+ years of experience working as a programmer and analyst in the field of computer security. He

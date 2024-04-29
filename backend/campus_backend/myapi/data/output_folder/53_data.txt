@@ -1,0 +1,190 @@
+https://www.cui.edu/academicprograms/undergraduate/minors/computer-science
+Skip to Main Content
+
+Search
+Undergraduate
+Academics 
+Campus Life 
+Tuition & Financial Aid
+Admission 
+Contact 
+Apply Now
+Computer Science Minor
+Related Majors
+Related Minors 
+Get Started
+Computer Science Minor
+SCHOOL OF ARTS AND SCIENCES
+EXPLORE 
+ Apply Now  Visit Concordia  Talk to a Counselor  Request Info  Virtual Tour  Deposit
+The Value of a College Minor
+
+By declaring a minor, you’ll have the opportunity to pursue interests that might lie outside of your major. Gaining extra knowledge in an area that interests you can also help you in your future career! Not only will your skills and knowledge be more well-rounded, but you’ll also prove to future employers that you’re willing to work hard and exceed their expectations.
+
+Curriculum
+COMPUTER SCIENCE MINOR
+19 Units
+CSC 104: Fundamentals of Programming
+4
+
+This course covers the basic principles of computer programming and algorithm design using the C# programming language. The class addresses basic language syntax, branching, looping, exceptions, I/O, string processing, best practices, and tools for writing quality computer programs. It also introduces the process of turning a program that was written in a high-level language into an intermediate language and how the operating system then loads and executes it. Students in the class will be able to write elementary programs that will run on the Microsoft .NET Framework and the open source equivalent, Mono.
+
+CSC 210: Introduction to Operating Systems
+3
+
+This course examines the functional components of computer systems, including their hardware implementation and management at different levels, and their interaction, characteristics, and performance. The course will include process management, I/O devices, interrupt structures, resource and memory management, and file systems. Prerequisite: C- or better in CSC 104.
+
+
+CSC 212: Data Structures
+3
+
+This course examines the basic concepts of data structures and related algorithms. Topics include arrays, structures, stacks, queues, linked lists, trees, graphs, and hash tables. Students will implement the data structures and their associated algorithms, and will also write complete programs that make use of these data structures. Other topics to be discussed will be recursion, searching, sorting, and design tradeoffs. Prerequisite: C- or better in CSC 104.
+
+
+Choose three of the following courses:
+CSC 314: Programming Languages
+3
+
+This course examines disciplined programming using a high-level language with specific emphasis on program design, style, efficiency and documentation. Topics include syntax and semantics, statement and subprogram control, data types and data control, design and implementation issues and source control. Offered alternate years. Prerequisite: C- or better in CSC 104.
+
+
+CSC 316: Introduction to Networking
+3
+
+This course serves as an introduction to the structure and components of computer networks, functions and services. In addition, this course discusses current protocols, technologies, and performance issues. Topics include computer network application layers, data communication basics. network layer and routing, network security and other selected topics. Offered alternate years. Prerequisite: C- or better in CSC 104.
+
+
+CSC 318: Object-Oriented Programming
+3
+
+This course examines student problem solving with object oriented programming techniques using Java. The topics include exception handling, generics, inheritance, design patterns, and data structures. Offered alternate years. Prerequisite: C- or better in CSC 212.
+
+
+CSC 320: Server-Side Development
+3
+
+This course provides an overview of programming and database techniques used in server-side programming. Topics include handling web form data, SQL, database design, security considerations, stored procedures, n-tier architecture, transportation and data encoding techniques. Offered alternate years. Prerequisites: C- or better in CSC 316.
+
+
+CSC 324: Computer Architecture and Assembly
+3
+
+This course examines the functional components of computer systems, including hardware implementation and management, major hardware components, peripherals of computers and the interrelation of the devices in performing functions. Students will learn concepts of microprocessors, data transfer and control methods, program sequencing, instruction sets and memory organization theories. Offered alternate years. Prerequisite: C- or better in CSC 104.
+
+
+CSC 428: Information Security
+3
+
+This course examines the fundamentals of information and web security. Topics will include practices of computer system security, operating system security, network security, software security, web security and cryptography algorithms. Offered alternate years. Prerequisites: C- or better in CSC 210 and CSC 316.
+
+
+CSC 430: Advanced Operating Systems
+3
+
+Computer operating systems; topics include time sharing, process communication, memory management, storage allocation, interrelationships between the operating system and the architecture of computer systems. Offered alternate years. Prerequisites: C- or better in CSC 210 and CSC 212.
+
+
+CSC 491: Special Topics: Computer Science
+3
+
+This course will examine a special topic in computer science, which will vary with each offering.
+
+ 
+
+Included in the choice of 3, students may opt to use at most 2 of the following:
+MTH 376: Discrete Mathematics
+3
+
+This course will include the study of relations and functions, graph theory, counting principles and combinatorics, set theory, Boolean algebra, code theory, linear programming, and other selected topics. Prerequisite: C- or better in MTH 271. Offered alternate years.
+
+
+MTH 379: Numerical Analysis
+3
+
+This course serves as an introduction to the basic algorithms of numerical analysis. Topics may include numerical solutions of algebraic equations, interpolation and approximation methods, approximate numerical solutions to systems of linear and non-linear equations, and numerical differentiation and integration. Prerequisite: C- or better in CSC 104 and MTH 272. Offered alternate years.
+
+
+PHY 315: Electronics I: Analog Electronics
+3
+
+This hands-on course will focus on the design, fabrication, and testing of analog electronic circuits, circuit components, and devices with special emphasis on the use of electronic test equipment. Lab time is included in the schedule. A lab fee is required. Prerequisite: C- or better in PHY 221 or consent of instructor.
+
+
+PHY 316: Electronics II: Digital Electronics
+3
+
+This hands-on course will focus on the design, fabrication, and testing of digital electronic circuits, circuit components, and devices with special emphasis on programming and computer control of digital circuits and devices. Lab time is included in the schedule. A lab fee is required. Prerequisites: C- or better in PHY 221 and PHY 315 or consent of instructor.
+
+
+Current students, please note: The requirements listed here may not reflect the most current courses for this minor and may not be the requirements for the catalog year you are following to complete your minor. Please refer to the Academic Catalog for official requirements you must meet to qualify.
+
+Get in Touch
+
+For more information about the Computer Science major at Concordia University Irvine, we invite you to contact us directly.
+
+Julie Melberg
+Mathematics and Computer Sciences Chair
+julie.melberg@cui.edu
+949-214-3295
+
+Get Started
+Request Info
+
+Provide us your contact information, and one of our admissions counselors will be happy to send you more information about our programs.
+
+First Name
+Last Name
+Email
+
+REQUEST INFO
+
+Schedule a Visit
+
+Attend an information meeting online or face-to-face. We will discuss the application process, financial aid, payment plans, and more.
+
+SEP
+
+14
+
+USA Cheer and Stunt Combine
+September 14, 7:00 AM
+CU Arena (Gym)
+
+SCHEDULE A VISIT
+
+Apply Now
+
+Are you ready to get started? Our online application is available 24/7. Begin your journey now and hear from a counselor once you finish.
+
+APPLY NOW
+
+Explore the Opportunities
+Apply Now
+Visit Concordia
+Talk to a Counselor
+Request Info
+Virtual Tour
+Deposit
+Concordia University Irvine Footer
+Connect
+University Events
+Resources
+Campus Map
+Employment
+MyCUI
+Parents
+Pay Tuition Online
+Press Room
+Sitemap
+Veterans Resource Center
+Services
+Academic Advising
+Bursar's Office
+Campus Safety
+Financial Aid
+at Concordia University Irvine
+Library
+Brand and Marketing Resources
+Registrar
+University Services
+

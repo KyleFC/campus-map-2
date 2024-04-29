@@ -1,0 +1,219 @@
+https://www.cui.edu/academicprograms/undergraduate/majors/graphic-design/curriculum
+Skip to Main Content
+
+Search
+Undergraduate
+Academics 
+Campus Life 
+Tuition & Financial Aid
+Admission 
+Contact 
+Apply Now
+Graphic Design Major
+Curriculum
+Minors 
+Faculty
+Scholarship
+Get Started
+GRAPHIC DESIGN MAJOR
+Curriculum
+SCHOOL OF ARTS AND SCIENCES
+EXPLORE 
+ Apply Now  Visit Concordia  Talk to a Counselor  Request Info  Virtual Tour  Deposit
+Curriculum
+GRAPHIC DESIGN FOUNDATION
+54 Units
+ART 200: Elements of Art
+3
+
+In this course students will be given a practical introduction to the basics of art through creative studio activities involving the elements of art in a variety of media with two-dimensional projects. Class fee: $50. This class is offered each spring semester.
+
+ART 201: Drawing I
+3
+
+This studio art course will introduce the basic approaches to observational drawing in a variety of media, methods, and subject matter through lectures, demonstrations, slide presentations, studio drawing, out-of-class drawing, sketching, and critiques. Class fee: $50. This class is offered each semester.
+
+ART 251: Design
+3
+
+This course is a continuation of Elements of Art, with emphasis on the properties and handling of color as a design tool. Students will gain an understanding of color relationships, as well as learn to identify, and analyze the principles and elements of design. Students will utilize these theories and principles in the creation of their own unique designs. Class fee: $50. This class is offered every fall semester.
+
+ART 315: The History of Contemporary Art
+3
+
+This course will examine the art of the last half of the 20th and 21st centuries as it explores the ideas that became seminal points of interest for contemporary artists during this period. Students will study how art reflects history; how style communicates the concerns of the artist and their culture; and how symbols, techniques, materials, and subjects are used to convey the issues important to contemporary artists. This class is offered every fall semester.
+
+
+ART 321: Painting I
+3
+
+This studio art course will introduce students to the basic approaches of oil and acrylic painting, painting techniques, form, content, visual appreciation, and personal expression through lectures, demonstrations, slide presentations, studio painting, out-of-class painting, sketching, and critiques. A lab fee is required. Prerequisite: ART 201. This class is offered every fall semester.
+
+
+GRAPHIC DESIGN CORE
+Units
+ARTG 261: Graphic Design I
+3
+
+This studio art course will give students an introduction to the study of graphic design, as they are exposed to the history of visual communication, typography, advertising, and learn how to identify the elements and principles of design by creating image and text related projects. Students will also develop skills using the digital techniques of scanning, typographic adjustments, vector drawing, exporting, and printing. Class fee: $50. This course is offered every spring semester.
+
+
+ARTG 270: Digital Publishing
+3
+
+In this course students will develop page layout skills utilizing composition and typographic principles while learning to use Adobe InDesign and the creation of images in Adobe Illustrator and Adobe Photoshop, including text to produce flyers, posters, newsletters, magazines, brochures, calendars, etc. Class fee: $50. This course is offered every spring semester.
+
+
+ARTG 271: Digital Image Manipulation
+3
+
+Students will become proficient using Adobe Photoshop in this course, including its applications in graphic design, advertising, web design, animation, and multimedia. Examination of the ways in which complex ideas and messages can be interpreted and represented in visual form will also be included. Class fee: $50. This course is offered every fall semester.
+
+
+ARTG 272: Digital Illustration
+3
+
+In this course students will acquire type manipulation and digital illustration skills through exercises, demonstrations, and practical assignments using Adobe Illustrator, including the development of an individualized artistic process to produce digital illustrations that convey specific messages. Class fee: $50. This course is offered every fall semester.
+
+
+ARTG 300: History of Graphic Design
+3
+
+This survey course will examine the history of graphic design as students gain a broader understanding of how design affects and is affected by the culture; identify individual illustrators, designers, and artists; and recognize specific styles and movements. This course is offered every spring semester. Class fee: $50. Prerequisite: ARTG 261 or consent of instructor.
+
+
+ARTG 360: Typography I
+3
+
+This course will give a historical overview of type and typographic technologies that will introduce students to the formal qualities of different typefaces and teach them to use type as an expressive communication tool. This is an essential course for anyone wishing to communicate with the printed word. Class fee: $50. This class is offered every fall semester. Prerequisite: ARTG 261 or consent of the instructor.
+
+
+ARTG 361: Graphic Design II
+3
+
+Students will produce intermediate design projects that emphasize aesthetics, the theory of design, and the relationship between text and image in this course including the development of digital imaging and layout skills using Adobe InDesign, Photoshop, and Illustrator. A portion of this course will be devoted to a service learning assignment creating design projects for a nonprofit organization within the community. Class fee: $50. This course is offered every fall semester. Prerequisite: ARTG 261.
+
+
+ARTG 460: Typography II
+3
+
+As a continuation of ARTG 360, this course will begin the exploration of personal expression and experimentation typographically with course assignments designed to focus on the issues of denotation, connotation, hierarchy, context and theme, image-type relationships and interaction, and typographic history and expression. Class fee: $50. This course is offered every spring semester. Prerequisite: ARTG 360.
+
+
+ARTG 461: Graphic Design III
+3
+
+This course will allow students to complete advanced graphic design projects to fill gaps in their portfolios, emphasizing their preparation to become professional graphic designers through the production of strong portfolios that can be used to gain internships or employment. Class fee: $50. This course is offered every spring semester. Prerequisite: ARTG 361.
+
+
+ARTG 472: Web Design I
+3
+
+Students will plan and execute a site map and design brief, create a website using industry-standard software, and publish it to a server. Emphasis is placed on the layout, color, typography, interactive elements, and user experience. Class fee: $50. This course is offered every fall semester. Prerequisite: ARTG 361 or consent of instructor.
+
+
+ARTG 473: Motion Graphics
+3
+
+Students will go through the various stages of creating a title sequence for a film in this course as they create several projects including storyboards, animatics, and one full-motion sequence, learning to use the best technique that better serves the idea. Class fee: $50. This course is offered every spring semester. Prerequisite: ARTG 361 or consent of instructor.
+
+ARTG 482: Web Design II
+3
+
+Students will design, create, and build dynamic websites, focusing on concepts, tools, and techniques to create responsive designs for the web and digital devices such as iPads, tablets, and smart phones. Class fee: $50. This course is offered every spring semester. Prerequisite: ARTG 472.
+
+
+Choose one of the following courses:
+ARTG 390: Practicum: Graphic Design
+3
+
+This course is a practical, hands-on experience outside the classroom directly related to the student's major, minor, or professional program that is a beneficial complement to the student's academic experience. A lab fee may be required for some courses.
+
+
+ARTG 481: Digital Photography
+3
+
+This course will provide students with an introduction to visual concepts, basic image capture, and camera functions with digital cameras, including software basics for photographic imaging and digital printing. Class fee: $50. This course is offered alternate years in fall semester.
+
+
+CSC 104: Fundamentals of Programming
+4
+
+This course covers the basic principles of computer programming and algorithm design using the C# programming language. The class addresses basic language syntax, branching, looping, exceptions, I/O, string processing, best practices, and tools for writing quality computer programs. It also introduces the process of turning a program that was written in a high-level language into an intermediate language and how the operating system then loads and executes it. Students in the class will be able to write elementary programs that will run on the Microsoft .NET Framework and the open source equivalent, Mono.
+
+
+ARTG 472: Web Design I
+3
+
+Students will plan and execute a site map and design brief, create a website using industry-standard software, and publish it to a server. Emphasis is placed on the layout, color, typography, interactive elements, and user experience. Class fee: $50. This course is offered every fall semester. Prerequisite: ARTG 361 or consent of instructor.
+
+
+CSC 210: Introduction to Operating Systems
+3
+
+This course examines the functional components of computer systems, including their hardware implementation and management at different levels, and their interaction, characteristics, and performance. The course will include process management, I/O devices, interrupt structures, resource and memory management, and file systems. Prerequisite: C- or better in CSC 104.
+
+
+Current students, please note: The requirements listed here may not reflect the most current courses for this major and may not be the requirements for the catalog year you are following to complete your major. Please refer to the Academic Catalog for official requirements you must meet to qualify for a degree.
+
+Get Started
+Request Info
+
+Provide us your contact information, and one of our admissions counselors will be happy to send you more information about our programs.
+
+First Name
+Last Name
+Email
+
+REQUEST INFO
+
+Schedule a Visit
+
+Attend an information meeting online or face-to-face. We will discuss the application process, financial aid, payment plans, and more.
+
+SEP
+
+14
+
+USA Cheer and Stunt Combine
+September 14, 7:00 AM
+CU Arena (Gym)
+
+SCHEDULE A VISIT
+
+Apply Now
+
+Are you ready to get started? Our online application is available 24/7. Begin your journey now and hear from a counselor once you finish.
+
+APPLY NOW
+
+Explore the Opportunities
+Apply Now
+Visit Concordia
+Talk to a Counselor
+Request Info
+Virtual Tour
+Deposit
+Concordia University Irvine Footer
+Connect
+University Events
+Resources
+Campus Map
+Employment
+MyCUI
+Parents
+Pay Tuition Online
+Press Room
+Sitemap
+Veterans Resource Center
+Services
+Academic Advising
+Bursar's Office
+Campus Safety
+Financial Aid
+at Concordia University Irvine
+Library
+Brand and Marketing Resources
+Registrar
+University Services
+

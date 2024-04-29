@@ -1,0 +1,62 @@
+tific equipment; also included will be a comprehensive introduction to vacuum technology. Lab time is included in the schedule. A lab fee is required. Prerequisite: C- or better in PHY 221 or consent of instructor.
+
+ENGR 330: Computer Aided Design
+3
+
+Two- and three-dimensional computer aided design principles are developed through the use of a 3D solid modeling program. Students will design and create engineering drawings and geometric models. The course will culminate with a team-based project resulting in the design and fabrication of a prototype. Pre/Co-requisite: ENGR 101
+
+ENGR 495: Senior Capstone I
+2
+
+Students engage the knowledge content of their academic discipline in the context of a specific technology problem or need and in collaboration with a partner organization or client community. Teams demonstrate effective project management strategies, report on progress consistently, and document significant design activity.  Senior level status required
+
+ENGR 496: Senior Capstone II
+2
+
+Students engage the knowledge content of their academic discipline in the context of a specific technology problem or need and in collaboration with a partner organization or client community. Teams demonstrate effective project management strategies, report on progress consistently, and document significant design activity.  Senior level status required
+
+COMPUTER, MATHEMATICS, AND BASIC SCIENCE
+MTH 265: Introduction to Statistics
+3
+
+As a basic statistics course applicable to education, business, and the hard sciences, this course will include topics such as descriptive statistics, the normal, binomial, F-, and Chi-squared distributions, and hypothesis testing. Optional topics might include additional non-parametric tests and ANOVA. A TI-83 graphing calculator or Microsoft Excel is required. Prerequisite: C- or better in AMTH 101 or CMTH 101 or MTH 201 or MTH 252 or MTH 271 or equivalent.
+
+
+MTH 271: Calculus I
+4
+
+This course will study differential and integral calculus in one variable through graphical, numerical and symbolic methods. Limits, continuity, derivatives, and integrals will be studied with algebraic, trigonometric, exponential and logarithmic functions, including applications using calculus to solve problems. Prerequisite: A passing score on the Calculus Placement Exam, or consent of the department chair.
+
+MTH 272: Calculus II
+4
+
+A continuation of MTH 271, this course will include a study of methods of integration, applied to algebraic and transcendental functions. Solids of revolution, definite and indefinite integrals, Taylor polynomials, sequences and series, will be studied including applications using calculus to solve problems. Prerequisite: C- or better in MTH 271 or acceptable AP examination credit.
+
+MTH 373: Calculus III
+4
+
+As a continuation of MTH 272, this course will include the study of vector calculus, three-dimensional calculus, partial derivatives, multiple integrals, differential calculus, and other selected topics in vector calculus. Prerequisite: C- or better in MTH 272.
+
+
+MTH 384: Ordinary Differential Equations
+3
+
+This course will cover the classification of differential equations along with first order equations, exact differentials, integrating factors, higher order differential equations, method of undetermined coefficients, variation of parameters, operator methods, solution by infinite series, and Laplace transformations. Prerequisite: C- or better in MTH 272. Offered alternate years.
+
+
+PHY 221: Calculus-based Physics I
+4
+
+This course will study Newtonian mechanics: vectors and scalars, kinematics and dynamics of translational and rotational motion, Newton's laws, speed, velocity, acceleration, force, torque, work, energy, linear and angular momentum, wave and harmonic motion, gravitation, friction, conservation of energy and momentum, thermodynamics. A lab fee is required. Prerequisite: MTH 271 (concurrent enrollment allowed) or consent of instructor.
+
+
+PHY 222: Calculus-based Physics II
+4
+
+As a continuation of PHY 221, this course will cover thermodynamics, Maxwell's equations of electricity and magnetism, current, voltage, resistance, inductance, reactance, power, optics and optical systems, interference, diffraction, polarization, dispersion, and coherence. Lab time is included in the schedule. A lab fee is required. Prerequisites: C- or better in PHY 221 and MTH 272 (concurrent enrollment allowed) or consent of instructor.
+
+
+CSC 104: Fundamentals of Programming
+4
+
+This course covers the basic principles of computer programming and algorithm design using the C# programming language. The class addresses basic language syntax, branching, looping, exceptions, I/O, string processing, best practices, and tools for writing quality computer programs. It also introduces the process of turning a program that was written in a high-level language into an intermediate language and how the operating system then loads and executes it. Students in the class will be able to write elementary prog

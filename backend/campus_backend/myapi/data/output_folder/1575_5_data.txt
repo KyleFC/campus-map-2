@@ -1,0 +1,153 @@
+DT
+Rapid City	12/12/21 @ 10:00PM	KZSDDT
+Rapid City	12/16/21 @ 3:30AM	KBHEDT
+Rapid City	12/16/21 @ 4:30AM	KPSDDT
+Rapid City	12/16/21 @ 4:30AM	KZSDDT
+Sioux Falls	12/12/21 @ 10:00PM	KCSDDT
+Sioux Falls	12/12/21 @ 10:00PM	KDSDDT
+Sioux Falls	12/12/21 @ 10:00PM	KESDDT
+Sioux Falls	12/12/21 @ 10:00PM	KTSDDT
+Sioux Falls	12/12/21 @ 10:00PM	KUSDDT
+Sioux Falls	12/16/21 @ 4:30AM	KCSDDT
+Sioux Falls	12/16/21 @ 4:30AM	KDSDDT
+Sioux Falls	12/16/21 @ 4:30AM	KESDDT
+Sioux Falls	12/16/21 @ 4:30AM	KTSDDT
+Sioux Falls	12/16/21 @ 4:30AM	KUSDDT
+‌
+Tennessee
+Market	Date & Time	Station
+Chattanooga	12/17/21 @ 10:30PM	WTCIDT
+Chattanooga	12/25/21 @ 10:38PM	WTCIDT
+Memphis	12/24/21 @ 10:33PM	WKNODT2
+Memphis	12/26/21 @ 11:30PM	WKNODT
+Memphis	12/27/21 @ 4:30AM	WKNODT
+Nashville	12/19/21 @ 9:30PM	WCTEDT
+Nashville	12/22/21 @ 8:30PM	WCTEDT
+‌
+Texas
+Market	Date & Time	Station
+Amarillo	12/25/21 @ 11:30PM	KACVDT
+Austin	12/24/21 @ 7:30PM	KLRUDT
+Austin	12/25/21 @ 6:00PM	KLRUDT
+Corpus Christi	12/17/21 @ 9:30PM	KEDTDT
+Corpus Christi	12/20/21 @ 2:30AM	KEDTDT
+Corpus Christi	12/21/21 @ 10:00PM	KEDTDT
+Houston	12/20/21 @ 10:00PM	KUHTDT
+Odessa-Midland	12/17/21 @ 9:30PM	KPBTDT
+Odessa-Midland	12/17/21 @ 9:30PM	KPBT-2
+San Antonio	12/7/21 @ 5:00PM	KLRNDT2
+San Antonio	12/14/21 @ 9:30PM	KLRNDT
+San Antonio	12/17/21 @ 4:00AM	KLRNDT
+San Antonio	12/19/21 @ 5:00AM	KLRNDT
+San Antonio	12/21/21 @ 9:30PM	KLRNDT2
+San Antonio	12/22/21 @ 10:00PM	KLRNDT
+Waco-Temple-Bryan	12/17/21 @ 9:00PM	KAMUDT
+‌
+Utah
+Market	Date & Time	Station
+Salt Lake City	12/25/21 @ 6:00AM	KUENDT
+‌
+Vermont
+Market	Date & Time	Station
+Burlington	12/5/21 @ 4:00PM	WETKDT2
+Burlington	12/5/21 @ 4:00PM	WVERDT2
+Burlington	12/5/21 @ 4:00PM	WVTADT2
+Burlington	12/5/21 @ 4:00PM	WVTBDT2
+Burlington	12/18/21 @ 11:30PM	WETKDT2
+Burlington	12/18/21 @ 11:30PM	WVERDT2
+Burlington	12/18/21 @ 11:30PM	WVTADT2
+Burlington	12/18/21 @ 11:30PM	WVTBDT2
+Burlington	12/19/21 @ 2:30PM	WETKDT
+Burlington	12/19/21 @ 2:30PM	WVERDT
+Burlington	12/19/21 @ 2:30PM	WVTADT
+Burlington	12/19/21 @ 2:30PM	WVTBDT
+Burlington	12/19/21 @ 5:00PM	KTEJDT
+Burlington	12/19/21 @ 5:00PM	WVERDT2
+Burlington	12/19/21 @ 5:00PM	WVTADT2
+Burlington	12/19/21 @ 5:00PM	WVTBDT2
+Burlington	12/25/21 @ 11:00AM	WETKDT
+Burlington	12/25/21 @ 11:00AM	WVERDT
+Burlington	12/25/21 @ 11:00AM	WVTADT
+Burlington	12/25/21 @ 11:00AM	WVTBDT
+‌
+Washington
+Market	Date & Time	Station
+Seattle	12/12/21 @ 10:30PM	KCTSDT
+Seattle	12/23/21 @ 7:30PM	KBTCDT
+Seattle	12/23/21 @ 7:30PM	KCKADT
+Seattle	12/24/21 @ 7:30AM	KBTCDT
+Seattle	12/24/21 @ 7:30AM	KCKADT
+Spokane	12/25/21 @ 7:00AM	KWSUDT
+Yakima	12/12/21 @ 10:30PM	KYVEDT
+‌
+West Virginia
+Market	Date & Time	Station
+Charleston	12/7/21 @ 5:30AM	WKASDT
+Charleston	12/7/21 @ 5:30AM	WKPIDT
+Charleston	12/14/21 @ 10:30PM	WKASDT
+Charleston	12/14/21 @ 10:30PM	WKPIDT
+Charleston	12/16/21 @ 3:30AM	WKASDT
+Charleston	12/16/21 @ 3:30AM	WKPIDT
+Charleston	12/20/21 @ 10:30PM	WKASDT2
+Charleston	12/20/21 @ 10:30PM	WKPIDT2
+Charleston	12/22/21 @ 2:30AM	WKASDT2
+Charleston	12/22/21 @ 2:30AM	WKPIDT2
+‌
+Wisconsin
+Market	Date & Time	Station
+Green Bay-Appleton	12/17/21 @ 9:30PM	WPNEDT
+La Crosse-Eau Claire	12/17/21 @ 9:30PM	WHLADT
+La Crosse-Eau Claire	12/17/21 @ 9:30PM	WHWCDT
+Madison	12/17/21 @ 9:30PM	WHADT
+Milwaukee	12/14/21 @ 9:30PM	WMVSDT
+Milwaukee	12/15/21 @ 4:00AM	WMVSDT
+Wausau-Rhinelander	12/17/21 @ 9:30PM	WHRMDT
+Wausau-Rhinelander	12/17/21 @ 9:30PM	WLEFDT
+‌
+Wyoming
+Market	Date & Time	Station
+Casper-Riverton	12/18/21 @ 5:30AM	KCWCDT
+Casper-Riverton	12/18/21 @ 5:30AM	KPTWDT
+Casper-Riverton	12/19/21 @ 11:30PM	KCWCDT
+Casper-Riverton	12/19/21 @ 11:30PM	KPTWDT
+Cheyenne	12/18/21 @ 5:30AM	KWYPDT
+Cheyenne	12/19/21 @ 11:30PM	KWYPDT
+Advent: Focus
+#CUIAdvent
+
+READ DEVOTIONALS
+
+Support the Arts
+Additional support from:
+
+Charlie and Ling Zhang, H.E. Durbin, Ramsey Israwi, Mark and Lauri Howell, Wendy Isbell
+
+Join Our Community
+Apply Now
+Visit Concordia
+Request Info
+Virtual Tour
+Contact Us
+Concordia University Irvine Footer
+Connect
+University Events
+Resources
+Campus Map
+Employment
+MyCUI
+Parents
+Pay Tuition Online
+Press Room
+Sitemap
+Veterans Resource Center
+Services
+Academic Advising
+Bursar's Office
+Campus Safety
+Financial Aid
+at Concordia University Irvine
+Library
+Brand and Marketing Resources
+Registrar
+University Services
+

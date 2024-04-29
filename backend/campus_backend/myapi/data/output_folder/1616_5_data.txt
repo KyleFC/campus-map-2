@@ -1,0 +1,148 @@
+@ 8:30PM CT	WNSCDT2
+Charlotte	12/31/23 @ 1:30AM CT	WNSCDT3
+The Thrill Of Hope
+Market	Date & Time	Station
+Charlotte	12/23/23 @ 11:00PM CT	WUNGDT3
+Charlotte	12/23/23 @ 11:00PM CT	WUNEDT
+Charlotte	12/24/23 @ 4:00AM CT	WUNGDT3
+Charlotte	12/24/23 @ 4:00PM AT	WUNEDT
+Charlotte	12/24/23 @ 3:00PM CT	WTVIDT
+Greensboro	12/23/23 @ 11:00PM CT	WUNLDT3
+Greensboro	12/24/23 @ 4:00AM CT	WUNLDT3
+Greenville-New Bern	12/23/23 @ 11:00PM CT	WUNKDT3
+Greenville-New Bern	12/23/23 @ 11:00PM CT	WUNMDT
+Greenville-New Bern	12/24/23 @ 4:00AM CT	WUNKDT3
+Greenville-New Bern	12/24/23 @ 4:00AM CT	WUNMDT
+Greenvll-Spartan	12/23/23 @ 11:00PM CT	WUNFDT3
+Greenvll-Spartan	12/23/23 @ 11:00PM CT	WUNWDT
+Greenvll-Spartan	12/24/23 @ 4:00AM CT	WUNFDT3
+Greenvll-Spartan	12/24/23 @ 4:00AM CT	WUNWDT
+Myrtle Beach	12/23/23 @ 11:00PM CT	WUNUDT3
+Myrtle Beach	12/24/23 @ 4:00AM CT	WUNUDT3
+Norfolk	12/23/23 @ 11:00PM CT	WUNDDT3
+Norfolk	12/24/23 @ 4:00AM CT	WUNDDT3
+Raleigh-Durham	12/23/23 @ 11:00PM CT	WUNCDT3
+Raleigh-Durham	12/23/23 @ 11:00PM CT	UNCEX
+Raleigh-Durham	12/23/23 @ 11:00PM CT	WUNPDT
+Raleigh-Durham	12/24/23 @ 4:00AM CT	WUNCDT3
+Raleigh-Durham	12/24/23 @ 4:00AM CT	UNCEX
+Raleigh-Durham	12/24/23 @ 4:00AM CT	WUNPDT
+Wilmington	12/24/23 @ 4:00AM CT	WUNJDT3
+Wilmington	12/23/23 @ 11:00PM CT	WUNJDT3
+‌
+North Dakota
+All is Bright
+Market	Date & Time	Station
+Fargo	12/13/23 @ 3:30AM CT	KCGEDT3
+Fargo	12/13/23 @ 3:30AM CT	KFMEDT3
+Fargo	12/13/23 @ 3:30AM CT	KGFEDT3
+Fargo	12/13/23 @ 3:30AM CT	KJREDT3
+Fargo	12/13/23 @ 3:30AM CT	KMDEDT3
+Fargo	12/13/23 @ 9:30PM CT	KCGEDT3
+Fargo	12/13/23 @ 9:30PM CT	KFMEDT3
+Fargo	12/13/23 @ 9:30AM CT	KGFEDT3
+Fargo	12/13/23 @ 9:30AM CT	KJREDT3
+Fargo	12/13/23 @ 9:30AM CT	KMDEDT3
+Fargo	12/13/23 @ 3:30PM CT	KCGEDT3
+Fargo	12/13/23 @ 3:30PM CT	KFMEDT3
+Fargo	12/13/23 @ 3:30PM CT	KGFEDT3
+Fargo	12/13/23 @ 3:30PM CT	KJREDT3
+Fargo	12/13/23 @ 3:30PM CT	KMDEDT3
+Fargo	12/13/23 @ 9:30PM CT	KCGEDT3
+Fargo	12/13/23 @ 9:30PM CT	KFMEDT3
+Fargo	12/13/23 @ 9:30PM CT	KGFEDT3
+Fargo	12/13/23 @ 9:30PM CT	KJREDT3
+Fargo	12/13/23 @ 9:30PM CT	KMDEDT3
+Minot-Bismarck	12/13/23 @ 3:30AM CT	KBMEDT3
+Minot-Bismarck	12/13/23 @ 3:30AM CT	KDSEDT3
+Minot-Bismarck	12/13/23 @ 3:30AM CT	KSREDT3
+Minot-Bismarck	12/13/23 @ 3:30AM CT	KWSEDT3
+Minot-Bismarck	12/13/23 @ 9:30AM CT	KBMEDT3
+Minot-Bismarck	12/13/23 @ 9:30AM CT	KDSEDT3
+Minot-Bismarck	12/13/23 @ 9:30AM CT	KSREDT3
+Minot-Bismarck	12/13/23 @ 9:30AM CT	KWSEDT3
+Minot-Bismarck	12/13/23 @ 3:30PM CT	KBMEDT3
+Minot-Bismarck	12/13/23 @ 3:30PM CT	KDSEDT3
+Minot-Bismarck	12/13/23 @ 3:30PM CT	KSREDT3
+Minot-Bismarck	12/13/23 @ 3:30PM CT	KWSEDT3
+Minot-Bismarck	12/13/23 @ 9:30PM CT	KBMEDT3
+Minot-Bismarck	12/13/23 @ 9:30PM CT	KDSEDT3
+Minot-Bismarck	12/13/23 @ 9:30PM CT	KSREDT3
+Minot-Bismarck	12/13/23 @ 9:30PM CT	KWSEDT3
+‌
+Ohio
+Repeat the Sounding Joy
+Market	Date & Time	Station
+Cincinnati	12/24/23 @ 6:00PM CT	WCTE
+Cleveland	12/25/23 @ 7:00AM CT	WEAO
+Youngstown	12/25/23 @ 7:00AM CT	WNEO
+The Thrill Of Hope
+Market	Date & Time	Station
+Cincinnati	12/22/23 @ 10:00PM CT	WPTODT5
+Cincinnati	12/22/23 @ 10:00PM CT	WPTODT
+Cincinnati	12/23/23 @ 4:00AM CT	WPTODT5
+Cincinnati	12/23/23 @ 9:00AM CT	WPTODT
+Cincinnati	12/23/23 @ 2:00PM CT	WPTODT2
+Cincinnati	12/24/23 @ 9:00PM CT	WPTODT2
+Cincinnati	12/24/23 @ 8:00AM CT	WPTODT2
+Cincinnati	12/24/23 @ 5:00PM CT	WPTODT2
+Cincinnati	12/24/23 @ 7:00PM CT	WPTODT5
+Cincinnati	12/25/23 @ 7:00PM CT	WPTODT
+Cincinnati	12/26/23 @ 1:00AM CT	WPTODT2
+Cincinnati	12/26/23 @ 1:00AM CT	WPTODT5
+Cincinnati	12/26/23 @ 1:00AM CT	WPTODT
+Cincinnati	12/26/23 @ 4:00AM CT	WPTODT2
+Cincinnati	12/28/23 @ 11:00AM CT	WPTODT2
+Cleveland	12/22/23 @ 3:00AM CT	WVIZDT
+Cleveland	12/25/23 @ 3:00AM CT	WVIZDT
+Cleveland	12/25/23 @ 9:00AM CT	WEAODT
+Youngstown	12/25/23 @ 9:00AM CT	WNEODT
+‌
+Oregon
+All is Bright
+Market	Date & Time	Station
+Bend	12/23/23 @ 4:00AM CT	KOABDT
+Portland	12/23/23 @ 4:00AM CT	KOPBDT
+Portland	12/23/23 @ 4:00AM CT	KTVRDT
+‌
+Pennsylvania
+The Thrill Of Hope
+Market	Date & Time	Station
+Erie	12/24/23 @ 1:00PM CT	WQLNDT
+Harrisburg	12/24/23 @ 1:00PM CT	WITFDT
+Philadelphia	12/24/23 @ 12:00PM CT	WLVTDT
+Philadelphia	12/24/23 @ 12:00PM CT	WLVT-TV
+Philadelphia	12/25/23 @ 12:00AM CT	WLVTDT
+Philadelphia	12/25/23 @ 12:00AM CT	WLVT-TV
+Philadelphia	12/25/23 @ 10:00PM CT	WPPTDT
+Philadelphia	12/26/23 @ 4:00AM CT	WPPTDT
+Philadelphia	12/26/23 @ 10:00AM CT	WPPTDT
+Philadelphia	12/26/23 @ 4:00PM CT	WPPTDT
+Pittsburgh	12/24/23 @ 5:00PM CT	WQEDDT
+‌
+Puerto Rico
+All is Bright
+Market	Date & Time	Station
+Puerto Rico	12/24/23 @ 3:30AM CT	WMTJ
+Puerto Rico	12/27/23 @ 5:30PM CT	WMTJ
+Puerto Rico	12/30/23 @ 5:00PM CT	WMTJ
+Repeat the Sounding Joy
+Market	Date & Time	Station
+Puerto Rico	12/28/23 @ 8:00PM CT	WMTJ
+‌
+Rhode Island
+All is Bright
+Market	Date & Time	Station
+Providence	12/22/23 @ 4:00PM CT	WSBEDT
+Repeat the Sounding Joy
+Market	Date & Time	Station
+Providence	12/27/23 @ 2:00PM CT	WSBEDT
+The Thrill Of Hope
+Market	Date & Time	Station
+Providence	12/18/23 @ 12:00AM CT	WSBEDT
+‌
+South Carolina
+All is Bright
+Market	Date & Time	Station
+Charleston	12/24/23 @ 11:30PM CT	WITVDT
+Charleston	12/25/23 

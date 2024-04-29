@@ -1,0 +1,150 @@
+ 5:00 AM	KOEDDT
+Tulsa	12/25/2022 @ 1:30 AM	KOEDDT
+Tulsa	12/25/2022 @ 9:00 AM	KOEDDT
+Tulsa	12/9/2022 @ 11:00 PM	KOEDDT
+Tulsa	12/10/2022 @ 5:00 AM	KOEDDT
+Tulsa	12/25/2022 @ 1:30 AM	KOEDDT
+Tulsa	12/25/2022 @ 9:00 AM	KOEDDT
+Tulsa	12/9/2022 @ 11:00 PM	KOED
+Tulsa	12/10/2022 @ 5:00 AM	KOED
+Tulsa	12/25/2022 @ 1:30 AM	KOED
+Tulsa	12/25/2022 @ 9:00 AM	KOED
+‌
+Pennsylvania
+Market	Date & Time	Station
+Erie	12/25/22 @ 7:00 PM	WQLNDT
+Harrisburg-Lancaster	12/17/22 @ 4:00 PM	WITFDT
+Philadelphia	12/25/22 @ 10:00 PM	WLVTDT
+Philadelphia	12/26/22 @ 4:00 AM	WLVTDT
+Philadelphia	12/24/22 @ 11:00 PM	WPPTDT
+Philadelphia	12/25/22 @ 5:00 AM	WPPTDT
+Philadelphia	12/25/22 @ 5:00PM	WPPTDT
+Wilkes Barre	12/24/22 @ 2:00 PM	WVIADT
+Wilkes Barre	12/25/22 @ 3:00 AM	WVIADT
+‌
+Rhode Island
+Market	Date & Time	Station
+Providence	12/15/22 @ 8:00 PM	WSBEDT2
+Providence	12/17/22 @ 4:00 PM	WSBEDT2
+‌
+South Carolina
+Market	Date & Time	Station
+Augusta	12/13/22 @ 11:00 PM	WEBADT2
+Augusta	12/24/22 @ 2:00 PM	WEBADT3
+Charleston	12/13/22 @ 11:00 PM	WITVDT2
+Charleston	12/24/22 @ 2:00 PM	WITVDT3
+Charlotte	12/13/22 @ 11:00 PM	WNSCDT2
+Charlotte	12/24/22 @ 2:00 PM	WNSCDT3
+Columbia	12/24/22 @ 2:00 PM	WRLKDT3
+Columbia	12/13/22 @ 11:00 PM	WRJADT2
+Columbia	12/24/22 @ 2:00 PM	WRJADT3
+Columbia	12/13/22 @ 11:00 PM	WRLKDT2
+Greenvll-Spartan	12/13/22 @ 11:00 PM	WNEHDT2
+Greenvll-Spartan	12/24/22 @ 2:00 PM	WNEHDT3
+Greenvll-Spartan	12/13/22 @ 11:00 PM	WNTVDT2
+Greenvll-Spartan	12/24/22 @ 2:00 PM	WNTVDT3
+Greenvll-Spartan	12/13/22 @ 11:00 PM	WRETDT2
+Greenvll-Spartan	12/24/22 @ 2:00 PM	WRETDT3
+Myrtle Beach	12/13/22 @ 11:00 PM	WHMCDT2
+Myrtle Beach	12/24/22 @ 2:00 PM	WHMCDT3
+Myrtle Beach	12/13/22 @ 11:00 PM	WJPMDT2
+Myrtle Beach	12/24/22 @ 2:00 PM	WJPMDT3
+Savannah	12/13/22 @ 11:00 PM	WJWJDT2
+Savannah	12/24/22 @ 2:00 PM	WJWJDT3
+‌
+South Dakota
+Market	Date & Time	Station
+Minot-Bismarck	12/25/22 @ 2:00 PM	KQSDDT
+Rapid City	12/25/22 @ 1:00 PM	KBHEDT
+Rapid City	12/25/22 @ 2:00 PM	KPSDDT
+Rapid City	12/25/22 @ 2:00 PM	KZSDDT
+Sioux Falls	12/25/22 @ 2:00 PM	KCSDDT
+Sioux Falls	12/25/22 @ 2:00 PM	KDSDDT
+Sioux Falls	12/25/22 @ 2:00 PM	KESDDT
+Sioux Falls	12/25/22 @ 2:00 PM	KTSDDT
+Sioux Falls	12/25/22 @ 2:00 PM	KUSDDT
+‌
+Tennessee
+Market	Date & Time	Station
+Chattanooga	12/23/22 @ 10:00 PM	WTCIDT
+Knoxville	12/25/22 @ 8:30 AM	WETPDT
+Knoxville	12/25/22 @ 8:30 AM	WKOPDT
+Memphis	12/25/22 @ 11:00 AM	WKNODT
+Nashville	12/19/22 @ 10:00 PM	WNPTDT
+‌
+Texas
+Market	Date & Time	Station
+Amarillo	12/11/22 @ 3:00 AM	KACVDT
+Austin	12/18/22 @ 3:00 PM	KLRUDT
+Corpus Christi	12/23/22 @ 11:00 PM	KEDTDT
+Corpus Christi	12/25/22 @ 1:00 AM	KEDTDT
+El Paso	12/24/22 @ 7:00 PM	KCOSDT
+El Paso	12/25/22 @ 10:00 AM	KCOSDT
+El Paso	12/24/22 @ 7:00 PM	KCOS-X
+El Paso	12/25/22 @ 10:00 AM	KCOS-X
+Houston	12/25/22 @ 11:00 AM	KUHTDT
+Lubbock	12/24/22 @ 7:00 PM	KTTZDT
+Lubbock	12/25/22 @ 10:00 AM	KTTZDT
+San Antonio	12/25/22 @ 5:30 PM	KLRNDT
+Waco-Temple-Bryan	12/25/22 @ 12:00 PM	KAMUDT
+‌
+Utah
+Market	Date & Time	Station
+Salt Lake City	12/25/22 @ 3:00 AM	KUENDT
+‌
+Washington
+Market	Date & Time	Station
+Seattle	12/22/22 @ 8:00 PM	KBTCDT
+Seattle	12/22/22 @ 8:00 PM	KCKADT
+Seattle	12/23/22 @ 2:00 AM	KBTCDT
+Seattle	12/23/22 @ 2:00 AM	KCKADT
+Seattle	12/23/22 @ 7:00 AM	KBTCDT
+Seattle	12/23/22 @ 7:00 AM	KCKADT
+Seattle	12/23/22 @ 10:00 PM	KCTSDT
+Seattle	12/25/22 @ 1:00 AM	KBTCDT
+Seattle	12/25/22 @ 1:00 AM	KCKADT
+Seattle	12/25/22 @ 9:00 AM	KBTCDT
+Seattle	12/25/22 @ 9:00 AM	KCKADT
+Yakima	12/23/22 @ 10:00 PM	KYVEDT
+‌
+Wisconsin
+Market	Date & Time	Station
+Green Bay-Appleton	12/21/22 @ 10:00 PM	WPNEDT
+Green Bay-Appleton	12/14/22 @ 7:00 PM	WPNEDT2
+Green Bay-Appleton	12/14/22 @ 11:00 PM	WPNEDT2
+Green Bay-Appleton	12/16/22 @ 3:00 AM	WPNEDT2
+Green Bay-Appleton	12/17/22 @ 5:00 PM	WPNEDT2
+La Crosse-Eau Claire	12/21/22 @ 10:00 PM	WHLADT
+La Crosse-Eau Claire	12/21/22 @ 10:00 PM	WHWCDT
+La Crosse-Eau Claire	12/14/22 @ 7:00 PM	WHLADT2
+La Crosse-Eau Claire	12/14/22 @ 11:00 PM	WHLADT2
+La Crosse-Eau Claire	12/16/22 @ 3:00 AM	WHLADT2
+La Crosse-Eau Claire	12/17/22 @ 5:00 PM	WHLADT2
+La Crosse-Eau Claire	12/14/22 @ 7:00 PM	WHWCDT2
+La Crosse-Eau Claire	12/14/22 @ 11:00 PM	WHWCDT2
+La Crosse-Eau Claire	12/16/22 @ 3:00 AM	WHWCDT2
+La Crosse-Eau Claire	12/17/22 @ 5:00 PM	WHWCDT2
+Madison	12/21/22 @ 10:00 PM	WHADT
+Madison	12/14/22 @ 7:00 PM	WHADT2
+Madison	12/14/22 @ 11:00 PM	WHADT2
+Madison	12/16/22 @ 3:00 AM	WHADT2
+Madison	12/17/22 @ 5:00 PM	WHADT2
+Madison	12/14/22 @ 7:00 PM	WPT2
+Madison	12/14/22 @ 11:00 PM	WPT2
+Madison	12/16/22 @ 3:00 AM	WPT2
+Madison	12/17/22 @ 5:00 PM	WPT2
+Milwaukee	12/25/22 @ 2:00 PM	WMVSDT
+Wausau-Rhinelander	12/21/22 @ 10:00 PM	WHRMDT
+Wausau-Rhinelander	12/21/22 @ 10:00 PM	WLEFDT
+Wausau-Rhinelander	12/14/22 @ 7:00 PM	WHRMDT2
+Wausau-Rhinelander	12/14/22 @ 11:00 PM	WHRMDT2
+Wausau-Rhinelander	12/16/22 @ 3:00 AM	WHRMDT2
+Wausau-Rhinelander	12/17/22 @ 5:00 PM	WHRMDT2
+Wausau-Rhinelander	12/14/22 @ 7:00 PM	WLEFDT2
+Wausau-Rhinelander	12/14/22 @ 11:00 PM	WLEFDT2
+Wausau-Rhinelander	12/16/22 @ 3:00 AM	WLEFDT2
+Wausau-Rhinelander	12/17/22 @ 5:00 PM	WLEFDT2
+ 
+ 
+Past Events
+A Concordia Christ

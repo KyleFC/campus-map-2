@@ -1,0 +1,86 @@
+f a professor chooses not to disable a course following completion, it will remain on your course list. You can remove a course from your course list by hovering over the “My Courses” box and clicking the settings cog. Uncheck the desired courses and click submit to remove them from the list.
+
+I am unable to find course information in Blackboard. What do I do?
+
+Try contacting your professor for assistance. If there is a mistake on the management side of the course, they should be able to assist you in resolving the issue.
+The navigation bar on the left-hand side of the screen can be hidden. Look for the small “>” symbol on the left side of the screen when you are in a course and click it to show more options.
+
+I do not see a course I am teaching in Blackboard. How can it be added?
+
+The person to contact for assistance varies by department. Try contacting your direct supervisor if you are unsure of who can assist you.
+
+Can I change the email address that is listed under my Blackboard account?
+
+Your contact email address in Blackboard must remain your eagles/staff/faculty email address.
+
+Not all of the course content is loading. How do I fix this?
+
+Try using a different web browser. We highly recommend Google Chrome. Please contact IT Services if you have any questions (ITS@cui.edu, 949-214-3175).
+‌
+Eagles Gmail FAQs
+
+What is my username and password for my Eagles Email?
+
+Your username is your ID number (E#). The password is the same that you use for Blackboard and the library databases.
+
+What is my email address?
+
+Your email address should be in this format: firstname.lastname@eagles.cui.edu. It should have been sent to you when you applied or enrolled.
+For some students, there may be a number following their last name. This is due to two or more students having the same name.
+
+Why is my Eagles Email important?
+
+Your Eagles Email is the primary address that school departments will use to send you information about classes, housing, and anything else related to school. You will miss important information if you do not check it regularly.
+
+Can I forward my Eagles Gmail to another address instead?
+
+Yes. View a tutorial for instructions on how to forward your Eagles Email.
+
+I am having trouble logging into my Eagles Email, what do I do?
+
+Try using the self-service password reset tool to change your password. You can either click the “Forgot Password” link on the login page or navigate to your account.
+If you are unable to reset your password, try reading the error message to see if it explains the problem.
+You can follow these instructions to reset your password.
+If this does not work, please contact IT Services for assistance (ITS@cui.edu, 949-214-3175).
+
+Can I access my Eagles Email on my smartphone or tablet?
+
+Yes. Click here for instructions on how to set up your Eagles Email on iOS.
+
+How much storage space do I get for my Google Drive through my Eagles Email account?
+
+Your Google Drive does not have, storage limit.
+
+How long do I get to keep my Eagles Email address after I graduate or no longer attend Concordia?
+
+While we do not currently delete Eagles Email accounts from past students, we reserve the right to delete inactive accounts (typically after 6 months with no use). If you use the account as normal, there will be no issues.
+‌
+Staff/Faculty Email FAQs
+
+What is my username and password for my employee email?
+
+Your username is your ID number (starting with E). The password is the same that you use for Blackboard and the library databases.
+
+What is my email address?
+
+Your email address is in this format: firstname.lastname@cui.edu.
+For some employees, there may be a number following their last name. This is due to two or more employees having the same name.
+
+Where do I access employee email?
+
+In your browser’s address bar, type mail.cui.edu.
+You can also go to cui.edu/mycui, scroll down to the Faculty and Staff section, and click Faculty/Staff Email.
+Lastly, if you go to gmail.com, you can type your employee email address (firstname.lastname@cui.edu). This will forward you to our login page.
+
+I am an adjunct professor. Do I get an email address?
+
+All employees, including student workers, staff, full-time faculty, and adjunct faculty receive an email address. If you do not know your email, contact your supervisor for more information.
+
+What is my employee email used for?
+
+Employee email accounts are used as the primary means of communication for anything work-related, both inside and outside university staff and faculty.
+When composing an email, a university directory of staff and faculty will automatically appear as you begin to type someone’s name.
+
+Can I forward my employee email to another email address?
+
+In order to maintain compliance with FERPA regulations, and to make sure that student information is kept confidential as required, our policy per the Human Resources department, the Registrar, and the Provost is that employee email may not be forwarded to any addresses outside of Concordia’s manage

@@ -1,0 +1,163 @@
+ng Joy
+Market	Date & Time	Station
+Denver	12/24/23 @ 9:00PM CT	KBDID
+Denver	12/25/23 @ 3:00AM CT	KBDID
+The Thrill Of Hope
+Market	Date & Time	Station
+Albuquerque	12/24/23 @ 11:00AM CT	KRMUDT
+Colorado Springs	12/24/23 @ 11:00AM CT	KTSCDT
+Colorado Springs	12/24/23 @ 11:00AM CT	KIXEDT
+Denver	12/24/23 @ 11:00AM CT	KRMADT
+Denver	12/24/23 @ 11:00AM CT	KRMZ
+Denver	12/24/23 @ 11:00AM CT	KRMZDT
+Grand Junction	12/24/23 @ 11:00AM CT	KRMJDT
+‌
+District of Colombia
+All is Bright
+Market	Date & Time	Station
+Washington, D.C.	12/24/23 @ 11:00AM CT	WETADT
+Washington, D.C.	12/24/23 @ 11:00AM CT	WETADT5
+The Thrill Of Hope
+Market	Date & Time	Station
+Washington, D.C.	12/23/23 @ 11:00PM CT	WHUTDT
+Washington, D.C.	12/24/23 @ 3:00AM CT	WHUTDT
+Washington, D.C.	12/24/23 @ 4:00PM CT	WHUTDT
+Washington, D.C.	12/25/23 @ 11:00AM CT	WHUTDT
+‌
+Florida
+The Thrill Of Hope
+Market	Date & Time	Station
+Jacksonville	12/24/23 @ 12:00PM CT	WJCTDT
+Jacksonville	12/24/23 @ 4:00PM CT	WJCTDT
+Jacksonville	12/25/23 @ 11:00PM CT	WJCTDT
+Miami	12/24/23 @ 12:30PM CT	WPBTDT
+Mobile-Pensacola	12/24/23 @ 3:00PM CT	WSREDT
+Orlanda	12/25/23 @ 11:00PM CT	WEFSDT
+Orlanda	12/20/23 @ 9:00PM CT	WEFSDT
+Orlanda	12/21/23 @ 1:00AM CT	WEFSDT
+Orlanda	12/24/23 @ 11:00PM CT	WEFSDT
+Orlanda	12/25/23 @ 7:00AM CT	WEFSDT
+Orlanda	12/25/23 @ 3:00PM CT	WEFSDT
+Orlanda	12/26/23 @ 3:00AM CT	WEFSDT
+Panama City	12/24/23 @ 12:00PM CT	WEFSDT
+Panama City	12/24/23 @ 10:00PM CT	WEFSDT
+Tallahassee	12/24/23 @ 1:00PM CT	WFSUDT
+Tallahassee	12/24/23 @ 11:00PM CT	WFSUDT
+Tampa	12/25/23 @ 10:00PM CT	WEDQDT4
+Tampa	12/25/23 @ 10:00PM CT	WEDQDT4
+West Palm	12/14/23 @ 10:00PM CT	WXELDT
+‌
+Georgia
+All is Bright
+Market	Date & Time	Station
+Augusta	12/24/23 @ 11:30PM CT	WEBADT
+Augusta	12/25/23 @ 8:30PM CT	WEBADT2
+Augusta	12/31/23 @ 1:30AM CT	WEBADT3
+Savannah	12/24/23 @ 11:30PM CT	WJWJDT
+Savannah	12/25/23 @ 8:30PM CT	WJWJDT2
+Savannah	12/31/23 @ 1:30AM CT	WJWJDT3
+Repeat the Sounding Joy
+Market	Date & Time	Station
+Albany	12/17/23 @ 9:00PM CT	WABWDT3
+Albany	12/17/23 @ 9:00PM CT	WACSDT3
+Albany	12/20/23 @ 9:00PM CT	WABWDT3
+Albany	12/20/23 @ 9:00PM CT	WACSDT3
+Atlanta	12/17/23 @ 9:00PM CT	WGTVDT3
+Atlanta	12/20/23 @ 9:00PM CT	WGTVDT3
+Augusta	12/17/23 @ 9:00PM CT	WCESDT3
+Augusta	12/20/23 @ 9:00PM CT	WCESDT3
+Chattanooga	12/17/23 @ 9:00PM CT	WNGHDT3
+Chattanooga	12/20/23 @ 9:00PM CT	WNGHDT3
+Columbus	12/17/23 @ 9:00PM CT	WJSPDT3
+Columbus	12/20/23 @ 9:00PM CT	WJSPDT3
+Jacksonville	12/17/23 @ 9:00PM CT	WXGADT3
+Jacksonville	12/20/23 @ 9:00PM CT	WXGADT3
+Macon	12/17/23 @ 9:00PM CT	WMUMDT3
+Macon	12/20/23 @ 9:00PM CT	WMUMDT3
+Savannah	12/17/23 @ 9:00PM CT	WVANDT3
+Savannah	12/20/23 @ 9:00PM CT	WVANDT3
+‌
+Hawaii
+Repeat the Sounding Joy
+Market	Date & Time	Station
+Honolulu	12/22/23 @ 8:00PM CT	KHETDT
+Honolulu	12/22/23 @ 9:00PM CT	KMEBDT
+Honolulu	12/22/23 @ 9:00PM CT	KHETOC
+Honolulu	12/24/23 @ 12:00AM CT	KHETOC
+‌
+Idaho
+Repeat the Sounding Joy
+Market	Date & Time	Station
+Boise	12/18/23 @ 10:00PM CT	KAIDDT
+Boise	12/22/23 @ 12:00AM CT	KAIDDT2
+Boise	12/23/23 @ 9:00PM CT	KAIDDT2
+Boise	12/24/23 @ 1:00AM CT	KAIDDT2
+Idaho Falls	12/18/23 @ 10:00PM CT	KISUDT
+Idaho Falls	12/22/23 @ 12:00AM CT	KISUDT2
+Idaho Falls	12/23/23 @ 9:00PM CT	KISUDT2
+Idaho Falls	12/24/23 @ 1:00AM CT	KISUDT2
+Twin Falls	12/18/23 @ 10:00PM CT	KIPTDT
+Twin Falls	12/22/23 @ 12:00AM CT	KIPTDT2
+Twin Falls	12/23/23 @ 9:00PM CT	KIPTDT2
+Twin Falls	12/24/23 @ 1:00AM CT	KIPTDT2
+‌
+Indiana
+The Thrill Of Hope
+Market	Date & Time	Station
+Chicago	12/18/23 @ 9:00PM CT	WYINDT
+Chicago	12/19/23 @ 11:00PM CT	WYINDT
+Chicago	12/25/23 @ 1:00AM CT	WYINDT
+Evansville	12/24/23 @ 3:00PM CT	WNINDT
+Indianapolis	12/16/23 @ 5:00PM CT	WFYIDT
+Indianapolis	12/24/23 @ 12:00AM CT	WIPBDT
+outh Bend	12/25/23 @ 3:00PM CT	WNITDT2
+‌
+Iowa
+Repeat the Sounding Joy
+Market	Date & Time	Station
+Sioux City	12/25/23 @ 10:00AM CT	KXNEDT
+Sioux City	12/25/23 @ 10:00AM CT	KXNEDT5
+‌
+Illinois
+All is Bright
+Market	Date & Time	Station
+Chicago	12/20/23 @ 9:00PM CT	WYINDT
+Repeat the Sounding Joy
+Market	Date & Time	Station
+Chicago	12/25/23 @ 4:00AM CT	WYINDT
+The Thrill Of Hope
+Market	Date & Time	Station
+Champaign	12/24/23 @ 12:00PM CT	WILLDT
+Champaign	12/24/23 @ 9:00PM CT	WEIUDT
+Champaign	12/25/23 @ 11:00PM CT	WEIUDT
+Champaign	12/26/23 @ 4:00AM CT	WEIUDT
+Chicago	12/24/23 @ 6:00AM CT	WTTWDT2
+Davenport	12/24/23 @ 6:00PM CT	WQPTDT
+Davenport	12/25/23 @ 1:00AM CT	WQPTDT
+Davenport	12/25/23 @ 8:00AM CT	WQPTDT
+Peoria	12/18/23 @ 10:00PM CT	WTVPDT
+‌
+Kansas
+All is Bright
+Market	Date & Time	Station
+Wichita	12/22/23 @ 10:00PM CT	KPTSDT
+Repeat the Sounding Joy
+Market	Date & Time	Station
+Wichita	12/24/23 @ 10:30AM CT	KPTSDS2
+Wichita	12/28/23 @ 9:00PM CT	KOODDT
+Wichita	12/28/23 @ 9:00PM CT	KDCKDT
+Wichita	12/28/23 @ 9:00PM CT	KSWKDT
+Wichita	12/28/23 @ 9:00PM CT	KWKSDT
+The Thrill Of Hope
+Market	Date & Time	Station
+Topeka	12/8/23 @ 11:00PM CT	KTWUDT3
+Wichita	12/13/23 @ 5:00PM CT	KPTSDT2
+Louisiana
+The Thrill Of Hope
+Market	Date & Time	Station
+New Orleans	12/9/23 @ 9:00PM CT	WYESDT
+New Orleans	12/10/23 @ 2:00PM CT	WYESDT
+New Orleans	12/24/23 @ 2:00PM CT	WYESDT
+‌
+Maine
+The 

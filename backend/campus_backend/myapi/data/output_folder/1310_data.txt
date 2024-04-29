@@ -1,0 +1,83 @@
+https://www.cui.edu/webteam/styles-headings
+Skip to Main Content
+
+Search
+Academics 
+Admissions 
+About
+Athletics
+Student Life
+The Arts
+Giving
+ MyCUI 
+Web Team
+Website Request
+Common Styles
+Survey
+Faculty Form
+UG Majors Project
+MyCUI Promotion Policy
+HEADING STYLES
+Web Team
+Standard Heading 1
+
+<h1>Standard Heading 1</h1>
+Featured Heading 1
+
+<h1 class="title">Featured Heading 1</h1>
+Subtitle Heading 1
+
+<h1 class="subtitle">Subtitle Heading 1</h1>
+Standard Heading 2
+
+<h2>Standard Heading 2</h2>
+Featured Heading 2
+
+<h2 class="title">Featured Heading 2</h2>
+Subtitle Heading 2
+
+<h2 class="subtitle">Subtitle Heading 2</h2>
+Standard Heading 3
+
+<h3>Standard Heading 3</h3>
+Subtitle Heading 3
+
+<h3 class="subtitle">Subtitle Heading 3</h3>
+Standard Heading 4
+
+<h4>Standard Heading 4</h4>
+Standard Heading 5
+
+<h5>Standard Heading 5</h5>
+
+The use of headings should be consistent. The h1 at the top of the content should be identical to the link title in the left nav. Subheadings in h2 should be used for categorizing content paragraphs and sections within the content. Any sub sections of a certain area should use h3. If a sub subsection needs some emphasis, the use of h4 is allowed. There shouldn't be any use of headings beyond h4.
+
+Join Our Community
+Apply Now
+Visit Concordia
+Request Info
+Virtual Tour
+Contact Us
+Concordia University Irvine Footer
+Connect
+University Events
+Resources
+Campus Map
+Employment
+MyCUI
+Parents
+Pay Tuition Online
+Press Room
+Sitemap
+Veterans Resource Center
+Services
+Academic Advising
+Bursar's Office
+Campus Safety
+Financial Aid
+at Concordia University Irvine
+Library
+Brand and Marketing Resources
+Registrar
+University Services
+

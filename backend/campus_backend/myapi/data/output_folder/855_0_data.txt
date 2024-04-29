@@ -1,0 +1,49 @@
+https://www.cui.edu/academicprograms/provost/institutional-research-assessment/institutional-review-board/faqs
+Skip to Main Content
+
+Search
+Academics 
+Admissions 
+About
+Athletics
+Student Life
+The Arts
+Giving
+ MyCUI 
+
+Institutional Review Board
+
+First-Time Applicants
+Repeat Applicants
+FAQs
+Contact Us
+FAQs
+INSTITUTIONAL REVIEW BOARD
+Frequently Asked Questions
+IRB Organization
+
+What is an Institutional Review Board (IRB) and do IRBs have to be formally called by that name?
+
+Under FDA regulations, an IRB is an appropriately constituted group that has been formally designated to review and monitor biomedical research involving human subjects. In accordance with FDA regulations, an IRB has the authority to approve, require modifications in (to secure approval), or disapprove research. This group review serves an important role in the protection of the rights and welfare of human research subjects.
+The purpose of IRB review is to assure, both in advance and by periodic review, that appropriate steps are taken to protect the rights and welfare of humans participating as subjects in the research. To accomplish this purpose, IRBs use a group process to review research protocols and related materials (e.g., informed consent documents and investigator brochures) to ensure protection of the rights and welfare of human subjects of research.
+No, "IRB" is a generic term used by FDA (and HHS) to refer to a group whose function is to review research to assure the protection of the rights and welfare of the human subjects. Each institution may use whatever name it chooses. Regardless of the name chosen, the IRB is subject to the Agency's IRB regulations when studies of FDA regulated products are reviewed and approved.
+
+What is an "assurance" or a "multiple project assurance?"
+
+An "assurance," is a document negotiated between an institution and the Department of Health and Human Services (HHS) in accordance with HHS regulations. For research involving human subjects conducted by HHS or supported in whole or in part by HHS, the HHS regulations require a written assurance from the performance-site institution that the institution will comply with the HHS protection of human subjects regulations [45 CFR part 46]. The assurance mechanism is described in 45 CFR 46.103. Once an institution's assurance has been approved by HHS, a number is assigned to the assurance. The assurance may be for a single grant or contract (a "single project assurance"); for multiple grants ("multiple project assurances" - formerly called "general assurances"); or for certain types of studies such as oncology group studies and AIDS research group studies ("cooperative project assurances"). The Office for Human Research Protection (OHRP) is responsible for implementing the HHS regulations. The address and telephone number for OHRP are: 1101 Wootton Parkway, The Tower Building, Suite 200, Rockville, MD 20852; Toll-Free Telephone within the U.S.: (866) 447-4777, Telephone: (240) 453-6900, FAX: (240) 453-6909.
+
+Must an institution establish its own IRB?
+
+No. Although institutions engaged in research involving human subjects will usually have their own IRBs to oversee research conducted within the institution or by the staff of the institution, FDA regulations permit an institution without an IRB to arrange for an "outside" IRB to be responsible for initial and continuing review of studies conducted at the non-IRB institution. Such arrangements should be documented in writing. Individuals conducting research in a non-institutional setting often use established IRBs (independent or institutional) rather than form their own IRBs. Also see the information sheets entitled "Non-local IRB Review" and "Cooperative Research."
+
+May IRB members be paid for their services?
+
+The FDA regulations do not preclude a member from being compensated for services rendered. Payment to IRB members should not be related to or dependent upon a favorable decision. Expenses, such as travel costs, may also be reimbursed.
+
+Is the purpose of the IRB review of informed consent to protect the institution or the subject?
+
+The fundamental purpose of IRB review of informed consent is to assure that the rights and welfare of subjects are protected. A signed informed consent document is evidence that the document has been provided to a prospective subject (and presumably, explained) and that the subject has agreed to participate in the research. IRB review of informed consent documents also ensures that the institution has complied with applicable regulations.
+
+Does an IRB or institution have to compensate subjects if injury occurs as a result of participation in a research study?
+
+Institutional policy, not FDA regulation, determines whether compensation and medical treatment(s) will be offered and the conditions that might be placed on subject eligibility for compensation or treatment(s). The FDA informed consent regulation on compensation [21 CFR 50.25(a)(6)] requires that, for research involvin

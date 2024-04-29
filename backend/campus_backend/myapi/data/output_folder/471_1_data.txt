@@ -1,0 +1,67 @@
+mal molecular and cellular structures, biochemistry, and function is included in this course with an emphasis on the molecular level of cells, cellular metabolism, and the structure and function of the major organelles. Lab time is included in the schedule. A lab fee is required. Prerequisites: C- or better in (BIO 111, BIO 112, CHE 221) and (CHE 222 or SCI 115; or concurrent enrollment) or consent of instructor. Typically offered annually (fall semester).
+
+BIO 355: Biostatistics
+3
+
+This course will introduce statistical analysis concepts and methods necessary for the interpretation of biological data in including a hands-on experience with computational methods and biological interpretation rather than statistical theory. Computer lab time is included in the schedule. Prerequisite: C- or better in BIO 111 or consent of instructor. Typically offered annually (fall semester).
+
+CHE 403: Biological Inorganic Chemistry
+3
+
+This course will investigate the roles of metals in biology. Topics will include metals homeostasis in living organisms, metalloenzymes, metals in medicine, metalloproteins that function in respiration, photosynthesis, and electronic transfer.
+
+
+CHE 421: Biochemistry I
+4
+
+This course will provide an introduction to the principles of chemistry that govern life systems including topics in pH and buffers, enzymes, amino acids, proteins, lipids, carbohydrates, nucleic acids, and metabolic pathways with exercises emphasizing protein purification and characterization techniques, plus kinetic modeling. Lab time is included in the schedule. A lab fee is required. Prerequisites: C- or better in CHE 221 and CHE 222 and CHE 321 and CHE 322 (concurrent enrollment allowed for CHE 322) or consent of instructor.
+
+
+CHE 405: Chemical Biology
+3
+
+This course will investigate modern topics of chemical biology. Topics will include protein modification, solid phase synthesis of proteins and DNA, chemical tags of biomolecules, biomimetic structures, unnatural nucleic acids and proteins, and medicinal chemistry.
+
+
+CHE 422: Biochemistry II
+3
+
+This course is the second semester of a two-semester general biochemistry course which will be focusing on structural biology and information pathways, including topics amino acids, proteins, nucleic acids, genes and chromosomes, DNA/RNA/protein metabolism. Lab time is included in the schedule. Prerequisite: CHE 321 and CHE 322 and CHE 421 or consent of instructor.
+
+
+SCI 495: Research Methods
+1
+
+This course will introduce basic techniques in laboratory research, experimental design, library databases, review of peer-reviewed literature, and quantitative and qualitative analyses. Students will compose a research proposal intended to guide future original student-conducted research. Interdisciplinary topics are included. Prerequisite: Sixteen (16) units of major courses or consent of instructor. Typically offered each semester.
+
+
+SCI 455: History and Philosophy of Science
+3
+
+This course will introduce the philosophic nature of science with a literary review of philosophic issues associated with the epistemological and historical development of science starting with ancient Greece through today. Cross listed with HST 455. Prerequisite: CBIO 101 or consent of instructor. Typically offered every spring semester.
+
+
+BIO 496: Research in Biology
+2
+
+This course will require students to apply research methods and skills in the field of biology towards the completion of original student-conducted research. This course may require library research, field and/or laboratory research, and statistical analysis to be completed under the supervision of a faculty advisor. Independent lab time is included in the schedule. A lab fee is required. A lab fee is required. Prerequisite: C- or better in SCI 495or consent of instructor. Course may be taken for a range of units (0.5-2 units per semester), offered each semester.
+
+OR
+
+CHE 496: Research in Chemistry
+2
+
+As a hands-on introduction to chemical research, this course will emphasize research process, skills, and methods including lab research, library research, peer reviewed chemical abstracts and journals, electronic chemical databases, professional journal manuscript style guides, and statistical analysis which will be used in writing research manuscripts and making research presentations. Lab time is included in the schedule. A lab fee is required. Course may be taken for a range of units (0.5-2 units per semester). Prerequisite: C- or better in SCI 495.
+
+
+BIO 499: Senior Thesis
+1
+
+A culmination of original student-conducted scientific research resulting in a formal written report, a public seminar-style oral presentation, and public poster presentation. Prerequisite: C- or better in SCI 495 and 2 units of BIO 496 or consent of instructor; restricted to seniors. Typically offered each semester.
+
+OR
+
+CHE 499: Senior Thesis
+1
+
+This course will be a culmination of original student-conducted scientific research resulting in a paper and presentation. P

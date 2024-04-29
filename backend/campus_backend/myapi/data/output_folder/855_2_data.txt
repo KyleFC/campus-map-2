@@ -1,0 +1,29 @@
+nate members?
+
+The use of formally appointed alternate IRB members is acceptable to the FDA, provided that the IRB's written procedures describe the appointment and function of alternate members. The IRB roster should identify the primary member(s) for whom each alternate member may substitute. To ensure maintaining an appropriate quorum, the alternate's qualifications should be comparable to the primary member to be replaced. The IRB minutes should document when an alternate member replaces a primary member. When alternates substitute for a primary member, the alternate member should have received and reviewed the same material that the primary member received or would have received.
+
+Does a non-affiliated member need to attend every IRB meeting?
+
+No. Although 21 CFR 56.108(c) does not specifically require the presence of a member not otherwise affiliated with the institution to constitute a quorum, FDA considers the presence of such members an important element of the IRB's diversity. Therefore, frequent absence of all non-affiliated members is not acceptable to FDA. Acknowledging their important role, many IRBs have appointed more than one member who is not otherwise affiliated with the institution. FDA encourages IRBs to appoint members in accordance with 21 CFR 56.107(a) who will be able to participate fully in the IRB process.
+
+Which IRB members should be considered to be scientists and non-scientists?
+
+21 CFR 56.107(c) requires at least one member of the IRB to have primary concerns in the scientific area and at least one to have primary concerns in the non-scientific area. Most IRBs include physicians and Ph.D. level physical or biological scientists. Such members satisfy the requirement for at least one scientist. When an IRB encounters studies involving science beyond the expertise of the members, the IRB may use a consultant to assist in the review, as provided by 21 CFR 56.107(f).
+FDA believes the intent of the requirement for diversity of disciplines was to include members who had little or no scientific or medical training or experience. Therefore, nurses, pharmacists and other biomedical health professionals should not be regarded to have "primary concerns in the non-scientific area." In the past, lawyers, clergy and ethicists have been cited as examples of persons whose primary concerns would be in non-scientific areas.
+Some members have training in both scientific and non-scientific disciplines, such as a J.D., R.N. While such members are of great value to an IRB, other members who are unambiguously non-scientific should be appointed to satisfy the non-scientist requirement.
+IRB Procedures
+
+Are there any regulations that require clinical investigators to report to the IRB when a study has been completed?
+
+IRBs are required to function under written procedures. One of these procedural requirements [21 CFR 56.108(a)(3)] requires ensuring "prompt reporting to the IRB of changes in a research activity." The completion of the study is a change in activity and should be reported to the IRB. Although subjects will no longer be "at risk" under the study, a final report/notice to the IRB allows it to close its files as well as providing information that may be used by the IRB in the evaluation and approval of related studies.
+
+What is an IRB review? (Formerly expedited review)
+
+Expedited review is a procedure through which certain kinds of research may be reviewed and approved without convening a meeting of the IRB. The Agency's IRB regulations [21 CFR 56.110] permit, but do not require, an IRB to review certain categories of research through an expedited procedure if the research involves no more than minimal risk. A list of categories was last published in the Federal Register on January 27, 1981 [46 FR 8980].
+The IRB may also use the expedited review procedure to review minor changes in previously approved research during the period covered by the original approval. Under an expedited review procedure, review of research may be carried out by the IRB chairperson or by one or more experienced members of the IRB designated by the chairperson. The reviewer(s) may exercise all the authorities of the IRB, except disapproval. Research may only be disapproved following review by the full committee. The IRB is required to adopt a method of keeping all members advised of research studies that have been approved by expedited review.
+[See Conditions for IRB Use of Expedited Review - Federal Register: November 9, 1998 (Volume 63, Number 216), Notices]
+
+Are sponsors allowed access to IRB written procedures, minutes and membership rosters?
+
+The FDA regulations do not require public or sponsor access to IRB records. However, FDA does not prohibit the sponsor from requesting IRB records. The IRB and the institution may establish a policy on whether minutes or a pertinent portion of the minutes are provided to sponsors.
+Because of variability, each IRB also needs to be aware of State and local laws regarding acce

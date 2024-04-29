@@ -1,0 +1,237 @@
+https://www.cui.edu/academicprograms/provost/institutional-research-assessment/institutional-review-board/faqs
+Skip to Main Content
+
+Search
+Academics 
+Admissions 
+About
+Athletics
+Student Life
+The Arts
+Giving
+ MyCUI 
+
+Institutional Review Board
+
+First-Time Applicants
+Repeat Applicants
+FAQs
+Contact Us
+FAQs
+INSTITUTIONAL REVIEW BOARD
+Frequently Asked Questions
+IRB Organization
+
+What is an Institutional Review Board (IRB) and do IRBs have to be formally called by that name?
+
+Under FDA regulations, an IRB is an appropriately constituted group that has been formally designated to review and monitor biomedical research involving human subjects. In accordance with FDA regulations, an IRB has the authority to approve, require modifications in (to secure approval), or disapprove research. This group review serves an important role in the protection of the rights and welfare of human research subjects.
+The purpose of IRB review is to assure, both in advance and by periodic review, that appropriate steps are taken to protect the rights and welfare of humans participating as subjects in the research. To accomplish this purpose, IRBs use a group process to review research protocols and related materials (e.g., informed consent documents and investigator brochures) to ensure protection of the rights and welfare of human subjects of research.
+No, "IRB" is a generic term used by FDA (and HHS) to refer to a group whose function is to review research to assure the protection of the rights and welfare of the human subjects. Each institution may use whatever name it chooses. Regardless of the name chosen, the IRB is subject to the Agency's IRB regulations when studies of FDA regulated products are reviewed and approved.
+
+What is an "assurance" or a "multiple project assurance?"
+
+An "assurance," is a document negotiated between an institution and the Department of Health and Human Services (HHS) in accordance with HHS regulations. For research involving human subjects conducted by HHS or supported in whole or in part by HHS, the HHS regulations require a written assurance from the performance-site institution that the institution will comply with the HHS protection of human subjects regulations [45 CFR part 46]. The assurance mechanism is described in 45 CFR 46.103. Once an institution's assurance has been approved by HHS, a number is assigned to the assurance. The assurance may be for a single grant or contract (a "single project assurance"); for multiple grants ("multiple project assurances" - formerly called "general assurances"); or for certain types of studies such as oncology group studies and AIDS research group studies ("cooperative project assurances"). The Office for Human Research Protection (OHRP) is responsible for implementing the HHS regulations. The address and telephone number for OHRP are: 1101 Wootton Parkway, The Tower Building, Suite 200, Rockville, MD 20852; Toll-Free Telephone within the U.S.: (866) 447-4777, Telephone: (240) 453-6900, FAX: (240) 453-6909.
+
+Must an institution establish its own IRB?
+
+No. Although institutions engaged in research involving human subjects will usually have their own IRBs to oversee research conducted within the institution or by the staff of the institution, FDA regulations permit an institution without an IRB to arrange for an "outside" IRB to be responsible for initial and continuing review of studies conducted at the non-IRB institution. Such arrangements should be documented in writing. Individuals conducting research in a non-institutional setting often use established IRBs (independent or institutional) rather than form their own IRBs. Also see the information sheets entitled "Non-local IRB Review" and "Cooperative Research."
+
+May IRB members be paid for their services?
+
+The FDA regulations do not preclude a member from being compensated for services rendered. Payment to IRB members should not be related to or dependent upon a favorable decision. Expenses, such as travel costs, may also be reimbursed.
+
+Is the purpose of the IRB review of informed consent to protect the institution or the subject?
+
+The fundamental purpose of IRB review of informed consent is to assure that the rights and welfare of subjects are protected. A signed informed consent document is evidence that the document has been provided to a prospective subject (and presumably, explained) and that the subject has agreed to participate in the research. IRB review of informed consent documents also ensures that the institution has complied with applicable regulations.
+
+Does an IRB or institution have to compensate subjects if injury occurs as a result of participation in a research study?
+
+Institutional policy, not FDA regulation, determines whether compensation and medical treatment(s) will be offered and the conditions that might be placed on subject eligibility for compensation or treatment(s). The FDA informed consent regulation on compensation [21 CFR 50.25(a)(6)] requires that, for research involving more than minimal risk, the subject must be told whether any compensation and any medical treatment(s) are available if injury occurs and, if so, what they are, or where further information may be obtained. Any statement that compensation is not offered must avoid waiving or appearing to waive any of the subject's rights or releasing or appearing to release the investigator, sponsor, or institution from liability for negligence [21 CFR 50.20].
+
+IRB Membership
+
+May a clinical investigator be an IRB member?
+
+Yes, however, the IRB regulations [21 CFR 56.107(e)] prohibit any member from participating in the IRB's initial or continuing review of any study in which the member has a conflicting interest, except to provide information requested by the IRB. When selecting IRB members, the potential for conflicts of interest should be considered. When members frequently have conflicts and must absent themselves from deliberation and abstain from voting, their contributions to the group review process may be diminished and could hinder the review procedure. Even greater disruptions may result if this person is chairperson of the IRB.
+
+The IRB regulations require an IRB to have a diverse membership. May one member satisfy more than one membership category?
+
+Yes. For example, one member could be otherwise unaffiliated with the institution and have a primary concern in a non-scientific area. This individual would satisfy two of the membership requirements of the regulations. IRBs should strive, however, for a membership that has a diversity of representative capacities and disciplines. In fact, the FDA regulations [21 CFR 56.107(a)] require that, as part of being qualified as an IRB, the IRB must have "... diversity of members, including consideration of race, gender, cultural backgrounds and sensitivity to such issues as community attitudes ...."
+
+When IRB members cannot attend a convened meeting, may they send someone from their department to vote for them?
+
+No. Alternates who are formally appointed and listed in the membership roster may substitute, but ad hoc substitutes are not permissible as members of an IRB. However, a member who is unable to be present at the convened meeting may participate by video-conference or conference telephone call, when the member has received a copy of the documents that are to be reviewed at the meeting. Such members may vote and be counted as part of the quorum. If allowed by IRB procedures, ad hoc substitutes may attend as consultants and gather information for the absent member, but they may not be counted toward the quorum or participate in either deliberation or voting with the board. The IRB may, of course, ask questions of this representative just as they could of any non-member consultant. Opinions of the absent members that are transmitted by mail, telephone, telefax or e-mail may be considered by the attending IRB members but may not be counted as votes or the quorum for convened meetings.
+
+May the IRB use alternate members?
+
+The use of formally appointed alternate IRB members is acceptable to the FDA, provided that the IRB's written procedures describe the appointment and function of alternate members. The IRB roster should identify the primary member(s) for whom each alternate member may substitute. To ensure maintaining an appropriate quorum, the alternate's qualifications should be comparable to the primary member to be replaced. The IRB minutes should document when an alternate member replaces a primary member. When alternates substitute for a primary member, the alternate member should have received and reviewed the same material that the primary member received or would have received.
+
+Does a non-affiliated member need to attend every IRB meeting?
+
+No. Although 21 CFR 56.108(c) does not specifically require the presence of a member not otherwise affiliated with the institution to constitute a quorum, FDA considers the presence of such members an important element of the IRB's diversity. Therefore, frequent absence of all non-affiliated members is not acceptable to FDA. Acknowledging their important role, many IRBs have appointed more than one member who is not otherwise affiliated with the institution. FDA encourages IRBs to appoint members in accordance with 21 CFR 56.107(a) who will be able to participate fully in the IRB process.
+
+Which IRB members should be considered to be scientists and non-scientists?
+
+21 CFR 56.107(c) requires at least one member of the IRB to have primary concerns in the scientific area and at least one to have primary concerns in the non-scientific area. Most IRBs include physicians and Ph.D. level physical or biological scientists. Such members satisfy the requirement for at least one scientist. When an IRB encounters studies involving science beyond the expertise of the members, the IRB may use a consultant to assist in the review, as provided by 21 CFR 56.107(f).
+FDA believes the intent of the requirement for diversity of disciplines was to include members who had little or no scientific or medical training or experience. Therefore, nurses, pharmacists and other biomedical health professionals should not be regarded to have "primary concerns in the non-scientific area." In the past, lawyers, clergy and ethicists have been cited as examples of persons whose primary concerns would be in non-scientific areas.
+Some members have training in both scientific and non-scientific disciplines, such as a J.D., R.N. While such members are of great value to an IRB, other members who are unambiguously non-scientific should be appointed to satisfy the non-scientist requirement.
+IRB Procedures
+
+Are there any regulations that require clinical investigators to report to the IRB when a study has been completed?
+
+IRBs are required to function under written procedures. One of these procedural requirements [21 CFR 56.108(a)(3)] requires ensuring "prompt reporting to the IRB of changes in a research activity." The completion of the study is a change in activity and should be reported to the IRB. Although subjects will no longer be "at risk" under the study, a final report/notice to the IRB allows it to close its files as well as providing information that may be used by the IRB in the evaluation and approval of related studies.
+
+What is an IRB review? (Formerly expedited review)
+
+Expedited review is a procedure through which certain kinds of research may be reviewed and approved without convening a meeting of the IRB. The Agency's IRB regulations [21 CFR 56.110] permit, but do not require, an IRB to review certain categories of research through an expedited procedure if the research involves no more than minimal risk. A list of categories was last published in the Federal Register on January 27, 1981 [46 FR 8980].
+The IRB may also use the expedited review procedure to review minor changes in previously approved research during the period covered by the original approval. Under an expedited review procedure, review of research may be carried out by the IRB chairperson or by one or more experienced members of the IRB designated by the chairperson. The reviewer(s) may exercise all the authorities of the IRB, except disapproval. Research may only be disapproved following review by the full committee. The IRB is required to adopt a method of keeping all members advised of research studies that have been approved by expedited review.
+[See Conditions for IRB Use of Expedited Review - Federal Register: November 9, 1998 (Volume 63, Number 216), Notices]
+
+Are sponsors allowed access to IRB written procedures, minutes and membership rosters?
+
+The FDA regulations do not require public or sponsor access to IRB records. However, FDA does not prohibit the sponsor from requesting IRB records. The IRB and the institution may establish a policy on whether minutes or a pertinent portion of the minutes are provided to sponsors.
+Because of variability, each IRB also needs to be aware of State and local laws regarding access to IRB records.
+
+If an IRB disapproves a study submitted to it, and it is subsequently sent to another IRB for review, should the second IRB be told of the disapproval?
+
+Yes. When an IRB disapproves a study, it must provide a written statement of the reasons for its decision to the investigator and the institution [21 CFR 56.109(e)]. If the study is submitted to a second IRB, a copy of this written statement should be included with the study documentation so that it can make an informed decision about the study. 21 CFR 56.109(a) requires an IRB to "... review ... all research activities [emphasis added] ...." The FDA regulations do not prohibit submission of a study to another IRB following disapproval. However, all pertinent information about the study should be provided to the second IRB.
+
+May an independent IRB review a study to be conducted in an institution with an IRB?
+
+Generally, no. Most institutional IRB have jurisdiction over all studies conducted within that institution. An independent IRB may become the IRB of record for such studies only upon written agreement with the administration of the institution or the in-house IRB.
+
+Could an IRB lose its quorum when members with a conflict of interest leave the room for deliberation and voting on a study?
+
+Yes. "The quorum is the count of the number of members present. If the number present falls below a majority, the quorum fails. The regulations only require that a member who is conflicted not participate in the deliberations and voting on a study on which he or she is conflicted. The IRB may decide whether an individual should remain in the room."
+
+Does FDA prohibit direct communication between sponsors and IRBs?
+
+It is important that a formal line of communication be established between the clinical investigator and the IRB. Clinical investigators should report adverse events directly to the responsible IRB, and should send progress reports directly to that IRB. However, FDA does not prohibit direct communication between the sponsor and the IRB, and recognizes that doing so could result in more efficient resolution of some problems.
+FDA does require direct communication between the sponsors and the IRBs for certain studies of medical devices and when the 21 CFR 50.24 informed consent waiver has been invoked. Sponsors and IRBs are required to communicate directly for medical device studies under 21 CFR 812.2, 812.66 and 812.150(b). For informed consent waiver studies, direct communication between sponsors and IRBs is required under 21 CFR 50.24(e), 56.109(e), 56.109(g), 312.54(b), 312.130(d), 812.38(b)(4) and 812.47(b).
+IRB Records
+
+Are annual IRB reviews required when all studies are reviewed by the IRB each quarter?
+
+The IRB records for each study's initial and continuing review should note the frequency (not to exceed one year) for the next continuing review in either months or other conditions, such as after a particular number of subjects are enrolled.
+An IRB may decide to review all studies on a quarterly basis. If every quarterly report contains sufficient information for an adequate continuing review and is reviewed by the IRB under procedures that meet FDA requirements for continuing review, FDA would not require an additional "annual" review.
+
+CFR 56.115(a)(1) requires that the IRB maintain copies of "research proposals reviewed." Is the "research proposal" the same as the formal study protocol that the investigator receives from the sponsor of the research?
+
+Yes. The IRB should receive and review all research activities [21 CFR 56.109(a)]. The documents reviewed should include the complete documents received from the clinical investigator, such as the protocol, the investigator's brochure, a sample consent document and any advertising intended to be seen or heard by prospective study subjects. Some IRBs also require the investigator to submit an institutionally-developed protocol summary form. A copy of all documentation reviewed is to be maintained for at least three years after completion of the research at that institution [21 CFR 56.115(b)]. However, when the IRB makes changes, such as in the wording of the informed consent document, only the finally approved copy needs to be retained in the IRB records.
+
+What IRB records are required for studies that are approved but never started?
+
+When an IRB approves a study, continuing review should be performed at least annually. All of the records listed in 21 CFR 56.115(a)(1) - (4) are required to be maintained. The clock starts on the date of approval, whether or not subjects have been enrolled. Written progress reports should be received from the clinical investigator for all studies that are in approved status prior to the date of expiration of IRB approval. If subjects were never enrolled, the clinical investigator's progress report would be brief. Such studies may receive continuing IRB review using expedited procedures. If the study is finally canceled without subject enrollment, records should be maintained for at least three years after cancellation [21 CFR 56.115(b)].
+
+Informed Consent Process
+
+Is getting the subject to sign a consent document all that is required by the regulations?
+
+No. The consent document is a written summary of the information that should be provided to the subject. Many clinical investigators use the consent document as a guide for the verbal explanation of the study. The subject's signature provides documentation of agreement to participate in a study, but is only one part of the consent process. The entire informed consent process involves giving a subject adequate information concerning the study, providing adequate opportunity for the subject to consider all options, responding to the subject's questions, ensuring that the subject has comprehended this information, obtaining the subject's voluntary agreement to participate and, continuing to provide information as the subject or situation requires. To be effective, the process should provide ample opportunity for the investigator and the subject to exchange information and ask questions.
+
+May informed consent be obtained by telephone from a legally authorized representative?
+
+A verbal approval does not satisfy the 21 CFR 56.109(c) requirement for a signed consent document, as outlined in 21 CFR 50.27(a). However, it is acceptable to send the informed consent document to the legally authorized representative (LAR) by facsimile and conduct the consent interview by telephone when the LAR can read the consent as it is discussed. If the LAR agrees, he/she can sign the consent and return the signed document to the clinical investigator by facsimile.
+
+21 CFR 50.27(a) requires that a copy of the consent document be given to the person signing the form. Does this copy have to be a photocopy of the form with the subject's signature affixed?
+
+No. The regulation does not require the copy of the form given to the subject to be a copy of the document with the subject's signature, although this is encouraged. It must, however, be a copy of the IRB approved document that was given to the subject to obtain consent [21 CFR 50.27(a) or 21 CFR 50.27(b)(2)]. One purpose of providing the person signing the form with a copy of the consent document is to allow the subject to review the information with others, both before and after making a decision to participate in the study, as well as providing a continuing reference for items such as scheduling of procedures and emergency contacts.
+
+If an IRB uses a standard "fill-in-the-blank" consent format, does the IRB need to review the filled out form for each study?
+
+Yes. A fill-in-the-blank format provides only some standard wording and a framework for organizing the relevant study information. The IRB should review a completed sample form, individualized for each study, to ensure that the consent document, in its entirety, contains all the information required by 21 CFR 50.25 in language the subject can understand. The completed sample form should be typed to enhance its readability by the subjects. The form finally approved by the IRB should be an exact copy of the form that will be presented to the research subjects. The IRB should also review the "process" for conducting the consent interviews, i.e., the circumstances under which consent will be obtained, who will obtain consent, and so forth.
+
+The informed consent regulations [21 CFR 50.25 (a)(5)] require the consent document to include a statement that notes the possibility that FDA may inspect the records. Is this statement a waiver of the subject's legal right to privacy?
+
+No. FDA does not require any subject to "waive" a legal right. Rather, FDA requires that subjects be informed that complete privacy does not apply in the context of research involving FDA regulated products. Under the authority of the Federal Food, Drug, and Cosmetic Act, FDA may inspect and copy clinical records to verify information submitted by a sponsor. FDA generally will not copy a subject's name during the inspection unless a more detailed study of the case is required or there is reason to believe that the records do not represent the actual cases studied or results obtained.
+The consent document should not state or imply that FDA needs clearance or permission from the clinical investigator, the subject or the IRB for such access. When clinical investigators conduct studies for submission to FDA, they agree to allow FDA access to the study records, as outlined in 21 CFR 312.68 and 812.145. Informed consent documents should make it clear that, by participating in research, the subject's records automatically become part of the research database. Subjects do not have the option to keep their records from being audited/reviewed by FDA.
+When an individually identifiable medical record (usually kept by the clinical investigator, not by the IRB) is copied and reviewed by the Agency, proper confidentiality procedures are followed within FDA. Consistent with laws relating to public disclosure of information and the law enforcement responsibilities of the Agency, however, absolute confidentiality cannot be guaranteed.
+
+Who should be present when the informed consent interview is conducted?
+
+FDA does not require a third person to witness the consent interview unless the subject or representative is not given the opportunity to read the consent document before it is signed, see 21 CFR 50.27(b). The person who conducts the consent interview should be knowledgeable about the study and able to answer questions. FDA does not specify who this individual should be. Some sponsors and some IRBs require the clinical investigator to personally conduct the consent interview. However, if someone other than the clinical investigator conducts the interview and obtains consent, this responsibility should be formally delegated by the clinical investigator and the person so delegated should have received appropriate training to perform this activity.
+
+How do you obtain informed consent from someone who speaks and understands English but cannot read?
+
+Illiterate persons who understand English may have the consent read to them and "make their mark," if appropriate under applicable state law. The 21 CFR 50.27(b)(2) requirements for signature of a witness to the consent process and signature of the person conducting consent interview must be followed, if a "short form" is used. Clinical investigators should be cautious when enrolling subjects who may not truly understand what they have agreed to do. The IRB should consider illiterate persons as likely to be vulnerable to coercion and undue influence and should determine that appropriate additional safeguards are in place when enrollment of such persons is anticipated, see 21 CFR 56.111(b).
+
+Must a witness observe the entire consent interview or only the signature of the subject?
+
+FDA does not require the signature of a witness when the subject reads and is capable of understanding the consent document, as outlined in 21 CFR 50.27(b)(1). The intended purpose is to have the witness present during the entire consent interview and to attest to the accuracy of the presentation and the apparent understanding of the subject. If the intent of the regulation were only to attest to the validity of the subject's signature, witnessing would also be required when the subject reads the consent.
+
+Should the sponsor prepare a model informed consent document?
+
+Although not required by the IND regulations, the sponsor provides a service to the clinical investigator and the IRB when it prepares suggested study-specific wording for the scientific and technical content of the consent document. However, the IRB has the responsibility and authority to determine the adequacy and appropriateness of all of the wording in the consent, see 21 CFR 56.109(a), 111(a)(4) and 111(a)(5). If an IRB insists on wording the sponsor cannot accept, the sponsor may decide not to conduct the study at that site. For medical device studies that are conducted under an IDE, copies of all forms and informational materials to be provided to subjects to obtain informed consent must be submitted to FDA as part of the IDE, see 21 CFR 812.25(g).
+
+Is the sponsor required to review the consent form approved by the IRB to make sure all FDA requirements are met?
+
+For investigational devices, the informed consent is a required part of the IDE submission. It is, therefore, approved by FDA as part of the IDE application. When an IRB makes substantive changes in the document, FDA reapproval is required and the sponsor is necessarily involved in this process.
+FDA regulations for other products do not specifically require the sponsor to review IRB approved consent documents. However, most sponsors do conduct such reviews to assure the wording is acceptable to the sponsor.
+
+Are there alternatives to obtaining informed consent from a subject?
+
+The regulations generally require that the investigator obtain informed consent from subjects. Investigators also may obtain informed consent from a legally authorized representative of the subject. FDA recognizes that a durable power of attorney might suffice as identifying a legally authorized representative under some state and local laws. For example, a subject might have designated an individual to provide consent with regard to health care decisions through a durable power of attorney and have specified that the individual also has the power to make decisions on entry into research. FDA defers to state and local laws regarding who is a legally authorized representative. Therefore, the IRB should assure that the consent procedures comply with state and local laws, including assurance that the law applies to obtaining informed consent for subjects participating in research as well as for patients who require health care decisions."
+Alternatives 1 and 2 are provided for in the regulations and are appropriate. Alternative 3 allows a designated individual to provide consent for a patient with regard to health care decisions and is appropriate when it specifically includes entry into research. FDA defers to state and local laws regarding substituted consent. Therefore, the IRB must assure itself that the substituted consent procedures comply with state and local law, including assurance the law applies to obtaining informed consent for subjects participating in research as well as for patients who require health care decisions.
+
+When should study subjects be informed of changes in the study?
+
+Protocol amendments must receive IRB review and approval before they are implemented, unless an immediate change is necessary to eliminate an apparent hazard to the subjects (21 CFR 56.108(a)(4)). Those subjects who are presently enrolled and actively participating in the study should be informed of the change if it might relate to the subjects' willingness to continue their participation in the study (21 CFR 50.25(b)(5)). FDA does not require reconsenting of subjects that have completed their active participation in the study, or of subjects who are still actively participating when the change will not affect their participation, for example when the change will be implemented only for subsequently enrolled subjects.
+
+Informed Consent Document Content
+
+May an IRB require that the sponsor of the study and/or the clinical investigator be identified on the study's consent document?
+
+Yes. The FDA requirements for informed consent are the minimum basic elements of informed consent that must be presented to a research subject [21 CFR 50.25]. An IRB may require inclusion of any additional information which it considers important to a subject's decision to participate in a research study [21 CFR 56.109(b)].
+
+Does FDA require the informed consent document to contain a space for assent by children?
+
+No, however, many investigators and IRBs consider it standard practice to obtain the agreement of older children who can understand the circumstances before enrolling them in research. While the FDA regulations do not specifically address enrollment of children (other than to include them as a class of vulnerable subjects), the basic requirement of 21 CFR 50.20 applies, i.e., the legally effective informed consent of the subject or the subject's legally authorized representative must be obtained before enrollment. Parents, legal guardians and/or others may have the ability to give permission to enroll children in research, depending on applicable state and local law of the jurisdiction in which the research is conducted. (Note: permission to enroll in research is not the same as permission to provide medical treatment.) IRBs generally require investigators to obtain the permission of one or both of the parents or guardian (as appropriate) and the assent of children who possess the intellectual and emotional ability to comprehend the concepts involved. Some IRBs require two documents, a fully detailed explanation for parents and older children to read and sign, and a shorter, simpler one for younger children. [For research supported by DHHS, the additional protections at 45 CFR 46 Subpart D are also required. The Subpart D regulations provide appropriate guidance for all other pediatric studies.]
+On April 24, 2001, FDA issued an interim final rule, Additional Protections for Children, as subpart D to 21 CFR Part 50. Assent by children is addressed in subpart D. This interim final rule and its preamble are available at Additional Protections for Children.
+
+Does FDA require the signature of children on informed consent documents?
+
+As indicated above, researchers may seek assent of children of various ages. Older children may be well acquainted with signing documents through prior experience with testing, licensing and/or other procedures normally encountered in their lives. Signing a form to give their assent for research would not be perceived as unusual and would be reasonable. Younger children, however, may never have had the experience of signing a document. For these children requiring a signature may not be appropriate, and some other technique to verify assent could be used. For example, a third party may verify, by signature, that the assent of the child was obtained.
+As noted in the previous answer, on April 24, 2001, FDA issued an interim final rule, Additional Protections for Children, as subpart D to 21 CFR Part 50. Informed consent of children who participate in clinical trials is addressed in subpart D. This interim final rule and its preamble are available at Additional Protections for Children.
+
+Who should be listed on the consent as the contact to answer questions?
+
+21 CFR 50.25(a)(7) requires contacts for questions about the research, the research subject's rights and in case of a research-related injury. It does not specify whom to contact. The same person may be listed for all three. However, FDA and most IRBs believe it is better to name a knowledgeable person other than the clinical investigator as the contact for study subject rights. Having the clinical investigator as the only contact may inhibit subjects from reporting concerns and/or possible abuses.
+
+May the "compensation" for participation in a trial offered by a sponsor include a coupon good for a discount on the purchase price of the product once it has been approved for marketing?
+
+No. This presumes, and inappropriately conveys to the subjects, a certainty of favorable outcome of the study and prompt approval for marketing. Also, if the product is approved, the coupon may financially coerce the subject to insist on that product, even though it may not be the most appropriate medically.
+
+Must informed consent documents be translated into the written language native to study subjects who do not understand English?
+
+The signed informed consent document is the written record of the consent interview. Study subjects are given a copy of the consent to be used as a reference document to reinforce their understanding of the study and, if desired, to consult with their physician or family members about the study.
+A consultant may be utilized to assure that the translation is correct. A copy of the translated consent document must be given to each appropriate subject. While a translator may be used to facilitate conversation with the subject, routine ad hoc translation of the consent document may not be substituted for a written translation.
+Also see FDA Information Sheets: "A Guide to Informed Consent Documents" and "Informed Consent and the Clinical Investigator"
+Join Our Community
+Apply Now
+Visit Concordia
+Request Info
+Virtual Tour
+Contact Us
+Concordia University Irvine Footer
+Connect
+University Events
+Resources
+Campus Map
+Employment
+MyCUI
+Parents
+Pay Tuition Online
+Press Room
+Sitemap
+Veterans Resource Center
+Services
+Academic Advising
+Bursar's Office
+Campus Safety
+Financial Aid
+at Concordia University Irvine
+Library
+Brand and Marketing Resources
+Registrar
+University Services
+

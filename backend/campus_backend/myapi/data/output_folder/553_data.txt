@@ -1,0 +1,203 @@
+https://www.cui.edu/academicprograms/undergraduate/majors/engineering/curriculum
+Skip to Main Content
+
+Search
+Undergraduate
+Academics 
+Campus Life 
+Tuition & Financial Aid
+Admission 
+Contact 
+Apply Now
+Engineering Major
+Curriculum
+Get Started
+ENGINEERING MAJOR
+Curriculum
+SCHOOL OF ARTS AND SCIENCES
+EXPLORE 
+ Apply Now  Visit Concordia  Talk to a Counselor  Request Info  Virtual Tour  Deposit
+Curriculum
+ENGINEERING MAJOR
+71 Units
+ENGR 101: Introduction to Engineering and Design
+3
+
+Develop creative thinking and problem solving skills essential to the engineer. Students are challenged to function as members of a team to communicate well. Broad exposure is provided to various engineering disciplines and practices.
+
+ENGR 210: Entrepreneurial Engineering Economics
+3
+
+This course will introduce you to engineering economics, which is the application of economics and decision theory to the evaluation of engineering alternatives in planning, developing, constructing, and managing engineering projects.
+
+ENGR 212: Project Management and Communication in Christian Context
+3
+
+Students will incorporate the unique incarnational aspects of Jesus Christ into the skills related to service, teamwork, project planning and management, and communication within a team and for stakeholders. Students work in teams to plan and carry out semester-long projects.
+
+ENGR 312: Statics & Strength of Materials
+4
+
+Develop core competencies associated with mechanical, biomechanical, and structural engineering. Physics principles are used to determine internal and external forces in various types of members, including introduction to analysis software. The material's response to load - stress and strain - is also emphasized. Principles for design of simple mechanical and structural elements are introduced. Pre/Co-requisites: PHY 221
+
+ENGR 314: Mechanical Dynamics
+3
+
+Students will learn the foundations of the kinematics of particles, systems of particles, and rigid bodies. Topics include impulse and momentum, conservation of energy, rotation, and vibrations. Computational problem solving skills will be developed to solve dynamic engineering problems. Pre/Co-requisites: ENGR 312
+
+ENGR 316: Fluid Mechanics
+3
+
+Study of static and dynamic effects in Fluid Kinematics using Lagrangian and Eulerian analysis. Continuity, momentum, and energy equations in integral and differential form for incompressible flows. Introduction to boundary layer theory and transient fluid motion. Comparison of theory to experimental and computational fluid dynamic results. Pre/Co-requisites: MTH 384
+
+ENGR 318: Heat & Mass Transport
+3
+
+This course introduces the governing principles behind heat and mass transport phenomena. Students will develop an understanding of steady state and transient conduction and diffusion, laminar and turbulent convective transport, and the computational solution strategies often employed by engineers. Pre/Co-requisite: MTH 384
+
+PHY 315: Electronics I: Analog Circuits
+3
+
+This hands-on course will focus on the design, fabrication, and testing of analog electronic circuits, circuit components, and devices with special emphasis on the use of electronic test equipment. Lab time is included in the schedule. A lab fee is required. Prerequisite: C- or better in PHY 221 or consent of instructor.
+
+ENGR 320: Signals & Systems
+3
+
+This course presents students with the fundamentals of analog and digital signal processing in the context of engineering systems. Interpretation and analysis of continuous and discrete time signals are introduced, as well as the use of Fourier and Laplace transforms. Sampling, filtering, modulation, and feedback for systems are discussed using cases from diverse areas of engineering.
+
+PHY 325: Scientific Equipment Design and Fabrication
+3
+
+This hands-on course will focus on the design of scientific equipment, the use of scientific glassblowing, and machine shop tools, particularly the lathe and the knee-type mill, to fabricate, repair, and modify scientific equipment; also included will be a comprehensive introduction to vacuum technology. Lab time is included in the schedule. A lab fee is required. Prerequisite: C- or better in PHY 221 or consent of instructor.
+
+ENGR 330: Computer Aided Design
+3
+
+Two- and three-dimensional computer aided design principles are developed through the use of a 3D solid modeling program. Students will design and create engineering drawings and geometric models. The course will culminate with a team-based project resulting in the design and fabrication of a prototype. Pre/Co-requisite: ENGR 101
+
+ENGR 495: Senior Capstone I
+2
+
+Students engage the knowledge content of their academic discipline in the context of a specific technology problem or need and in collaboration with a partner organization or client community. Teams demonstrate effective project management strategies, report on progress consistently, and document significant design activity.  Senior level status required
+
+ENGR 496: Senior Capstone II
+2
+
+Students engage the knowledge content of their academic discipline in the context of a specific technology problem or need and in collaboration with a partner organization or client community. Teams demonstrate effective project management strategies, report on progress consistently, and document significant design activity.  Senior level status required
+
+COMPUTER, MATHEMATICS, AND BASIC SCIENCE
+MTH 265: Introduction to Statistics
+3
+
+As a basic statistics course applicable to education, business, and the hard sciences, this course will include topics such as descriptive statistics, the normal, binomial, F-, and Chi-squared distributions, and hypothesis testing. Optional topics might include additional non-parametric tests and ANOVA. A TI-83 graphing calculator or Microsoft Excel is required. Prerequisite: C- or better in AMTH 101 or CMTH 101 or MTH 201 or MTH 252 or MTH 271 or equivalent.
+
+
+MTH 271: Calculus I
+4
+
+This course will study differential and integral calculus in one variable through graphical, numerical and symbolic methods. Limits, continuity, derivatives, and integrals will be studied with algebraic, trigonometric, exponential and logarithmic functions, including applications using calculus to solve problems. Prerequisite: A passing score on the Calculus Placement Exam, or consent of the department chair.
+
+MTH 272: Calculus II
+4
+
+A continuation of MTH 271, this course will include a study of methods of integration, applied to algebraic and transcendental functions. Solids of revolution, definite and indefinite integrals, Taylor polynomials, sequences and series, will be studied including applications using calculus to solve problems. Prerequisite: C- or better in MTH 271 or acceptable AP examination credit.
+
+MTH 373: Calculus III
+4
+
+As a continuation of MTH 272, this course will include the study of vector calculus, three-dimensional calculus, partial derivatives, multiple integrals, differential calculus, and other selected topics in vector calculus. Prerequisite: C- or better in MTH 272.
+
+
+MTH 384: Ordinary Differential Equations
+3
+
+This course will cover the classification of differential equations along with first order equations, exact differentials, integrating factors, higher order differential equations, method of undetermined coefficients, variation of parameters, operator methods, solution by infinite series, and Laplace transformations. Prerequisite: C- or better in MTH 272. Offered alternate years.
+
+
+PHY 221: Calculus-based Physics I
+4
+
+This course will study Newtonian mechanics: vectors and scalars, kinematics and dynamics of translational and rotational motion, Newton's laws, speed, velocity, acceleration, force, torque, work, energy, linear and angular momentum, wave and harmonic motion, gravitation, friction, conservation of energy and momentum, thermodynamics. A lab fee is required. Prerequisite: MTH 271 (concurrent enrollment allowed) or consent of instructor.
+
+
+PHY 222: Calculus-based Physics II
+4
+
+As a continuation of PHY 221, this course will cover thermodynamics, Maxwell's equations of electricity and magnetism, current, voltage, resistance, inductance, reactance, power, optics and optical systems, interference, diffraction, polarization, dispersion, and coherence. Lab time is included in the schedule. A lab fee is required. Prerequisites: C- or better in PHY 221 and MTH 272 (concurrent enrollment allowed) or consent of instructor.
+
+
+CSC 104: Fundamentals of Programming
+4
+
+This course covers the basic principles of computer programming and algorithm design using the C# programming language. The class addresses basic language syntax, branching, looping, exceptions, I/O, string processing, best practices, and tools for writing quality computer programs. It also introduces the process of turning a program that was written in a high-level language into an intermediate language and how the operating system then loads and executes it. Students in the class will be able to write elementary programs that will run on the Microsoft .NET Framework and the open source equivalent, Mono.
+
+
+CSC 314: Programming Languages
+3
+
+This course examines disciplined programming using a high-level language with specific emphasis on program design, style, efficiency and documentation. Topics include syntax and semantics, statement and subprogram control, data types and data control, design and implementation issues and source control. Offered alternate years. Prerequisite: C- or better in CSC 104.
+
+
+Current students, please note: The requirements listed here may not reflect the most current courses for this major and may not be the requirements for the catalog year you are following to complete your major. Please refer to the Academic Catalog for official requirements you must meet to qualify for a degree. Students who select the engineering major must take CHE 221 in general education.
+
+Get Started
+Request Info
+
+Provide us your contact information, and one of our admissions counselors will be happy to send you more information about our programs.
+
+First Name
+Last Name
+Email
+
+REQUEST INFO
+
+Schedule a Visit
+
+Attend an information meeting online or face-to-face. We will discuss the application process, financial aid, payment plans, and more.
+
+SEP
+
+14
+
+USA Cheer and Stunt Combine
+September 14, 7:00 AM
+CU Arena (Gym)
+
+SCHEDULE A VISIT
+
+Apply Now
+
+Are you ready to get started? Our online application is available 24/7. Begin your journey now and hear from a counselor once you finish.
+
+APPLY NOW
+
+Explore the Opportunities
+Apply Now
+Visit Concordia
+Talk to a Counselor
+Request Info
+Virtual Tour
+Deposit
+Concordia University Irvine Footer
+Connect
+University Events
+Resources
+Campus Map
+Employment
+MyCUI
+Parents
+Pay Tuition Online
+Press Room
+Sitemap
+Veterans Resource Center
+Services
+Academic Advising
+Bursar's Office
+Campus Safety
+Financial Aid
+at Concordia University Irvine
+Library
+Brand and Marketing Resources
+Registrar
+University Services
+

@@ -1,0 +1,151 @@
+sboro	12/16/21 @ 4:30AM	KTEJDT
+Little Rock	12/14/21 @ 9:30PM	KEMVDT
+Little Rock	12/14/21 @ 9:30PM	KETGDT
+Little Rock	12/14/21 @ 9:30PM	KETSDT
+Little Rock	12/15/21 @ 1:30AM	KEMVDT
+Little Rock	12/15/21 @ 1:30AM	KETGDT
+Little Rock	12/15/21 @ 1:30AM	KETSDT
+Little Rock	12/16/21 @ 4:30AM	KEMVDT
+Little Rock	12/16/21 @ 4:30AM	KETGDT
+Little Rock	12/16/21 @ 4:30AM	KETSDT
+Monroe-El Dorado	12/14/21 @ 9:30PM	KETZDT
+Monroe-El Dorado	12/15/21 @  1:30 AM	KETZDT
+Monroe-El Dorado	12/16/21 @ 4:30 AM	KETZDT
+‌
+California
+Market	Date & Time	Station
+Fresno-Visalia	12/14/21 @ 10:30PM	KVPTDT
+Fresno-Visalia	12/19/21 @ 11:30PM	KVPTDT
+Los Angeles	12/14/21 @ 10:30PM	KOCEDT
+Los Angeles	12/15/21 @ 3:30AM	KOCEDT
+Los Angeles	12/15/21 @ 12:00AM	KOCEDT2
+Los Angeles	12/20/21 @ 11:00PM	KOCEDT
+Los Angeles	12/21/21 @ 4:00AM	KOCEDT
+Los Angeles	12/23/21 @ 8:30PM	KOCEDT2
+Los Angeles	12/24/21 @ 5:30AM	KOCEDT2
+Los Angeles	12/24/21 @ 12:30PM	KOCEDT2
+Los Angeles	12/24/21 @ 10:00PM	KVCRDT
+Los Angeles	12/25/21 @ 10:00AM	KCETDT
+Los Angeles	12/25/21 @ 10:30PM	KVCRDT3
+San Francisco	12/25/21 @ 10:30PM	KRCBDT
+San Francisco	12/26/21 @ 3:30AM	KRCBDT
+‌
+Colorado
+Market	Date & Time	Station
+Albuquerque	12/17/21 @ 9:30PM	KRMUDT
+Albuquerque	12/18/21 @ 1:30AM	KRMUDT
+Colorado Springs	12/17/21 @ 9:30PM	KTSCDT
+Colorado Springs	12/18/21 @ 1:30AM	KTSCDT
+Denver	12/17/21 @ 9:30PM	KRMADT
+Denver	12/17/21 @ 9:30PM	KRMZ
+Denver	12/17/21 @ 9:30PM	KRMZDT
+Denver	12/18/21 @ 1:30AM	KRMADT
+Denver	12/18/21 @ 1:30AM	KRMZ
+Denver	12/18/21 @ 1:30AM	KRMZDT
+Grand Junction	12/17/21 @ 9:30PM	KRMJDT
+Grand Junction	12/18/21 @ 1:30AM	KRMJDT
+‌
+District of Columbia
+Market	Date & Time	Station
+Washington	12/21/21 @ 11:30AM	WHUTDT
+Washington	12/24/21 @ 4:30AM	WETADT
+Washington	12/25/21 @ 11:00AM	WETADT
+Washington	12/25/21 @ 11:00AM	WETADT5
+Washington	12/25/21 @ 10:00AM	WHUTDT
+‌
+Florida
+Market	Date & Time	Station
+Ft Myers-Napls	12/17/21 @ 10:30PM	WGCUDT
+Ft Myers-Napls	12/19/21 @ 9:30PM	WGCUDT3
+Ft Myers-Napls	12/20/21 @ 2:30AM	WGCUDT3
+Gainesville	12/17/21 @ 10:30PM	WUFTDT
+Jacksonville	12/17/21 @ 10:30PM	WJCTDT
+Jacksonville	12/19/21 @ 1:30PM	WJCTDT
+Mobile-Pensacola	12/18/21 @ 4:30AM	WSREDT
+Orlando	12/14/21 @ 9:00PM	WEFSDT
+Orlando	12/15/21 @ 1:00AM	WEFSDT
+Orlando	12/17/21 @ 10:30PM	WEDUDT
+Orlando	12/24/21 @ 4:30PM	WEFSDT
+Orlando	12/25/21 @ 10:00AM	WEFSDT
+Orlando	12/25/21 @ 2:00PM	WDSCDT
+Orlando	12/31/21 @ 7:00PM	WDSCDT
+Panama City	12/17/21 @ 9:30PM	WFSGDT
+Panama City	12/25/21 @ 9:30PM	WFSGDT
+Tallahassee	12/17/21 @ 10:30PM	WFSUDT
+Tallahassee	12/25/21 @ 10:30PM	WFSUDT
+Tampa	12/17/21 @ 10:30PM	WEDUDT
+Tampa	12/18/21 @ 10:30PM	WEDQDT4
+Tampa	12/18/21 @ 10:30PM	WEDUDT4
+West Palm	12/22/21 @ 10:30PM	WXELDT
+‌
+Georgia
+Market	Date & Time	Station
+Atlanta	12/14/21 @ 10:30PM	WPBADT
+‌
+Illinois
+Market	Date & Time	Station
+Champaign	12/23/21 @ 9:30 PM	WEIUDT
+Champaign	12/24/21 @ 11:30PM	WEIUDT
+Champaign	12/24/21 @ 7:30PM	WSECDT
+Champaign	12/25/21 @ 3:30AM	WEIUDT
+Champaign	12/25/21 @ 9:32PM	WSECDT
+Chicago	12/14/21 @ 10:30PM	WTTWDT
+Chicago	12/15/21 @ 7:00AM	WTTWDT2
+Chicago	12/15/21 @ 3:00PM	WTTWDT2
+Chicago	12/16/21 @ 3:00AM	WTTWDT
+Chicago	12/25/21 @ 7:00AM	WYINDT
+Davenport	12/24/21 @ 3:00AM	WQPTDT
+Davenport	12/25/21 @ 3:00PM	WQPTDT
+Paducah-Cape Girard	12/24/21 @ 7:30PM	WSIUDT
+Peoria-Bloomington	12/20/21 @ 10:30PM	WTVPDT
+Peoria-Bloomington	12/24/21 @ 1:30AM	WTVPDT
+Quincy-Hannibal	12/24/21 @ 7:30PM	WMECDT
+Quincy-Hannibal	12/24/21 @ 7:30PM	WQECDT
+Quincy-Hannibal	12/25/21 @ 9:32PM	WMECDT
+Quincy-Hannibal	12/25/21 @ 9:32PM	WQECDT
+Terre Haute	12/24/21 @ 7:30PM	WUSIDT
+‌
+Indiana
+Market	Date & Time	Station
+Chicago	12/25/21 @ 7:00AM	WYINDT
+Evansville	12/7/21 @ 4:30AM	WKMADT
+Evansville	12/7/21 @ 4:30AM	WKOHDT
+Evansville	12/14/21 @ 9:30PM	WKMADT
+Evansville	12/14/21 @ 9:30PM	WKOHDT
+Evansville	12/16/21 @ 2:30AM	WKMADT
+Evansville	12/16/21 @ 2:30AM	WKOHDT
+Evansville	12/19/21 @ 6:00PM	WNINDT
+Evansville	12/20/21 @ 9:30PM	WKMADT2
+Evansville	12/20/21 @ 9:30PM	WKOHDT2
+Evansville	12/22/21 @ 1:30AM	WKMADT2
+Evansville	12/22/21 @ 1:30AM	WKOHDT2
+Evansville	12/25/21 @ 9:31PM	WNINDT
+Indianapolis	12/8/21 @ 8:00PM	WFYIDT3
+Indianapolis	12/18/21 @ 9:30PM	WIPBDT
+Indianapolis	12/25/21 @ 11:30AM	WTIUDT
+Indianapolis	12/25/21 @ 5:00PM	WIPBDT
+South Bend-Elkhart	12/12/21 @ 10:32PM	WNITDT
+South Bend-Elkhart	12/19/21 @ 10:30PM	WNITDT
+South Bend-Elkhart	12/25/21 @ 3:30AM	WNITDT
+‌
+Iowa
+Market	Date & Time	Station
+Cedar Rapids	12/14/21 @ 9:30PM	KIINDT
+Cedar Rapids	12/14/21 @ 9:30PM	KRINDT
+Cedar Rapids	12/24/21 @ 10:30PM	KIINDT
+Cedar Rapids	12/24/21 @ 10:30PM	KRINDT
+Cedar Rapids	12/25/21 @ 3:30AM	KIINDT
+Cedar Rapids	12/25/21 @ 3:30AM	KRINDT
+Davenport	12/14/21 @ 9:30PM	KQINDT
+Davenport	12/24/21 @ 3:00AM	WQPTDT
+Davenport	12/24/21 @ 10:30PM	KQINDT
+Davenport	12/25/21 @ 3:30AM	KQINDT
+Davenport	12/25/21 @ 3:00PM	WQPTDT
+Des Moines	12/14/21 @ 9:30PM	KDINDT
+Des Moines	12/14/21 @ 9:30PM	KTINDT
+Des Moines	12/24/21 @ 10:30PM	KDINDT
+Des Moines	12/24/21 @ 10:30PM	KTINDT
+Des Moines	12/25/21 @ 3:30AM	KDINDT
+Des Moines	12/25/21 @ 3:30AM	KTINDT
+Omaha	12/14/21 @ 9:30PM	KBINDT
+Omaha	12/14/21 

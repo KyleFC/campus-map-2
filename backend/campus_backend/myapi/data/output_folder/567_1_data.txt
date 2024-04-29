@@ -1,0 +1,73 @@
+ing Adobe Illustrator, including the development of an individualized artistic process to produce digital illustrations that convey specific messages. Class fee: $50. This course is offered every fall semester.
+
+
+ARTG 300: History of Graphic Design
+3
+
+This survey course will examine the history of graphic design as students gain a broader understanding of how design affects and is affected by the culture; identify individual illustrators, designers, and artists; and recognize specific styles and movements. This course is offered every spring semester. Class fee: $50. Prerequisite: ARTG 261 or consent of instructor.
+
+
+ARTG 360: Typography I
+3
+
+This course will give a historical overview of type and typographic technologies that will introduce students to the formal qualities of different typefaces and teach them to use type as an expressive communication tool. This is an essential course for anyone wishing to communicate with the printed word. Class fee: $50. This class is offered every fall semester. Prerequisite: ARTG 261 or consent of the instructor.
+
+
+ARTG 361: Graphic Design II
+3
+
+Students will produce intermediate design projects that emphasize aesthetics, the theory of design, and the relationship between text and image in this course including the development of digital imaging and layout skills using Adobe InDesign, Photoshop, and Illustrator. A portion of this course will be devoted to a service learning assignment creating design projects for a nonprofit organization within the community. Class fee: $50. This course is offered every fall semester. Prerequisite: ARTG 261.
+
+
+ARTG 460: Typography II
+3
+
+As a continuation of ARTG 360, this course will begin the exploration of personal expression and experimentation typographically with course assignments designed to focus on the issues of denotation, connotation, hierarchy, context and theme, image-type relationships and interaction, and typographic history and expression. Class fee: $50. This course is offered every spring semester. Prerequisite: ARTG 360.
+
+
+ARTG 461: Graphic Design III
+3
+
+This course will allow students to complete advanced graphic design projects to fill gaps in their portfolios, emphasizing their preparation to become professional graphic designers through the production of strong portfolios that can be used to gain internships or employment. Class fee: $50. This course is offered every spring semester. Prerequisite: ARTG 361.
+
+
+ARTG 472: Web Design I
+3
+
+Students will plan and execute a site map and design brief, create a website using industry-standard software, and publish it to a server. Emphasis is placed on the layout, color, typography, interactive elements, and user experience. Class fee: $50. This course is offered every fall semester. Prerequisite: ARTG 361 or consent of instructor.
+
+
+ARTG 473: Motion Graphics
+3
+
+Students will go through the various stages of creating a title sequence for a film in this course as they create several projects including storyboards, animatics, and one full-motion sequence, learning to use the best technique that better serves the idea. Class fee: $50. This course is offered every spring semester. Prerequisite: ARTG 361 or consent of instructor.
+
+ARTG 482: Web Design II
+3
+
+Students will design, create, and build dynamic websites, focusing on concepts, tools, and techniques to create responsive designs for the web and digital devices such as iPads, tablets, and smart phones. Class fee: $50. This course is offered every spring semester. Prerequisite: ARTG 472.
+
+
+Choose one of the following courses:
+ARTG 390: Practicum: Graphic Design
+3
+
+This course is a practical, hands-on experience outside the classroom directly related to the student's major, minor, or professional program that is a beneficial complement to the student's academic experience. A lab fee may be required for some courses.
+
+
+ARTG 481: Digital Photography
+3
+
+This course will provide students with an introduction to visual concepts, basic image capture, and camera functions with digital cameras, including software basics for photographic imaging and digital printing. Class fee: $50. This course is offered alternate years in fall semester.
+
+
+CSC 104: Fundamentals of Programming
+4
+
+This course covers the basic principles of computer programming and algorithm design using the C# programming language. The class addresses basic language syntax, branching, looping, exceptions, I/O, string processing, best practices, and tools for writing quality computer programs. It also introduces the process of turning a program that was written in a high-level language into an intermediate language and how the operating system then loads and executes it. Students in the class will be able to write elementary programs that will run on the Microsoft .NET Framework and the open source equivalent, Mono.
+
+
+ARTG 472: Web Design I
+3
+
+Students will plan and execute a site map and design brief, create a website using industry-standard software, and publish it

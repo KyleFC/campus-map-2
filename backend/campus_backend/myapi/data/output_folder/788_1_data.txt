@@ -1,0 +1,77 @@
+mation about the repository on our lib guide.
+
+Does the library carry textbooks?
+
+The library does not collect textbooks used in Concordia University classes.
+
+Where do I find materials my professor has put on RESERVE?
+
+Course Reserves are kept behind the Circulation Desk. Ask for them by professor, then title. You'll need your I.D. card to check out Reserve items. There are multiple lending periods to borrow Reserve items: Library Use Only (LUO – can't take out), 3-Hour (can take out), Overnight (but due back by 10 a.m. the next day), 3-day, and 7-day which are determined by the professor. Overdue fines are $5.00/day.
+
+How do I find out which journals the library has?
+
+From OneSearch, click on Library Links in the upper right-hand side of the page and click on E-Journals List. From here, you can search or browse through our list of A-Z journals.
+
+Can I check out magazines or journals?
+
+The library no longer carries print journals in our collection with a few limited exceptions that can be accessed by request.
+
+How do I connect to electronic databases from off campus?
+
+To access databases from off campus, simply enter your E# and Canvas password when prompted. You can find more detailed instructions at our libguide
+
+My professor wants us to do research. What's the best way to learn how to use the Library?
+
+There are several ways:
+
+First, your professor may arrange Library Instruction for the entire class which can be related to the subject, the assignment and/or level of the students. Contact a librarian for more information.
+Second, the library offers half-hour workshops in-person and over zoom on basic search topics which anyone can attend. Past virtual workshops and other instructional videos can be accessed on our youtube page.
+Third, you may ask a Librarian to help you. You can call us at 949-214-3090, email us at librarian@cui.edu, chat with us online, or make an appointment for in-library help.
+What tools can I use to search the Catalog and Databases?
+
+Each has different tools but all use some basic features:
+
+BOOLEAN Operators: Search by using the terms AND, OR, and NOT.
+'AND' joins two or more terms and returns results containing every term, such as 'college' AND 'cost' AND 'financial aid.'
+'OR' expands the search so the results include at least one of the terms, such as 'Colleges' OR 'Universities.'
+'NOT' limits the search by excluding some terms, such as 'pets' NOT 'cats' NOT 'dogs.'
+Quotation Marks: Putting terms in quotation marks indicates you want to search for those terms together - "red neck"
+Parentheses: Like quotation marks, these keep terms in groups to search only for the terms together (peace on earth)
+Wildcard (?) and Truncation (*): These symbols help your search by substituting for an unknown letter - (se?m brings up seam, seem, etc.) or finding other forms of a root word by including other word endings - (gentl* brings up gentle, gentlemen, gently, etc.)
+Proximity or nearby (N(ear) or W(ithin) + # of words): These search two or more terms which may be nearby each other. i.e. 'income N5 tax' searches for anywhere the words are within 5 words of each other (tax may be on income). 'Income W3 tax' finds results where the words are in the same order as typed (income-related tax, but not tax-related income).
+Which Documentation Style should I use?
+
+Your professor determines what style you must use to document sources for your papers. APA stands for the American Psychological Association and is usually used in the Social Sciences. See the Publication Manual of the American Psychological Association apastyle.apa.org. MLA stands for Modern Language Association and is preferred by the Arts and Humanities faculty. See the MLA Handbook for Writers of Research Papers www.mla.org/style (both are in the library). History and Theology usually prefer the Chicago Manual of Style (CMS), also referred to as Turabian. Others to consider are the CSE, Council of Science Editors and COS, the Columbia Online Style. Each has its own style or preference for how to give credit to sources used for support. There are helpful websites and handouts, but check the Writing Studio in the Library or their website or call x1502 for further information.
+
+My password doesn't work or I forgot it. What should I do?
+
+All registered students have access to library research databases and are given a password/PIN when they register.  Logins and passwords for remote access are the same as your Concordia webmail logins (E#) and passwords.  If you still can't access the databases call ITS at (949) 214-3175, or email at its@cui.edu.
+
+Join Our Community
+Apply Now
+Visit Concordia
+Request Info
+Virtual Tour
+Contact Us
+Concordia University Irvine Footer
+Connect
+University Events
+Resources
+Campus Map
+Employment
+MyCUI
+Parents
+Pay Tuition Online
+Press Room
+Sitemap
+Veterans Resource Center
+Services
+Academic Advising
+Bursar's Office
+Campus Safety
+Financial Aid
+at Concordia University Irvine
+Library
+Brand and Marketing Resources
+Registrar
+U

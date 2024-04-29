@@ -1,0 +1,50 @@
+ 321 and MKT 341.
+
+MKT 475: Marketing Strategy
+3
+
+This class serves as the capstone course for a business degree and related Program Learning Outcomes (PLOs) requiring a compilation and demonstration of mastery of the tools, skill sets and knowledge introduced throughout business program core and emphasis courses. Students will create a signature assignment requiring developing strategic courses of action for a business. Business Exam Fee required. Prerequisites: Marketing emphasis with senior standing and FIN 331 and MGT 321 and MKT 371 and MKT 442.
+
+Internship
+BDA 490A: Professional Development and Internship Emphasis
+2
+
+The CUI School of Business and Economics Internship facilitates a student’s transition from academic theory to real‐life business practices and builds professional networks. An internship related to a student’s academic emphasis helps clarify goals, adds value to the CUI academic experience and opens doors to future employment. The course provides practice in the development of a personal brand as well as skills needed in the pursuit of an internship and eventual employment followed by an off‐site internship. Students meet with their internship director before beginning the off‐site internship for advice and placement approval. Periodic student reports and written feedback from the sponsoring business are required and must demonstrate the skill acquired during the internship. Students must take a minimum cumulative total of two (2) units earned in one (1) unit credit hours. Offered as a Pass/No Pass course. Prerequisites: Business Major with Junior or Senior standing and MGT 321 and BUS 224.
+
+BUSINESS DATA ANALYTICS
+21 Units
+BDA 337: Introduction to Business Data Analytics
+3
+
+This is an introductory course teaching applied job skills in close connection to the concepts and theories that drive the daily decisions relevant to data analysis and business intelligence. Each module focuses on a primary theme with real world cases where students will start by grappling with business problems and the underlying data to methodically drill down and solve problems from a technical approach. A few of these topics include, applications of statistics, data visualization tools in Excel, linear regression, time‐series, classification algorithms, and bias in data.
+
+BDA 338: Data Wrangling and Decision Making
+3
+
+Data wrangling transforms and maps raw data into formats highly useful for analytics and improved decision making. The course is structured to provide students with in‐demand job skills in SQL focusing on real‐world applications from companies such as YouTube and Kickstarter. A combination of online lectures, live discussions with course instructors and classmates refine student capability in applying SQL tools (no coding experience is required) to business situations. Prerequisite: BDA 337.
+
+BDA 436: Data Visualization
+3
+
+Data visualization is an interdisciplinary field that deals with the visual representation of information and data through graphs, maps and charts to identify, understand and communicate trends, patterns and sometimes outliers. This course is structured to provide students the tools to design usable dashboards using real‐world datasets from Uber, The New York Times, US Census Bureau and others. A combination of online lectures, live discussions with course instructors and classmates refine student capability in applying Tableau (no coding experience is required) to business situations. Prerequisite: BDA 337.
+
+BDA 437: Fundamentals of Machine Learning
+3
+
+This course focuses on developing programming skills relevant to data analysis and machine learning with a focus on real‐world applications. State‐of‐the‐art low‐code solutions are used throughout the course, allowing students to immediately begin running models that focus on understanding conceptual material first before diving deeper into technical details. Students use the Python programming language, along with a complete set of open source tools. The material covers the various phases of exploratory data analysis: importing data, cleaning and transforming data, algorithmic thinking, grouping and aggregation, visualization, prediction and communication of results. Prerequisite: BDA 337 and BUS 261.
+
+ECO 321: Econometrics
+3
+
+This course is the study of Econometrics, providing techniques for the quantitative measurement and analysis of actual economic and business phenomena. Prerequisites: fulfillment of the general education math requirement, ECO 201 and ECO 202 and (MTH 252 or MTH 271).
+
+Choose two of the following courses:
+ACT 315: Accounting Information Systems
+3
+
+This course will look at the concepts, controls, and tools of computerized accounting information systems using spreadsheets and databases. Prerequisites: ACT 212 and BUS 261.
+
+COM 422: Studies in Public Relations
+3
+
+Public relations (PR) as a communication discipline will be examined in this course with an emphasis on developing and implementing campaigns includin

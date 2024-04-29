@@ -1,0 +1,74 @@
+https://www.cui.edu/academicprograms/undergraduate/minors/business-data-analytics
+Skip to Main Content
+
+Search
+Undergraduate
+Academics 
+Campus Life 
+Tuition & Financial Aid
+Admission 
+Contact 
+Apply Now
+Business Data Analytics Minor
+Related Majors
+Related Minors 
+Get Started
+Business Data Analytics Minor
+SCHOOL OF BUSINESS AND ECONOMICS
+EXPLORE 
+ Apply Now  Visit Concordia  Talk to a Counselor  Request Info  Virtual Tour  Deposit
+The Value of a College Minor
+
+By declaring a minor, you’ll have the opportunity to pursue interests that might lie outside of your major. Gaining extra knowledge in an area that interests you can also help you in your future career! Not only will your skills and knowledge be more well-rounded, but you’ll also prove to future employers that you’re willing to work hard and exceed their expectations.
+
+Curriculum
+BUSINESS DATA ANALYTICS
+18 Units
+BUS 201: Introduction to Management, Marketing and Information Technology
+3
+
+This survey course will look at today's American business systems including a study of various types of businesses and the information they gather, store, and process, including administration and management of people, facilities, and information. Course will include relevant computer experience simulating business situations.
+
+
+BDA 337: Introduction to Business Data Analytics
+3
+
+This is an introductory course teaching applied job skills in close connection to the concepts and theories that drive the daily decisions relevant to data analysis and business intelligence. Each module focuses on a primary theme with real world cases where students will start by grappling with business problems and the underlying data to methodically drill down and solve problems from a technical approach. A few of these topics include, applications of statistics, data visualization tools in Excel, linear regression, time‐series, classification algorithms, and bias in data.
+
+BDA 338: Data Wrangling and Decision Making
+3
+
+Data wrangling transforms and maps raw data into formats highly useful for analytics and improved decision making. The course is structured to provide students with in‐demand job skills in SQL focusing on real‐world applications from companies such as YouTube and Kickstarter. A combination of online lectures, live discussions with course instructors and classmates refine student capability in applying SQL tools (no coding experience is required) to business situations. Prerequisite: BDA 337.
+
+BDA 436: Data Visualization
+3
+
+Data visualization is an interdisciplinary field that deals with the visual representation of information and data through graphs, maps and charts to identify, understand and communicate trends, patterns and sometimes outliers. This course is structured to provide students the tools to design usable dashboards using real‐world datasets from Uber, The New York Times, US Census Bureau and others. A combination of online lectures, live discussions with course instructors and classmates refine student capability in applying Tableau (no coding experience is required) to business situations. Prerequisite: BDA 337.
+
+BDA 437: Fundamentals of Machine Learning
+3
+
+This course focuses on developing programming skills relevant to data analysis and machine learning with a focus on real‐world applications. State‐of‐the‐art low‐code solutions are used throughout the course, allowing students to immediately begin running models that focus on understanding conceptual material first before diving deeper into technical details. Students use the Python programming language, along with a complete set of open source tools. The material covers the various phases of exploratory data analysis: importing data, cleaning and transforming data, algorithmic thinking, grouping and aggregation, visualization, prediction and communication of results. Prerequisite: BDA 337 and BUS 261.
+
+MTH 265: Introduction to Statistics
+3
+
+As a basic statistics course applicable to education, business, and the hard sciences, this course will include topics such as descriptive statistics, the normal, binomial, F-, and Chi-squared distributions, and hypothesis testing. Optional topics might include additional non-parametric tests and ANOVA. A TI-83 graphing calculator or Microsoft Excel is required. Prerequisite: C- or better in AMTH 101 or CMTH 101 or MTH 201 or MTH 252 or MTH 271 or equivalent.
+
+
+Current students, please note: The requirements listed here may not reflect the most current courses for this minor and may not be the requirements for the catalog year you are following to complete your minor. Please refer to the Academic Catalog for official requirements you must meet to qualify.
+
+Get Started
+Request Info
+
+Provide us your contact information, and one of our admissions counselors will be happy to send you more information about our programs.
+
+First Name
+Last Name
+Email
+
+REQUEST INFO
+
+Schedule a Visit
+
+Attend an information meeting online or face-to-face. We will discuss the application process, 

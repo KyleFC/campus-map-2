@@ -1,0 +1,51 @@
+O 111, BIO 112, BIO 350, CHE 221, CHE 222 or consent of the instructor. Typically offered annually (spring semester).
+
+BIO 309: Population Genetics
+4
+
+This course will investigate the data, methods, and theory behind population genetics with an emphasis on human populations. Prerequisite: C- or better in BIO 112. Typically offered annually (fall semester).
+
+BIO 317: Ecology
+4
+
+Fundamental ecological concepts will be introduced through literature and illustrated in field investigations focusing on the relation of organisms to their environment. Field trips and lab time are included in the schedule. A lab fee is required. Prerequisites: Grade C- or better in (BIO 111, BIO 112) and (CHE 101 or CHE 221or SCI 115) or consent of the instructor. Typically offered alternate years (even years, spring semester).
+
+BIO 331: Marine Biology
+4
+
+This course will study a variety of marine habitats and organisms, with emphasis on ecological interactions, physiological and behavioral adaptations, and current challenges to the marine environment. Emphasis is placed on local marine ecosystems. Students will learn current marine research methods in the lab and field. Up to two (2) weekend field trips are possible in addition to field trips during scheduled lab time. Lab time is included in the schedule. A lab fee is required. Prerequisites: C- or better in (BIO 111, BIO 112) and (CHE 101 or CHE 221 or SCI 115) or consent of instructor. Completion of SCI 318 and BIO 345 is recommended but not required. Typically offered alternate years (odd years, spring semester).
+
+BIO 341: Plant Biology
+4
+
+As an introduction to the basic concepts of plant life, this course will study the structure, functional form, reproduction, genetics, and ecology of fungi, algae, and nonvascular and vascular plants. Lab time is included in the schedule. A lab fee is required. Prerequisites: C- or better in BIO 111 and (CHE 101 or CHE 221 or SCI 115) or consent of instructor. Typically offered alternate years (odd years, spring semester).
+
+BIO 345: Evolutionary Zoology
+4
+
+This course will study the diversity of the animal kingdom while focusing on natural history, anatomy, systematics, and evolutionary principles. Studied phyla include protozoans through mammals, or a subset therein. Lab time is included in the schedule. A lab fee is required. Prerequisites: C- or better in (BIO 101 or CBIO 101 or BIO 111) and BIO 112 or consent of instructor. Typically offered alternate years (even years, fall semester).
+
+BIO 350: Molecular and Cellular Biology
+4
+
+A study of plant and animal molecular and cellular structures, biochemistry, and function is included in this course with an emphasis on the molecular level of cells, cellular metabolism, and the structure and function of the major organelles. Lab time is included in the schedule. A lab fee is required. Prerequisites: C- or better in (BIO 111, BIO 112, CHE 221) and (CHE 222 or SCI 115; or concurrent enrollment) or consent of instructor. Typically offered annually (fall semester).
+
+BIO 351: General Microbiology
+4
+
+This course will introduce the morphology, physiology, and ecological and medical importance of microorganisms (focusing on viruses, bacteria, molds, and yeasts), with a strong focus on the molecular basis of physiological processes. Laboratory sessions will emphasize the culture, physiology, and identification of the major groups of microbes. Lab time is included in the schedule. A lab fee is required. Prerequisites: C- or better in (BIO 101 or BIO 111 or CBIO 101) and (CHE 101 or CHE 221 or SCI 115) or consent of instructor. Typically offered annually (fall semester).
+
+BIO 355: Biostatistics
+3
+
+This course will introduce statistical analysis concepts and methods necessary for the interpretation of biological data in including a hands-on experience with computational methods and biological interpretation rather than statistical theory. Computer lab time is included in the schedule. Prerequisite: C- or better in BIO 111 or consent of instructor. Typically offered annually (fall semester).
+
+BIO 361: Field Biology Techniques
+3
+
+This field-based course will explore common techniques used to conduct biological field research and provide hands-on experience with transects, trapping, quadrats, aquatic survey methods, GPS, GIS, and others. Proper experimental design and statistical analysis of data will be included as students design and conduct their own research projects. During standard Fall or Spring semesters, up to three (3) weekend field trips are possible in addition to field trips during scheduled lab time or longer trips during mid-semester breaks. A lab fee is required and additional travel costs may apply. Prerequisites: C- or better in (BIO 101 or CBIO 101 or BIO 111) and (CHE 101 or CHE 221 or SCI 115) or consent of instructor. Offered alternate years (odd years, spring semester).
+
+BIO 390: Practicum: Biology (1-4 units)
+1
+
+A practical experience outside the classroom that is directly related to th

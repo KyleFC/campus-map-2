@@ -1,0 +1,207 @@
+https://www.cui.edu/obi
+Skip to Main Content
+
+Search
+Academics 
+Admissions 
+About
+Athletics
+Student Life
+The Arts
+Giving
+ MyCUI 
+
+Office of Business Intelligence
+
+Accreditation 
+Data Warehouse
+Learning Outcomes 
+IRB
+Publications/Presentations
+Related Links 
+OFFICE OF BUSINESS INTELLIGENCE
+Provost
+Purpose
+
+The Office of Business Intelligence at Concordia University provides analytical decision support services to university administration and faculty as well as various other university constituents. Its primary function is to serve as a catalyst in the efficient collection, analysis, and dissemination of data pertaining to the university. It is the repository of all institutional related data. It also collaborates with the university’s Educational Effectiveness Committee in designing and implementing assessment systems for academic programs, co-curricular activities, and staff departments. The Office of Business Intelligence fulfills its mission by serving as the focal point of university data and by conducting and supporting various studies pertaining to institutional improvement. While a substantial amount of independent research is performed by the office, a significant amount of the office’s resources are devoted to the support of university administration, committees, departments, faculty, and staff.
+
+Vision
+
+The Office of Business Intelligence at Concordia University Irvine will be the trusted source of actionable insights and strategic guidance, empowering Concordia University's stakeholders to make informed decisions and drive continuous improvement through the efficient collection, analysis, and dissemination of institutional data.
+
+Values
+
+Values for the Office of Business Intelligence at Concordia University guided by the Association for Institutional Research’s Statement of Ethical Principles:
+
+Excellence: Striving for exceptional quality in data collection, analysis, and dissemination to provide accurate and reliable decision support services.
+Collaboration: Foster partnerships and collaborative relationships with university administration, faculty, committees, and staff to promote effective assessment systems and institutional improvement.
+Integrity: Uphold the highest standards of ethical conduct, confidentiality, and data security in handling and managing institutional data.
+Innovation: Embrace innovative technologies and methodologies to enhance data collection, analysis, and reporting processes, staying at the forefront of business intelligence practices.
+Accountability: Take responsibility for the accuracy, completeness, and timeliness of data collected and ensure transparency in reporting and communication with stakeholders.
+Continuous Improvement: Strive for continuous learning and improvement in data collection methodologies, analytical techniques, and the delivery of decision support services to meet the evolving needs of the university.
+Empowerment: Empower university stakeholders with the necessary knowledge and skills to effectively leverage data, fostering data literacy and promoting a data-informed culture throughout the institution.
+Department Objectives/Assessment Plan
+Objective: Evaluate the effectiveness of data collection processes
+Assessment Methods:
+Review data collection protocols and procedures to identify any gaps or inefficiencies
+Conduct surveys or interviews with stakeholders to gather feedback on the ease, accuracy, and comprehensiveness of data collection
+Analyze the timeliness and completeness of data collected compared to established targets
+Assessment Methods:
+Percentage of data collection protocols and procedures reviewed and updated
+Stakeholder satisfaction survey results on data collection processes
+Timeliness and completeness metrics of collected data
+Objective: Assess the quality and usefulness of data analysis and reporting
+Assessment Methods:
+Evaluate the accuracy, relevance, and comprehensiveness of data analysis and reporting outputs
+Conduct feedback sessions or interviews with key stakeholders to gather their perception of the usefulness and clarity of the provided insights
+Compare the recommendations or decisions made based on data analysis with actual outcomes
+Assessment Methods:
+Accuracy and relevance of data analysis and reporting outputs
+Stakeholder feedback on the usefulness and clarity of insights
+Alignment between data-driven recommendations and actual outcomes
+Objective: Measure the effectiveness of data dissemination processes
+Assessment Methods:
+Assess the accessibility and usability of disseminated data by conducting user testing or surveys
+Monitor data dissemination timelines and evaluate the effectiveness of communication channels used
+Gather feedback from stakeholders on the format and comprehensibility of disseminated data
+Assessment Methods:
+User satisfaction ratings on data accessibility and usability
+Timeliness metrics for data dissemination
+Stakeholder feedback on the format and comprehensibility of disseminated data
+Objective: Evaluate the impact of the Office of Business Intelligence's collaboration with University committees
+Assessment Methods:
+Review the design and implementation of assessment systems for academic programs, co-curricular activities, and staff departments
+Analyze the extent to which assessment results are used for decision-making and improvement
+Collect feedback from stakeholders on the value and effectiveness of collaboration efforts
+Assessment Methods:
+Assessment system design and implementation review results
+Utilization of assessment results in decision-making
+Stakeholder feedback on the value and effectiveness of collaboration efforts
+Objective: Assess the impact of the Office of Business Intelligence's research initiatives
+Assessment Methods:
+Analyze the outcomes and impacts of independent research studies conducted by the office
+Collect feedback from stakeholders on the relevance and applicability of research findings
+Monitor the adoption or implementation of recommendations from research studies
+Assessment Methods:
+Outcomes and impacts of independent research studies
+Stakeholder feedback on the relevance and applicability of research findings
+Adoption or implementation rates of research recommendations
+Objective: Measure the level of data literacy and awareness among university stakeholders
+Assessment Methods:
+Conduct surveys or assessments to gauge the knowledge and understanding of data-related concepts among stakeholders
+Evaluate the effectiveness of data literacy training programs or resources provided
+Monitor the utilization of data-informed decision-making practices by stakeholders
+Assessment Methods:
+Data literacy assessment results
+Evaluation of data literacy training programs or resources
+Committee/Taskforce Work
+Academic Council - current
+Educational Effectiveness Committee - current
+Retention and Persistence Committee - current
+Institutional Review Board (IRB) - current
+Data Governance Committee - current
+Data Stewardship Working Group - current
+DGC: Information Quality Taskforce - current
+DGC: Policies and Standards - current
+LMS Review Taskforce - concluded
+Cost of Instruction Taskforce - concluded
+Program Prioritization Taskforce - concluded
+Meet Our Staff
+Neben, Jason
+ 
+jason.neben@cui.edu
+Dr. Jason K. Neben
+Associate Vice President, Data and Technology
+Biography
+
+Dr. Jason K. Neben is currently serving as the Associate Vice President of Data and Technology at Concordia University Irvine. He serves as the Founding Chair of the Data Governance Committee at the university. Dr. Neben holds a Bachelor of Arts in Mathematics from Concordia University Irvine, earned in 1994, a Master of Arts in Education obtained in 2007, and a Doctor of Education from Nova Southeastern University in 2017. In his previous roles, Jason has contributed significantly to the university's growth, having served as the Executive Director of the Office of Innovative Instruction and eLearning, as well as the Senior Director of New Program Development. His leadership extends to spearheading various initiatives, including the LMS Review Taskforce, showcasing his commitment to advancing educational technology and innovative instructional methods.
+
+Jones, Ryan
+ 
+ryan.jones@cui.edu
+Ryan Jones
+Director, Data Integration Services
+Biography
+
+Ryan Jones graduated from Concordia University Irvine in 2008 and began his career in IT in 2009. His previous roles include serving as a Banner Data Analyst and Banner Project Manager.
+
+Lee, Deborah
+ 
+deborah.lee@cui.edu
+Deborah Lee
+Senior Director, Institutional Research & Effectiveness
+WSCUC Accreditation Liaison Officer
+Biography
+
+Deborah Lee is the Senior Director of Institutional Research and Effectiveness and Accreditation Liaison Officer (ALO) at Concordia University Irvine. Her academic background is in criminology, sociology, and research methods. She started at the university in 2011 and oversees institutional research, assessment, regional accreditation, and specialized accreditation. As an alumna of the WASC Senior College and University Commission (WSCUC) Assessment Leadership Academy, Deborah also serves as an IPEDS Educator for the Association for Institutional Research (AIR) and was elected to the Board of Directors for the California Association for Institutional Research Board (CAIR) for a second term. In addition to her administrative role, Deborah also serves as an adjunct faculty member for the School of Arts and Sciences.
+
+Cheng, Emil
+ 
+emil.cheng@cui.edu
+Emil Cheng
+Senior Data Analyst
+Biography
+
+Emil Cheng joined Concordia University Irvine in the Advancement Office starting in 2002 as the Assistant Director of Donor Records & Analysis. He later joined the Finance Office in 2005 in Accounts Receivables and would go on to become the Payroll Manager in 2006. Subsequently, he would join the IT department in 2013 where he now builds data blocks, dashboards, and ad hoc reports primarily in Evisions Argos using PL/SQL.
+
+Pla, Kevin
+ 
+kevin.pla@cui.edu
+Kevin Pla
+Data Analyst
+Biography
+
+Kevin Pla received his B.S. in Business Economics and his M.S. in Business Analytics from the Paul Merage School of Business at UC Irvine. His passion for using data as a tool to create informed decisions and his curiosity in higher education lead him to his current role as a Data Analyst at Concordia University Irvine. Within his first year as a member for Institutional Research and Higher Education, he has created multiple interactive Tableau dashboards to help Concordia University Irvine make data-informed decisions. He is excited to continue broadening his skill set in the field of Higher Education to help improve the lives of students.
+
+Rodrigues, Melissa
+ 
+melissa.rodrigues@cui.edu
+Melissa Rodrigues
+Assessment Coordinator
+Biography
+
+Melissa Rodrigues joined Concordia University Irvine’s Office of Business Intelligence in 2023 after serving as an elementary school educator for 15 years. During her time as a teacher, she served as a WASC site coordinator. This produced a passion for program review and assessment that she brings to her role as Assessment Coordinator. She works closely with the Educational Effectiveness Committee in helping the academic and co-curricular departments across Concordia University Irvine’s campus as they assess their programs.
+
+Stichler, Joel
+ 
+joel.stichler@cui.edu
+Joel Stichler
+Integration Specialist
+Biography
+
+Joel Stichler is a Concordia University Irvine alumni who got his degree in Theology. He started working in the IT Department as a help desk student worker back in 2011 and worked his way up to Client Services Manager. Eventually he found a passion for data and moved to the data team in 2016. Since then he has enjoyed learning new programming languages and various software applications. He currently helps implement and manage new data related software for the university.
+
+Contact Us
+
+
+To submit a data request, please visit the Concordia Helpdesk. From there, choose the Data and Technology Department and underneath that, the Data/Reporting/Email Blast Category.
+
+Join Our Community
+Apply Now
+Visit Concordia
+Request Info
+Virtual Tour
+Contact Us
+Concordia University Irvine Footer
+Connect
+University Events
+Resources
+Campus Map
+Employment
+MyCUI
+Parents
+Pay Tuition Online
+Press Room
+Sitemap
+Veterans Resource Center
+Services
+Academic Advising
+Bursar's Office
+Campus Safety
+Financial Aid
+at Concordia University Irvine
+Library
+Brand and Marketing Resources
+Registrar
+University Services
+

@@ -1,0 +1,255 @@
+https://www.cui.edu/academicprograms/undergraduate/majors/engineering
+Skip to Main Content
+
+Search
+Undergraduate
+Academics 
+Campus Life 
+Tuition & Financial Aid
+Admission 
+Contact 
+Apply Now
+Engineering Major
+Curriculum
+Get Started
+Engineering Major
+SCHOOL OF ARTS AND SCIENCES
+EXPLORE 
+ Apply Now  Visit Concordia  Talk to a Counselor  Request Info  Virtual Tour  Deposit
+Engineering Real Impact — for Your Career and the World
+
+As a branch of science and technology, the Bachelor of Science in Engineering deals with the design, building, maintenance, and use of engines, machines, and structures. Engineering majors combine creativity with hands-on skills to turn designs and models into working devices – all for the purpose of meeting real needs in society.
+
+What makes engineering at Concordia University Irvine unique from other universities? At Concordia, we’re interested in training a different type of engineer.
+
+The Concordia University Irvine Engineering program is committed to furthering the instruction, learning, and employment opportunities for the students enrolled and for future graduates.  To that end, the program intends to develop and resource the necessary steps for ABET accreditation at its earliest feasible opportunity by submitting the readiness review study by October 2024 with the goal of being fully accredited by Summer 2026.
+
+APPLY NOW
+
+Engineers with Broad Training for the 21st century.
+
+You may wonder why our major is in Engineering, and not a more specialized degree like Civil, Electrical, or Mechanical Engineering. Rather than focusing on narrow specializations, we believe in equipping you with a broad education that gives you a solid foundation for your future and allows you to continually build on your skills. This gives you the flexibility to adapt to the evolving fields within engineering…or even if you end up deciding on a different career path.
+
+Take an Interdisciplinary Approach to Learning and Leading.
+
+You will first encounter what we mean by cross-disciplinary thinking in our distinctive general education, called Enduring Questions & Ideas. As you wrestle with these “Great Questions,” you’ll start to make connections not only within the field of engineering, but also across different subject matters and with your own callings in life. It’s this type of curiosity, testing, problem solving, and inventing that is at the heart of the scientific method, and it’s the type of engineer who we believe is best prepared to lead and thrive in a complex world.
+
+Engaging in Service to Others.
+
+Engineers have the unique opportunity to positively and significantly impact the quality of human life – whether that’s in major urban and suburban areas or the remotest towns and villages of the planet. As a Lutheran university, we take seriously our callings to love and serve our neighbors. Guided by Christian faculty, you will experience an emphasis on moral integrity and service to others throughout not only your classes but in entrepreneurial engineering activities that take place outside of the classroom.
+
+Opportunities For Engineering Majors
+Academic Opportunities
+
+At Concordia, Engineering majors have the advantage of being able to take classes and learn from professors across many excellent programs in the sciences (including chemistry, physics, and computer science), mathematics, fine arts, humanities, behavioral sciences, communication, and business. Other popular majors and academic programs that pair well with the Engineering major include:
+
+Biochemistry Major
+Biology Major & Minor
+Chemistry Major & Minor
+Computer Science Major & Minor
+Economics Major & Minor
+Mathematics Major & Minor
+Physics Major 
+Service-Learning Opportunities
+
+All Engineering students will be involved in service initiatives throughout their coursework and participate in at least one major engineering trip or activity. Examples include partnering with nonprofit organizations such as Engineers Without Borders, Engineering Ministries International, and Engineering for Change.
+
+Career and Graduate School Opportunities
+
+Concordia has a proud legacy of placing our graduates in top-rated graduate schools and first-class Ph.D. programs. Whether your plan is to transition into a master’s-level program or join the workforce in an area of national need, you will be prepared to succeed as a leader, professional, responsible citizen, and lifelong learner. A few examples of the types of fields that graduates with a degree in Engineering are qualified for a career or further study include:
+
+Architectural and design companies
+Electrical engineering
+Biomedical engineering
+Chemical engineering
+Civil engineering
+Computer engineering
+Computing
+Control engineering
+Energy
+Mechanical engineering
+Mobile technologies
+Sensor and data processing
+Telecommunications
+Transport and utilities companies
+Curriculum
+
+The Engineering major will allow you to take courses across a broad range of disciplines: chemistry, physics, mathematics, computer science, communications, economics, and engineering. 
+
+ENGINEERING MAJOR
+71 Units
+ENGR 101: Introduction to Engineering and Design
+3
+
+Develop creative thinking and problem solving skills essential to the engineer. Students are challenged to function as members of a team to communicate well. Broad exposure is provided to various engineering disciplines and practices.
+
+ENGR 210: Entrepreneurial Engineering Economics
+3
+
+This course will introduce you to engineering economics, which is the application of economics and decision theory to the evaluation of engineering alternatives in planning, developing, constructing, and managing engineering projects.
+
+ENGR 212: Project Management and Communication in Christian Context
+3
+
+Students will incorporate the unique incarnational aspects of Jesus Christ into the skills related to service, teamwork, project planning and management, and communication within a team and for stakeholders. Students work in teams to plan and carry out semester-long projects.
+
+ENGR 312: Statics & Strength of Materials
+4
+
+Develop core competencies associated with mechanical, biomechanical, and structural engineering. Physics principles are used to determine internal and external forces in various types of members, including introduction to analysis software. The material's response to load - stress and strain - is also emphasized. Principles for design of simple mechanical and structural elements are introduced. Pre/Co-requisites: PHY 221
+
+ENGR 314: Mechanical Dynamics
+3
+
+Students will learn the foundations of the kinematics of particles, systems of particles, and rigid bodies. Topics include impulse and momentum, conservation of energy, rotation, and vibrations. Computational problem solving skills will be developed to solve dynamic engineering problems. Pre/Co-requisites: ENGR 312
+
+ENGR 316: Fluid Mechanics
+3
+
+Study of static and dynamic effects in Fluid Kinematics using Lagrangian and Eulerian analysis. Continuity, momentum, and energy equations in integral and differential form for incompressible flows. Introduction to boundary layer theory and transient fluid motion. Comparison of theory to experimental and computational fluid dynamic results. Pre/Co-requisites: MTH 384
+
+ENGR 318: Heat & Mass Transport
+3
+
+This course introduces the governing principles behind heat and mass transport phenomena. Students will develop an understanding of steady state and transient conduction and diffusion, laminar and turbulent convective transport, and the computational solution strategies often employed by engineers. Pre/Co-requisite: MTH 384
+
+PHY 315: Electronics I: Analog Circuits
+3
+
+This hands-on course will focus on the design, fabrication, and testing of analog electronic circuits, circuit components, and devices with special emphasis on the use of electronic test equipment. Lab time is included in the schedule. A lab fee is required. Prerequisite: C- or better in PHY 221 or consent of instructor.
+
+ENGR 320: Signals & Systems
+3
+
+This course presents students with the fundamentals of analog and digital signal processing in the context of engineering systems. Interpretation and analysis of continuous and discrete time signals are introduced, as well as the use of Fourier and Laplace transforms. Sampling, filtering, modulation, and feedback for systems are discussed using cases from diverse areas of engineering.
+
+PHY 325: Scientific Equipment Design and Fabrication
+3
+
+This hands-on course will focus on the design of scientific equipment, the use of scientific glassblowing, and machine shop tools, particularly the lathe and the knee-type mill, to fabricate, repair, and modify scientific equipment; also included will be a comprehensive introduction to vacuum technology. Lab time is included in the schedule. A lab fee is required. Prerequisite: C- or better in PHY 221 or consent of instructor.
+
+ENGR 330: Computer Aided Design
+3
+
+Two- and three-dimensional computer aided design principles are developed through the use of a 3D solid modeling program. Students will design and create engineering drawings and geometric models. The course will culminate with a team-based project resulting in the design and fabrication of a prototype. Pre/Co-requisite: ENGR 101
+
+ENGR 495: Senior Capstone I
+2
+
+Students engage the knowledge content of their academic discipline in the context of a specific technology problem or need and in collaboration with a partner organization or client community. Teams demonstrate effective project management strategies, report on progress consistently, and document significant design activity.  Senior level status required
+
+ENGR 496: Senior Capstone II
+2
+
+Students engage the knowledge content of their academic discipline in the context of a specific technology problem or need and in collaboration with a partner organization or client community. Teams demonstrate effective project management strategies, report on progress consistently, and document significant design activity.  Senior level status required
+
+All Engineering majors are required to complete a Senior Capstone project. This culminating course allows you to apply what you have learned throughout your four years to solve a specific engineering problem or need in collaboration with a partner organization or client community. Students who select the engineering major must take CHE 221 in general education.
+
+VIEW FULL CURRICULUM
+
+Program Learning Outcomes (PLOs)
+An ability to identify, formulate, and solve engineering problems by applying principles of engineering, science, and mathematics.
+An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.
+An ability to communicate effectively with a range of audiences.
+An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts.
+An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives.
+An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions.
+An ability to acquire and apply new knowledge as needed, using appropriate learning strategies.
+Meet Your Professors
+
+With small class sizes, you will get to know your professors on an individual basis, and they will get to know you and your educational goals. All of our faculty are Christian professionals who teach with the passion of helping you discover and grow in your callings. Here are some of the professors whom you will meet as an Engineering major.
+
+Dr. Gabriela Espinosa
+Founding Director of Engineering
+
+Dr. Gabriela Espinosa joined Concordia University Irvine as the founding Director of Engineering in 2021. She earned a bachelor’s degree from Yale University in Applied Physics followed by MS and PhD degrees in Biomedical Engineering from Saint Louis University and Washington University in St. Louis, respectively. Dr. Espinosa also completed a postdoctoral fellowship at the University of California, Irvine. Her research has focused on the interaction between mechanical forces and biological systems, such as the role of blood flow on congenital heart defects and the use of mechanical stimuli for improved orthopaedic tissue engineering.
+
+Professor Joshua Tallman
+Assistant Professor of Computer Science & Program Director
+
+Professor Joshua Tallman joined the Concordia University faculty in 2019 as part of the Computer Science Department. He holds a Master's degree in Computer Science from Johns Hopkins University with a BA in Computer Engineering. Professor Tallman has 15+ years of experience working as a programmer and analyst in the field of computer security. He has held positions within the Department of Defense working in Maryland, Germany, and the United Kingdom, as well as working as an independent contractor for Dragos, Inc., a company specializing in security for Industrial Control Systems. 
+
+Dr. John Kenney
+Professor Emeritus of Chemical Physics
+
+Dr. Kenney is an award winning teacher and scholar noted for his contributions to both chemical education and to chemistry / chemical physics research. He is known for his passionate, enthusiastic, energetic, and innovative hands-on teaching style, for the depth and rigor of his classes, for his involvement of students in high-level scientific research, and for his ability to transform the lives of his students and inspire them to achieve their professional and personal goals.
+
+
+
+Previous faculty member
+
+
+Next faculty member
+
+TALK TO A PROFESSOR
+
+Get in Touch
+
+If you’re interested in learning more about the Engineering program at Concordia University Irvine, we invite you to contact us directly.
+
+Gabriela Espinosa
+Founding Director of Engineering
+gabriela.espinosa@cui.edu
+
+
+Get Started
+Request Info
+
+Provide us your contact information, and one of our admissions counselors will be happy to send you more information about our programs.
+
+First Name
+Last Name
+Email
+
+REQUEST INFO
+
+Schedule a Visit
+
+Attend an information meeting online or face-to-face. We will discuss the application process, financial aid, payment plans, and more.
+
+SEP
+
+14
+
+USA Cheer and Stunt Combine
+September 14, 7:00 AM
+CU Arena (Gym)
+
+SCHEDULE A VISIT
+
+Apply Now
+
+Are you ready to get started? Our online application is available 24/7. Begin your journey now and hear from a counselor once you finish.
+
+APPLY NOW
+
+Explore the Opportunities
+Apply Now
+Visit Concordia
+Talk to a Counselor
+Request Info
+Virtual Tour
+Deposit
+Concordia University Irvine Footer
+Connect
+University Events
+Resources
+Campus Map
+Employment
+MyCUI
+Parents
+Pay Tuition Online
+Press Room
+Sitemap
+Veterans Resource Center
+Services
+Academic Advising
+Bursar's Office
+Campus Safety
+Financial Aid
+at Concordia University Irvine
+Library
+Brand and Marketing Resources
+Registrar
+University Services
+

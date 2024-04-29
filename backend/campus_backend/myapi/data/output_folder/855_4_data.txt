@@ -1,0 +1,27 @@
+ll studies on a quarterly basis. If every quarterly report contains sufficient information for an adequate continuing review and is reviewed by the IRB under procedures that meet FDA requirements for continuing review, FDA would not require an additional "annual" review.
+
+CFR 56.115(a)(1) requires that the IRB maintain copies of "research proposals reviewed." Is the "research proposal" the same as the formal study protocol that the investigator receives from the sponsor of the research?
+
+Yes. The IRB should receive and review all research activities [21 CFR 56.109(a)]. The documents reviewed should include the complete documents received from the clinical investigator, such as the protocol, the investigator's brochure, a sample consent document and any advertising intended to be seen or heard by prospective study subjects. Some IRBs also require the investigator to submit an institutionally-developed protocol summary form. A copy of all documentation reviewed is to be maintained for at least three years after completion of the research at that institution [21 CFR 56.115(b)]. However, when the IRB makes changes, such as in the wording of the informed consent document, only the finally approved copy needs to be retained in the IRB records.
+
+What IRB records are required for studies that are approved but never started?
+
+When an IRB approves a study, continuing review should be performed at least annually. All of the records listed in 21 CFR 56.115(a)(1) - (4) are required to be maintained. The clock starts on the date of approval, whether or not subjects have been enrolled. Written progress reports should be received from the clinical investigator for all studies that are in approved status prior to the date of expiration of IRB approval. If subjects were never enrolled, the clinical investigator's progress report would be brief. Such studies may receive continuing IRB review using expedited procedures. If the study is finally canceled without subject enrollment, records should be maintained for at least three years after cancellation [21 CFR 56.115(b)].
+
+Informed Consent Process
+
+Is getting the subject to sign a consent document all that is required by the regulations?
+
+No. The consent document is a written summary of the information that should be provided to the subject. Many clinical investigators use the consent document as a guide for the verbal explanation of the study. The subject's signature provides documentation of agreement to participate in a study, but is only one part of the consent process. The entire informed consent process involves giving a subject adequate information concerning the study, providing adequate opportunity for the subject to consider all options, responding to the subject's questions, ensuring that the subject has comprehended this information, obtaining the subject's voluntary agreement to participate and, continuing to provide information as the subject or situation requires. To be effective, the process should provide ample opportunity for the investigator and the subject to exchange information and ask questions.
+
+May informed consent be obtained by telephone from a legally authorized representative?
+
+A verbal approval does not satisfy the 21 CFR 56.109(c) requirement for a signed consent document, as outlined in 21 CFR 50.27(a). However, it is acceptable to send the informed consent document to the legally authorized representative (LAR) by facsimile and conduct the consent interview by telephone when the LAR can read the consent as it is discussed. If the LAR agrees, he/she can sign the consent and return the signed document to the clinical investigator by facsimile.
+
+21 CFR 50.27(a) requires that a copy of the consent document be given to the person signing the form. Does this copy have to be a photocopy of the form with the subject's signature affixed?
+
+No. The regulation does not require the copy of the form given to the subject to be a copy of the document with the subject's signature, although this is encouraged. It must, however, be a copy of the IRB approved document that was given to the subject to obtain consent [21 CFR 50.27(a) or 21 CFR 50.27(b)(2)]. One purpose of providing the person signing the form with a copy of the consent document is to allow the subject to review the information with others, both before and after making a decision to participate in the study, as well as providing a continuing reference for items such as scheduling of procedures and emergency contacts.
+
+If an IRB uses a standard "fill-in-the-blank" consent format, does the IRB need to review the filled out form for each study?
+
+Yes. A fill-in-the-blank format provides only some standard wording and a framework for organizing the relevant study information. The IRB should review a completed sample form, individualized for each study, to ensure that the consent document, in its entirety, contains all the information required by 21 CFR 50.25 in language the subject can understand. The comp

@@ -1,0 +1,52 @@
+is of actual economic and business phenomena. Prerequisites: fulfillment of the general education math requirement, ECO 201 and ECO 202 and (MTH 252 or MTH 271).
+
+ECO 421: Intermediate Microeconomics
+3
+
+This course uses principles of economic and statistical analysis in management decision making and practical problem solving; demand evaluation and sales forecasting; cost and profitability analysis; pricing policy; uncertainty and risk, and use of case studies. Prerequisites: fulfillment of general education math requirement and ECO 202.
+
+ECO 428: Intermediate Macroeconomics and Public Policy
+3
+
+This course uses economic methodology to evaluate the economic methods used in, and the purposes driving, the development of economic public policies in the U.S., focusing on the role of government in shaping social policy and its impact on individuals. Students will (a) complete an essay describing a recent U.S. economic policy event, and (b) an essay describing the economic justification for recent public policy in one (1) of the following three (3) topics: Environmental and Natural Resource Economics; Economics of Health; or Economics of Education. Prerequisites: fulfillment of general education math requirement and ECO 201 and ECO 202 and (MTH 252 or MTH 271).
+
+ECO 485: Economic Major Thesis
+3
+
+This capstone course will integrate and apply key economic theory and models through the student's original choice of research; evaluation of the thesis will be by committee. Business Exam Fee required. Prerequisite: Senior status Economics major and ECO 221 and ECO 321.
+
+FIN 331: Finance
+3
+
+This is an introductory course to the principles and practices of managerial finance, sources and methods of raising capital, cash flow analysis, financial statement analysis, financial markets, and stockholder equity concerns. Additional concepts will include decision making with risk and use of operation and financial leverage. Prerequisites: General education math requirements and ACT 211.
+
+MTH 252: Introduction to Calculus
+3
+
+This course, for non-math majors, will study the limits and the foundations of differential and integral calculus with an emphasis on applications. The use of technology (graphing calculator, websites, Maple) will be used. Prerequisite: C- or better in AMTH 101 or CMTH 101 or MTH 201 or equivalent.
+
+Choose 3 of the following:
+BDA 338: Data Wrangling and Decision Making
+3
+
+Data wrangling transforms and maps raw data into formats highly useful for analytics and improved decision making. The course is structured to provide students with in‐demand job skills in SQL focusing on real‐world applications from companies such as YouTube and Kickstarter. A combination of online lectures, live discussions with course instructors and classmates refine student capability in applying SQL tools (no coding experience is required) to business situations. Prerequisite: BDA 337.
+
+ECO 323: Money and Financial Markets
+3
+
+This course is an overview of financial markets and institutions, money markets, stocks, bonds, foreign currency, and derivatives. Prerequisite: ECO 201 or ECO 202.
+
+ECO 340: Morality, Social Policy, and Economics
+3
+
+This course will begin with a review of classical economic concepts and methods, and a review of the basic tenets of morality. The course will then turn to topics where “moral” social choice is often discussed, such as alleviating human misery, government assistance, pollution, crime, and poverty. The course will conclude by evaluating the methods and government programs that economics suggests can influence moral choice, and the obstacles inherent in the implementation and delivery of such programs. Recommended Prerequisite: ECO 201 or ECO 202.
+
+ECO 429: Environment, Climate and Sustainability
+3
+
+This course is an overview of topics surrounding the assessment of humankind’s interaction and use of the environment, the effect on climate, and assessment of long term sustainability. Using environmental and economics concepts and methods, the course will cover topics such as means to value natural resources, methods for appropriately mitigating externalities (such as pollution), and assessing development activities. The course will also evaluate the availability and use of natural resources, depletable and renewable, such as energy, water, land, and forests. Finally, the course will assess relevant topics surrounding climate change, including its measurement, causes, effects (magnitude and geographic distribution), and potential responses. Throughout the course students will learn the relevant government agencies and legal processes surrounding the environment, climate, and sustainability. Recommended Prerequisite: ECO 201 or ECO 202.
+
+FIN 445: International Finance
+3
+
+This course will explain corporate strategies, opportunities, and processes for raising funds, investing, and developing financial relationships with global partners including a review of global stock markets, money exchanges, and foreign f

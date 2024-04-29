@@ -1,0 +1,36 @@
+cipal and interest begins immediately once the loan is fully disbursed with some options to delay payment available.
+Private Loan: A student or parent loan from a commercial, state-affiliated or institutional lender used to pay for up to the annual Cost of Attendance, less any financial aid received. Private loans have varying interest rates, fees and repayment options and usually require the applicant to be creditworthy, or have a creditworthy cosigner. Repayment generally begins immediately.
+
+Enrollment Status: Academic workload (or course load), as defined by the institution, in which a student is enrolled for a defined academic period. This normally relates to the number of credit hours or clock hours taken by a student during a given academic period (e.g. full-time, three-quarter-time, half-time, less-than-half-time).
+
+Expected Direct Costs: Charges included in the Cost of Attendance that the student/family pays directly to the college.
+
+Expected Family Contribution (EFC): An eligibility index that college financial aid staff use to determine how much financial aid you would receive if you were to attend their school. The EFC is calculated according to a formula specified in law and is based upon the information provided by the student and their family on the Free Application for Federal Student Aid (FAFSA).
+
+Family Financial Responsibility (FFR): Many schools award institutional need-based scholarships and grants based upon a more comprehensive calculation of family financial circumstances using information provided on the CSS PROFILE or the institution's own financial aid form. This can result in a higher (or lower) figure than the Free Application for Federal Student Aid (FAFSA) might indicate with its Expected Family Contribution (EFC) estimate.
+
+Federal Pell Grant: A federal grant provided by the federal government to undergraduate students who demonstrate exceptional financial need and have an Expected Family Contribution below a certain threshold established by the federal government. The Pell Grant award amount is prorated based on Enrollment Status.
+
+Federal Supplemental Educational Opportunity Grant (FSEOG): A federal grant awarded by the institution to qualified undergraduate students who demonstrate exceptional financial need. Priority is given to Federal Pell Grant recipients.
+
+Federal Work-Study (FWS): A federal program offered and administered by the institution that provides opportunity for part-time employment to students with financial need to help pay their educational expenses. Students are responsible for finding qualified employment. Funds are paid out through a paycheck, as earned.
+
+Gift Aid: Funds awarded to the student that do not have to be repaid, unless the student fails to meet certain criteria, such as a service requirement that is specified as a condition of the gift aid or not completing the period for which the aid was awarded. Gift aid can include awards with titles such as grants, scholarships, remissions, awards, waivers, etc. Gift aid can be awarded based upon many factors, including (but not limited to) financial need, academic excellence, athletic, musical, and/or theatrical talent, affiliation with various groups, and/or career aspirations.
+
+Grant: Gift Aid that is typically based on financial need.
+
+Income Share Agreement (ISAs): A student's contract with their institution or a private entity to pay a percentage of their future earnings for a fixed period after graduation in exchange for funds to pay for their education while enrolled.
+
+Indirect Costs: Estimated expenses in the Cost of Attendance that are not paid directly to the institution.
+
+Iraq and Afghanistan Service Grant (IASG): A federal grant to qualifying students with a parent or guardian who died as a result of U.S. military service in Iraq or Afghanistan after September 11, 2001. If a student is eligible for a Federal Pell Grant, he or she cannot receive an IASG.
+
+Need: The student's Cost of Attendance minus their Expected Family Contribution, or Family Financial Responsibility (if applicable).
+
+Net Price:Amount of direct and indirect costs remaining after all Gift Aid is applied. Net price can be covered through a variety of sources, including: savings, income, and education loans.
+
+Program Level: Level of the degree-granting program in which a student is enrolled. Program levels may include: undergraduate (students seeking an associate degree, an undergraduate certificate, or a baccalaureate degree); post-baccalaureate (such as teacher certification); or graduate (students working on a master's degree, graduate certificate, doctorate, or professional degree). The amounts and types of financial aid for which a student is eligible is determined, in part, by their program level.
+
+Scholarship: Gift Aid that is typically based on merit, such as, academic excellence, talent, affiliation with various groups, or career aspirations or a combination of merit and need.
+
+Self-help: An institution's expectatio

@@ -1,0 +1,81 @@
+with key stakeholders to gather their perception of the usefulness and clarity of the provided insights
+Compare the recommendations or decisions made based on data analysis with actual outcomes
+Assessment Methods:
+Accuracy and relevance of data analysis and reporting outputs
+Stakeholder feedback on the usefulness and clarity of insights
+Alignment between data-driven recommendations and actual outcomes
+Objective: Measure the effectiveness of data dissemination processes
+Assessment Methods:
+Assess the accessibility and usability of disseminated data by conducting user testing or surveys
+Monitor data dissemination timelines and evaluate the effectiveness of communication channels used
+Gather feedback from stakeholders on the format and comprehensibility of disseminated data
+Assessment Methods:
+User satisfaction ratings on data accessibility and usability
+Timeliness metrics for data dissemination
+Stakeholder feedback on the format and comprehensibility of disseminated data
+Objective: Evaluate the impact of the Office of Business Intelligence's collaboration with University committees
+Assessment Methods:
+Review the design and implementation of assessment systems for academic programs, co-curricular activities, and staff departments
+Analyze the extent to which assessment results are used for decision-making and improvement
+Collect feedback from stakeholders on the value and effectiveness of collaboration efforts
+Assessment Methods:
+Assessment system design and implementation review results
+Utilization of assessment results in decision-making
+Stakeholder feedback on the value and effectiveness of collaboration efforts
+Objective: Assess the impact of the Office of Business Intelligence's research initiatives
+Assessment Methods:
+Analyze the outcomes and impacts of independent research studies conducted by the office
+Collect feedback from stakeholders on the relevance and applicability of research findings
+Monitor the adoption or implementation of recommendations from research studies
+Assessment Methods:
+Outcomes and impacts of independent research studies
+Stakeholder feedback on the relevance and applicability of research findings
+Adoption or implementation rates of research recommendations
+Objective: Measure the level of data literacy and awareness among university stakeholders
+Assessment Methods:
+Conduct surveys or assessments to gauge the knowledge and understanding of data-related concepts among stakeholders
+Evaluate the effectiveness of data literacy training programs or resources provided
+Monitor the utilization of data-informed decision-making practices by stakeholders
+Assessment Methods:
+Data literacy assessment results
+Evaluation of data literacy training programs or resources
+Committee/Taskforce Work
+Academic Council - current
+Educational Effectiveness Committee - current
+Retention and Persistence Committee - current
+Institutional Review Board (IRB) - current
+Data Governance Committee - current
+Data Stewardship Working Group - current
+DGC: Information Quality Taskforce - current
+DGC: Policies and Standards - current
+LMS Review Taskforce - concluded
+Cost of Instruction Taskforce - concluded
+Program Prioritization Taskforce - concluded
+Meet Our Staff
+Neben, Jason
+ 
+jason.neben@cui.edu
+Dr. Jason K. Neben
+Associate Vice President, Data and Technology
+Biography
+
+Dr. Jason K. Neben is currently serving as the Associate Vice President of Data and Technology at Concordia University Irvine. He serves as the Founding Chair of the Data Governance Committee at the university. Dr. Neben holds a Bachelor of Arts in Mathematics from Concordia University Irvine, earned in 1994, a Master of Arts in Education obtained in 2007, and a Doctor of Education from Nova Southeastern University in 2017. In his previous roles, Jason has contributed significantly to the university's growth, having served as the Executive Director of the Office of Innovative Instruction and eLearning, as well as the Senior Director of New Program Development. His leadership extends to spearheading various initiatives, including the LMS Review Taskforce, showcasing his commitment to advancing educational technology and innovative instructional methods.
+
+Jones, Ryan
+ 
+ryan.jones@cui.edu
+Ryan Jones
+Director, Data Integration Services
+Biography
+
+Ryan Jones graduated from Concordia University Irvine in 2008 and began his career in IT in 2009. His previous roles include serving as a Banner Data Analyst and Banner Project Manager.
+
+Lee, Deborah
+ 
+deborah.lee@cui.edu
+Deborah Lee
+Senior Director, Institutional Research & Effectiveness
+WSCUC Accreditation Liaison Officer
+Biography
+
+Deborah Lee is the Senior Director of Institutional Research and Effectiveness and Accreditation Liaison Officer (ALO) at Concordia University Irvine. Her academic background is in criminology, sociology, and research methods. She started at the university in 2011 and oversees institutional research, assessment, regional accreditation, and specialized accreditation. As an alumna of th

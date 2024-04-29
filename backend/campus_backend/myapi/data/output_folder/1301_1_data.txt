@@ -1,0 +1,159 @@
+12/19/22 @ 10:00PM CT	WBIQDT
+
+Birmingham	12/19/22 @ 10:00PM CT	WCIQDT
+Huntsville-Decatur	12/19/22@ 10:00PM CT	WFIQDT
+Huntsville-Decatur	12/19/22 @ 10:00PM CT	WHIQDT
+Mobile-Pensacola	12/19/22 @ 10:00PM CT	WEIQDT
+Montgomery (Selma)	12/19/22@ 10:00PM CT	WAIQDT
+Montgomery (Selma)	12/19/22 @ 10:00PM CT	WDIQDT
+Montgomery (Selma)	12/19/22 @ 10:00PM CT	WGIQDT
+Montgomery (Selma)	12/19/22 @ 10:00PM CT	WIIQDT
+‌
+Alaska
+Market	Date & Time	Station
+Anchorage	12/16/22 @ 10:00PM AKS	KAKMDT
+Anchorage	12/16/22 @ 10:00PM AKS	KMXT-LP
+Anchorage	12/17/22 @ 3:00AM AKS	KAKMDT
+Anchorage	12/17/22 @ 3:00AM AKS	KMXT-LP
+Bethel	12/16/22 @ 10:00PM AKS	KYUK-LP
+Bethel	12/17/22 @ 3:00AM AKS	KYUK-LP
+Fairbanks	12/16/22 @ 2:30AM AKS	KUACDT
+Juneau	12/16/22 @ 10:00PM AKS	KTOODT
+Fairbanks	12/17/22 @ 2:30AM AKS	KUACDT
+Juneau	12/17/22 @ 3:00AM AKS	KTOODT
+‌
+California
+Market	Date & Time	Station
+Chico-Redding	12/25/22 @ 1:00PM PT	KIXEDT
+Fresno-Visalia	12/25/22 @ 7:00PM PT	KVPTDT
+Fresno-Visalia	12/16/22 @ 11:00PM PT	KVPTDT
+Los Angeles	12/12/22 @ 7:00PM PT	KOCEDT
+Los Angeles	12/19/22 @ 6:00AM PT	KOCEDT2
+Los Angeles	12/19/22 @ 5:00PM PT	KOCEDT2
+Los Angeles	12/22/22 @ 10:00PM PT	KOCEDT2
+Los Angeles	12/23/22 @ 4:00AM PT	KOCEDT2
+Los Angeles	12/23/22 @ 4:00PM PT	KOCEDT2
+Los Angeles	12/23/22 @ 10:00PM PT	KOCEDT2
+Los Angeles	12/25/22 @ 1:30AM PT	KOCEDT
+Los Angeles	12/25/22 @ 2:00PM PT	KCETDT
+Los Angeles	12/25/22 @10:30 PM PT	KCETDT
+San Diego	12/20/22 @ 9:00PM PT	KPBSDT
+San Diego	12/24/22 @ 11:00PM PT	KPBSDT
+San Diego	12/25/22 @ 5:00AM PT	KPBSDT
+San Francisco	12/24/22 @ 4:00PM PT	KPJKDT
+San Francisco	12/25/22 @ 10:00AM PT	KPJKDT
+‌
+Colorado
+Market	Date & Time	Station
+Albuquerque	12/25/22 @ 11:00AM MT	KRMUDT
+Colorado Springs	12/25/22 @ 11:00AM MT	KTSCDT
+Denver	12/25/22 @ 11:00AM MT	KRMADT
+Denver	12/25/22 @ 11:00AM MT	KRMZ
+Denver	12/25/22 @ 11:00AM MT	KRMZDT
+Grand Junction	12/25/22 @ 11:00AM MT	KRMJDT
+‌
+District of Columbia
+Market	Date & Time	Station
+Washington	12/25/22 @ 8:00AM ET	WETADT5
+‌
+Florida
+Market	Date & Time	Station
+Ft Myers-Napls	12/17/22 @ 10:30PM	WGCUDT
+Ft Myers-Napls	12/19/22 @ 9:30PM	WGCUDT3
+Ft Myers-Napls	12/20/22 @ 2:30AM	WGCUDT3
+Gainesville	12/17/22 @ 10:30PM	WUFTDT
+Jacksonville	12/17/22 @ 10:30PM	WJCTDT
+Jacksonville	12/19/22 @ 1:30PM	WJCTDT
+Mobile-Pensacola	12/18/22 @ 4:30AM	WSREDT
+Orlando	12/14/22 @ 9:00PM	WEFSDT
+Orlando	12/15/22 @ 1:00AM	WEFSDT
+Orlando	12/17/22 @ 10:30PM	WEDUDT
+Orlando	12/24/22 @ 4:30PM	WEFSDT
+Orlando	12/25/22 @ 10:00AM	WEFSDT
+Orlando	12/25/22 @ 2:00PM	WDSCDT
+Orlando	12/31/22 @ 7:00PM	WDSCDT
+Panama City	12/17/22 @ 9:30PM	WFSGDT
+Panama City	12/25/22 @ 9:30PM	WFSGDT
+Tallahassee	12/17/22 @ 10:30PM	WFSUDT
+Tallahassee	12/25/22 @ 10:30PM	WFSUDT
+Tampa	12/17/22 @ 10:30PM	WEDUDT
+Tampa	12/18/22 @ 10:30PM	WEDQDT4
+Tampa	12/18/22 @ 10:30PM	WEDUDT4
+West Palm	12/22/22 @ 10:30PM	WXELDT
+‌
+Illinois
+Market	Date & Time	Station
+Champaign	12/20/22 @ 8:00 PM	WEIUDT
+Champaign	12/21/22 @ 10:00 PM	WEIUDT
+Champaign	12/22/22 @ 2:00 AM	WSECDT
+Chicago	12/25/22 @ 3:00 AM	WTTWDT
+Chicago	12/24/22 @ 3:00 PM	WTTWDT2
+Chicago	12/25/22 @ 4:00 AM	WTTWDT2
+Peoria-Bloomington	12/19/22 @ 10:00 PM	WTVPDT
+Peoria-Bloomington	12/22/22 @ 3:00AM	WTVPDT
+‌
+Indiana
+Market	Date & Time	Station
+Chicago	12/21/22 @ 9:00 PM	WYINDT
+Chicago	12/25/22 @ 3:00 PM	WYINDT
+Indianapolis	12/11/22 @ 3:00 PM	WFYIDT
+Indianapolis	12/16/22 @ 3:00 AM	WFYIDT
+‌
+Michigan
+Market	Date & Time	Station
+Alpena	12/24/22 @ 11:00 PM	WCMLDT
+Detroit	12/25/22 @ 1:00 PM	WTVSDT
+Flint-Saginaw	12/24/22 @ 11:00 PM	WCMUDT
+Flint-Saginaw	12/24/22 @ 11:00 PM	WCMZDT
+Flint-Saginaw	12/20/22 @ 10:00 PM	WDCPDT
+Flint-Saginaw	12/21/22 @ 2:00 AM	WDCPDT
+Flint-Saginaw	12/25/22 @ 6:00 PM	WDCPDT
+Flint-Saginaw	12/20/22 @ 10:00 PM	WDCQDT
+Flint-Saginaw	12/21/22 @ 2:00 AM	WDCQDT
+Flint-Saginaw	12/25/22 @ 6:00PM	WDCQDT
+Grand Rapids	12/25/22 @ 5:00 PM	WGVUDT
+Grand Rapids	12/25/22 @ 5:00 PM	WGVUDT
+Traverse City	12/24/22 @ 11:00 PM	WCMVDT
+‌
+Minnesota
+Market	Date & Time	Station
+Duluth-Superior	12/25/22 @ 11:30 PM	WDSEDT
+Duluth-Superior	12/25/22 @ 11:30 PM	WRPTDT
+Rochester	12/22/22 @ 8:00 PM	KSMQDT
+Rochester	12/23/22 @ 11:00 PM	KSMQDT
+‌
+Montana
+Market	Date & Time	Station
+Billings	12/25/22 @ 11:00 AM	KBGSDT
+Butte-Bozeman	12/25/22 @ 11:00 AM	KUSMDT
+Great Falls	12/25/22 @ 11:00 AM	KUGFDT
+Helena	12/25/22 @ 11:00 AM	KUHMDT
+Missoula	12/25/22 @ 11:00 AM	KUFMDT
+Missoula	12/25/22 @ 11:00 AM	KUKLDT
+‌
+Nevada
+Market	Date & Time	Station
+Las Vegas	12/24/22 @ 10:01 PM	KLVXDT
+Las Vegas	12/25/22 @ 3:00 AM	KLVXDT
+Las Vegas	12/25/22 @ 12:30 PM	KLVXDT
+Reno	12/25/22 @ 1:00PM	KNPBDT
+‌
+New Hampshire
+Market	Date & Time	Station
+Boston	12/18/22 @ 5:27 PM	WENHDT
+Boston	12/24/22 @ 10:00 PM	WENHDT2
+Boston	12/18/22 @ 5:27 PM	WEKWDT
+Boston	12/24/22 @ 10:00 PM	WEKWDT2
+Burlington	12/18/22 @ 5:27 PM	WLEDDT
+Burlington	12/24/22 @ 10:00 PM	WLEDDT
+‌
+New Jersey
+Market	Date & Time	Station
+New York	12/14/22 @ 4:30 PM	WNJBDT
+New York	12/14/22 @ 4:30 PM	WNJNDT
+Philadelphia	12/14/22 @ 4:30 PM	WNJSDT
+Philadelphia	12/14/22 @ 4:30 PM	WNJSDT
+‌
+New Mexico
+Market	Date & Time	Station
+Albuquerque	

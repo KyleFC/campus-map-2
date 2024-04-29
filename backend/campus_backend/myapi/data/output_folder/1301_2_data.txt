@@ -1,0 +1,157 @@
+chester	12/22/22 @ 8:00 PM	KSMQDT
+Rochester	12/23/22 @ 11:00 PM	KSMQDT
+‌
+Montana
+Market	Date & Time	Station
+Billings	12/25/22 @ 11:00 AM	KBGSDT
+Butte-Bozeman	12/25/22 @ 11:00 AM	KUSMDT
+Great Falls	12/25/22 @ 11:00 AM	KUGFDT
+Helena	12/25/22 @ 11:00 AM	KUHMDT
+Missoula	12/25/22 @ 11:00 AM	KUFMDT
+Missoula	12/25/22 @ 11:00 AM	KUKLDT
+‌
+Nevada
+Market	Date & Time	Station
+Las Vegas	12/24/22 @ 10:01 PM	KLVXDT
+Las Vegas	12/25/22 @ 3:00 AM	KLVXDT
+Las Vegas	12/25/22 @ 12:30 PM	KLVXDT
+Reno	12/25/22 @ 1:00PM	KNPBDT
+‌
+New Hampshire
+Market	Date & Time	Station
+Boston	12/18/22 @ 5:27 PM	WENHDT
+Boston	12/24/22 @ 10:00 PM	WENHDT2
+Boston	12/18/22 @ 5:27 PM	WEKWDT
+Boston	12/24/22 @ 10:00 PM	WEKWDT2
+Burlington	12/18/22 @ 5:27 PM	WLEDDT
+Burlington	12/24/22 @ 10:00 PM	WLEDDT
+‌
+New Jersey
+Market	Date & Time	Station
+New York	12/14/22 @ 4:30 PM	WNJBDT
+New York	12/14/22 @ 4:30 PM	WNJNDT
+Philadelphia	12/14/22 @ 4:30 PM	WNJSDT
+Philadelphia	12/14/22 @ 4:30 PM	WNJSDT
+‌
+New Mexico
+Market	Date & Time	Station
+Albuquerque	12/19/22 @ 10:00 PM	KNMEDT
+Albuquerque	12/21/22 @ 4:00 AM	KNMEDT
+‌
+New York
+Market	Date & Time	Station
+Albany-Schenectady	12/25/22 @ 2:00 AM	WMHTDT
+Buffalo	12/25/22 @ 1:00 AM	WNEDDT
+New York	12/6/22 @ 7:00 PM	WLIWDT4
+New York	12/9/22 @ 4:00 AM	WLIWDT4
+New York	12/12/22 @ 4:00 PM	WLIWDT4
+New York	12/13/22 @ 11:00 AM	WLIWDT4
+New York	12/14/22 @ 4:30 PM	WNJBDT
+New York	12/14/22 @ 4:30 PM	WNJNDT
+Rochester	12/25/22 @ 3:00 PM	WXXIDT
+Watertown	12/18/22 @ 7:00 PM	WNPIDT
+Watertown	12/22/22 @ 3:01 PM	WNPIDT
+Watertown	12/18/22 @ 7:00 PM	WPBSDT
+Watertown	12/22/22 @ 3:01 PM	WPBSDT
+‌
+North Carolina
+Market	Date & Time	Station
+Charlotte	12/25/22 @ 12:00 AM	WTVIDT
+Charlotte	12/25/22 @ 5:00 AM	WTVIDT
+Charlotte	12/23/22 @ 10:00 PM	WUNEDT2
+Charlotte	12/25/22 @ 5:00AM	WUNEDT2
+Charlotte	12/23/22 @ 10:00PM	WUNGDT
+Charlotte	12/25/22 @ 5:00AM	WUNGDT
+Greensboro	12/23/22 @ 10:00 PM	WUNLDT
+Greensboro	12/25/22 @ 5:00 AM	WUNLDT
+Greenville-New Bern	12/23/22 @ 10:00 PM	WUNKDT
+Greenville-New Bern	12/25/22 @ 5:00 AM	WUNKDT
+Greenville-New Bern	12/23/22 @ 10:00 PM	WUNMDT2
+Greenville-New Bern	12/25/22 @ 5:00 AM	WUNMDT2
+Greenvll-Spartan	12/23/22 @ 10:00 PM	WUNFDT
+Greenvll-Spartan	12/25/22 @ 5:00 AM	WUNFDT
+Greenvll-Spartan	12/23/22 @10:00 PM	WUNWDT2
+Greenvll-Spartan	12/25/22 @ 5:00 AM	WUNWDT2
+Myrtle Beach	12/23/22 @ 10:00 PM	WUNUDT
+Myrtle Beach	12/25/22 @ 5:00 AM	WUNUDT
+Norfolk	12/23/22 @ 10:00 PM	WUNDDT
+Norfolk	12/25/22 @ 5:00 AM	WUNDDT
+Raleigh-Durham	12/23/22 @ 10:00 PM	WUNCDT
+Raleigh-Durham	12/25/22 @ 5:00 AM	WUNCDT
+Raleigh-Durham	12/23/22 @ 10:00 PM	WUNPDT2
+Raleigh-Durham	12/25/22 @ 5:00 AM	WUNPDT2
+Wilmington	12/23/22 @ 10:00 PM	WUNJDT
+Wilmington	12/25/22 @ 5:00 AM	WUNJDT
+‌
+Ohio
+Market	Date & Time	Station
+Cincinnati	12/14/22 @ 9:00 PM	WCETDT3
+Cincinnati	12/15/22 @ 9:00 AM	WCETDT3
+Cincinnati	12/15/22 @ 2:00PM	WCETDT3
+Cincinnati	12/15/22 @ 6:00 PM	WCETDT3
+Cincinnati	12/16/22 @ 11:00 AM	WCETDT3
+Cincinnati	12/16/22 @ 4:00 PM	WCETDT3
+Cleveland	12/25/22 @ 1:30 AM	WVIZDT
+Cleveland	12/25/22 @ 1:00 PM	WVIZDT
+Cleveland	12/11/22 @ 4:00 PM	WEAODT2
+Cleveland	12/17/22 @ 7:00PM	WEAODT2
+Columbus	12/15/22 @ 10:00 PM	WOUBDT
+Columbus	12/22/22 @ 1:00 AM	WOUBDT
+Columbus	12/15/22 @ 10:00 PM	WOUCDT
+Columbus	12/22/22 @ 1:0 AM	WOUCDT
+Columbus	12/17/22 @ 12:00 PM	WOUBDT2
+Columbus	12/21/22 @ 11:00 PM	WOUBDT2
+Columbus	12/17/22 @ 12:00 PM	WOUCDT2
+Columbus	12/21/22 @ 11:00 PM	WOUCDT2
+Youngstown	12/11/22 @ 4:00 PM	WNEODT2
+Youngstown	12/17/22 @ 7:00 PM	WNEODT2
+‌
+Oklahoma
+Market	Date & Time	Station
+Oklahoma City	12/9/22 @ 11:00 PM	KETADT
+Oklahoma City	12/10/22 @ 5:00 AM	KETADT
+Oklahoma City	12/25/22 @ 1:30 AM	KETADT
+Oklahoma City	12/25/22 @ 9:00 AM	KETADT
+Oklahoma City	12/9/22 @ 11:00 PM	KWETDT
+Oklahoma City	12/10/22 @ 5:00 AM	KWETDT
+Oklahoma City	12/25/22 @ 1:30 AM	KWETDT
+Oklahoma City	12/25/22 @ 9:00 AM	KWETDT
+Oklahoma City	12/9/22 @ 11:00 PM	KETA
+Oklahoma City	12/10/22 @ 5:00 AM	KETA
+Oklahoma City	12/25/22 @ 1:30 AM	KETA
+Oklahoma City	12/25/22 @ 9:00 AM	KETA
+Tulsa	12/9/2022 @ 11:00 PM	KOEDDT
+Tulsa	12/10/2022 @ 5:00 AM	KOEDDT
+Tulsa	12/25/2022 @ 1:30 AM	KOEDDT
+Tulsa	12/25/2022 @ 9:00 AM	KOEDDT
+Tulsa	12/9/2022 @ 11:00 PM	KOEDDT
+Tulsa	12/10/2022 @ 5:00 AM	KOEDDT
+Tulsa	12/25/2022 @ 1:30 AM	KOEDDT
+Tulsa	12/25/2022 @ 9:00 AM	KOEDDT
+Tulsa	12/9/2022 @ 11:00 PM	KOED
+Tulsa	12/10/2022 @ 5:00 AM	KOED
+Tulsa	12/25/2022 @ 1:30 AM	KOED
+Tulsa	12/25/2022 @ 9:00 AM	KOED
+‌
+Pennsylvania
+Market	Date & Time	Station
+Erie	12/25/22 @ 7:00 PM	WQLNDT
+Harrisburg-Lancaster	12/17/22 @ 4:00 PM	WITFDT
+Philadelphia	12/25/22 @ 10:00 PM	WLVTDT
+Philadelphia	12/26/22 @ 4:00 AM	WLVTDT
+Philadelphia	12/24/22 @ 11:00 PM	WPPTDT
+Philadelphia	12/25/22 @ 5:00 AM	WPPTDT
+Philadelphia	12/25/22 @ 5:00PM	WPPTDT
+Wilkes Barre	12/24/22 @ 2:00 PM	WVIADT
+Wilkes Barre	12/25/22 @ 3:00 AM	WVIADT
+‌
+Rhode Island
+Market	Date & Time	Station
+Providence	12/15/22 @ 8:00 PM	WSBEDT2
+Providence	12/17/22 @ 4:00 PM	WSBEDT2
+‌
+South Carolina
+Market	Date & Time	Station
+Augusta	12/13/22 @ 11:00 PM	WEBADT2
+Augusta	12/24/22 @ 2:00 PM	WEBADT3
+Charleston	12/13/22 @ 11:

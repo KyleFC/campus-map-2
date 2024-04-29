@@ -1,0 +1,392 @@
+https://www.cui.edu/it-beta/frequently-asked-questions
+Skip to Main Content
+
+Search
+Academics 
+Admissions 
+About
+Athletics
+Student Life
+The Arts
+Giving
+ MyCUI 
+Information Technology Services
+About ITS
+Resources
+FAQs
+Terms & Conditions
+Submit a Help Request
+Frequently Asked Questions
+INFORMATION TECHNOLOGY SERVICES
+
+The following is a list of Frequently Asked Questions and answers for many of our systems. For additional resources, please visit our ITS Knowledge Base.
+
+‌
+Help Request FAQs
+
+I need technical assistance. How do I contact IT Services?
+
+You can contact IT Services via email: ITS@cui.edu
+You can create a Help Request on our website
+You can call us at (949)214-3175 (extension 3175 from on-campus phones)
+You can visit our office in the Administration building (suite 209)
+
+What should I tell IT Services when I am requesting assistance in order to expedite my request?
+
+The more information we are given, the quicker we can review the request. Make sure to tell us:
+Your ID number (E number), name, email, phone number, and any other pertinent contact information.
+The details of the problem you are encountering. Please provide as much detail as possible.
+The best method and time to contact you.
+Please remember to never give us your password! Nobody from IT will request your password.
+
+How long should I expect it to take for IT Services to assist me with my issue?
+
+Response time varies depending on the severity and complexity of the issue. Our goal is to respond within 48 hours after receiving a help request.
+
+What types of requests can IT Services assist me with?
+
+Password problems with Blackboard, MyRecords, Eagles email, staff/faculty email, and library databases.
+Computer hardware and software issues with staff/faculty computers and other campus-owned computers and devices.
+Network connectivity issues.
+Campus-owned phone and voicemail issues
+Any other issues with our online issues
+For student computers, IT Services will assist in making sure students can connect to our wireless networks. We can offer simple diagnoses and recommendations for personal computers. For liability reasons, we cannot offer support beyond this.
+
+What are IT Services’ standard hours of operation?
+
+Monday - Thursday from 7:00 a.m. - 8:00 p.m.
+Friday from 7:00 a.m. - 6:00 p.m.
+Saturday from 10:00 a.m. - 3:00 p.m.
+Sunday from 2:00 p.m. - 7:00 p.m.
+For special summer and holiday hours, please check our website here.
+‌
+Username & Password FAQs
+
+How do I find out my username and password?
+
+If you are a new student, your username and password for all online resources should have been emailed to you.
+If you are an employee, your username and password for all online resources should be given to you during your ITS orientation.
+Contact IT Services if you need assistance with accessing any of our resources.
+
+What do I do if I do not know my password, or it is not working?
+
+We have a self-service password assistance website at Concordia University IT Services. This is only for your eagles/staff/faculty email, Blackboard, library resources, and campus-owned computer logins.
+If you are experiencing any difficulties with any of your accounts, you can reference guides or contact IT Services.
+
+Why was I told that I need to change my password before it will work?
+
+Since we have a record of your temporary password, we want to ensure that your account information is secure. For security purposes, nobody should know your passwords for online resources. Nobody from IT will ever ask you for your password.
+
+Why must I give personal information such as my home address, phone, or email address before you will give me a new password?
+
+For security purposes, we need to do a basic verification of your identity before making any changes to your Concordia accounts. This is in compliance with FERPA standards in order to appropriately preserve privacy for our clients.
+
+What online resources does IT not support?
+
+The online application system for new and prospective students. Please contact your admissions counselor for assistance with your application (949-214-3010).
+The housing registration website. Please contact Residential Services for assistance (949-214-3052).
+Content on the CUI website. Please contact the Web Team for assistance with editing the website (webteam@cui.edu).
+Logging into Grammarly. You can register for an account using your eagles email to log in, but any support is provided directly by Grammarly.
+Enrolling in the Concordia Health Insurance. Please contact the Wellness Center. (949)-214-3102.
+
+I tried resetting my password, but it didn’t work. What should I do?
+
+Read the error message displayed to see if it explains the issue.
+Make sure that the password you are using is at least 8 characters long, has both uppercase and lowercase letters, as well as a number or a symbol, with neither your first nor last name. For staff and faculty members, this password is a minimum of 12 characters long.
+Try checking the box “unlock account” when resetting your password.
+Try following the guide for help with accessing your accounts.
+Feel free to contact IT Services for assistance (ITS@cui.edu, 949-214-3175).
+‌
+MyRecords FAQs
+
+What is my User ID and PIN for MyRecords?
+
+Your user ID is your ID number (starting with E00). MyRecords shares the same password as your Eagles Email.
+
+What is MyRecords?
+
+MyRecords lets you access and edit student and employment records, as well as personal information.
+For students, you will register for classes, find final grades, accept financial aid awards, and update contact information in MyRecords.
+For faculty and staff, you will fill out your timesheet, enter grades, view student data, and update your contact information in MyRecords.
+
+I am having trouble logging into MyRecords. What do I do?
+
+First, visit myaccount.cui.edu and unlock your account or reset your password.
+If this does not work, contact IT Services for assistance (ITS@cui.edu, 949-214-3175).
+
+How am I able to change my pin for MyRecords?
+
+Once you have logged into MyRecords, click on the “My Information” tab and click change pin.
+
+Some of the information about me in MyRecords is not correct. How do I fix it?
+
+You can correct this in the “My Information” section.
+If you are unable to do so yourself, you can contact the Registrar’s office (registrar@cui.edu, 949-214-3079).
+‌
+Blackboard FAQs
+
+What is my username and password for Blackboard?
+
+Your username is your User ID number (E#). Your Blackboard password is the same as your Eagles/staff/faculty mail password.
+
+I am having trouble logging into Blackboard. What do I do?
+
+Make sure that you are not using your MyRecords pin. Your Blackboard password is the same as your Eagles/staff/faculty mail password.
+If you cannot log in, try clicking the “Forgot Password” link on the login page to reset your own password. You may also type the link into your browser’s address bar: myaccount.cui.edu.
+If you have further trouble accessing your account, view this guide.
+If you have not yet activated your account on our My Account self-service reset site, please contact IT Services to have your password reset.
+
+What is Blackboard?
+
+Blackboard is our online Learning Management System. It contains the documentation for your courses, as well as interactive content, quizzes, and other study materials that your professor may make available. Each course’s Blackboard content will differ.
+
+Why aren’t all of my registered classes showing up in Blackboard?
+
+It is the instructor’s responsibility to make courses available for students to view. If you do not see your course, please contact your instructor.
+
+Why did my previous courses disappear from my course list on Blackboard?
+
+Instructors have control over their Blackboard courses. Following the completion of a course, some professors choose to make the course content unavailable. Please contact your professor if this occurs and is problematic for any reason.
+
+Why are old courses still showing up in my Blackboard course list?
+
+If a professor chooses not to disable a course following completion, it will remain on your course list. You can remove a course from your course list by hovering over the “My Courses” box and clicking the settings cog. Uncheck the desired courses and click submit to remove them from the list.
+
+I am unable to find course information in Blackboard. What do I do?
+
+Try contacting your professor for assistance. If there is a mistake on the management side of the course, they should be able to assist you in resolving the issue.
+The navigation bar on the left-hand side of the screen can be hidden. Look for the small “>” symbol on the left side of the screen when you are in a course and click it to show more options.
+
+I do not see a course I am teaching in Blackboard. How can it be added?
+
+The person to contact for assistance varies by department. Try contacting your direct supervisor if you are unsure of who can assist you.
+
+Can I change the email address that is listed under my Blackboard account?
+
+Your contact email address in Blackboard must remain your eagles/staff/faculty email address.
+
+Not all of the course content is loading. How do I fix this?
+
+Try using a different web browser. We highly recommend Google Chrome. Please contact IT Services if you have any questions (ITS@cui.edu, 949-214-3175).
+‌
+Eagles Gmail FAQs
+
+What is my username and password for my Eagles Email?
+
+Your username is your ID number (E#). The password is the same that you use for Blackboard and the library databases.
+
+What is my email address?
+
+Your email address should be in this format: firstname.lastname@eagles.cui.edu. It should have been sent to you when you applied or enrolled.
+For some students, there may be a number following their last name. This is due to two or more students having the same name.
+
+Why is my Eagles Email important?
+
+Your Eagles Email is the primary address that school departments will use to send you information about classes, housing, and anything else related to school. You will miss important information if you do not check it regularly.
+
+Can I forward my Eagles Gmail to another address instead?
+
+Yes. View a tutorial for instructions on how to forward your Eagles Email.
+
+I am having trouble logging into my Eagles Email, what do I do?
+
+Try using the self-service password reset tool to change your password. You can either click the “Forgot Password” link on the login page or navigate to your account.
+If you are unable to reset your password, try reading the error message to see if it explains the problem.
+You can follow these instructions to reset your password.
+If this does not work, please contact IT Services for assistance (ITS@cui.edu, 949-214-3175).
+
+Can I access my Eagles Email on my smartphone or tablet?
+
+Yes. Click here for instructions on how to set up your Eagles Email on iOS.
+
+How much storage space do I get for my Google Drive through my Eagles Email account?
+
+Your Google Drive does not have, storage limit.
+
+How long do I get to keep my Eagles Email address after I graduate or no longer attend Concordia?
+
+While we do not currently delete Eagles Email accounts from past students, we reserve the right to delete inactive accounts (typically after 6 months with no use). If you use the account as normal, there will be no issues.
+‌
+Staff/Faculty Email FAQs
+
+What is my username and password for my employee email?
+
+Your username is your ID number (starting with E). The password is the same that you use for Blackboard and the library databases.
+
+What is my email address?
+
+Your email address is in this format: firstname.lastname@cui.edu.
+For some employees, there may be a number following their last name. This is due to two or more employees having the same name.
+
+Where do I access employee email?
+
+In your browser’s address bar, type mail.cui.edu.
+You can also go to cui.edu/mycui, scroll down to the Faculty and Staff section, and click Faculty/Staff Email.
+Lastly, if you go to gmail.com, you can type your employee email address (firstname.lastname@cui.edu). This will forward you to our login page.
+
+I am an adjunct professor. Do I get an email address?
+
+All employees, including student workers, staff, full-time faculty, and adjunct faculty receive an email address. If you do not know your email, contact your supervisor for more information.
+
+What is my employee email used for?
+
+Employee email accounts are used as the primary means of communication for anything work-related, both inside and outside university staff and faculty.
+When composing an email, a university directory of staff and faculty will automatically appear as you begin to type someone’s name.
+
+Can I forward my employee email to another email address?
+
+In order to maintain compliance with FERPA regulations, and to make sure that student information is kept confidential as required, our policy per the Human Resources department, the Registrar, and the Provost is that employee email may not be forwarded to any addresses outside of Concordia’s management.
+
+I am having trouble logging into my employee email. What do I do?
+
+On the login page, click the link to myaccount.cui.edu to reset your password. You may also type “myaccount.cui.edu” in your browser’s address bar to navigate there directly. Here you can click “Reset Password” to fill out two security questions and reset your password. Make sure to read the instructions listed on every page. If this does not work for you, or if it says that your account is not activated, please contact ITS (949-214-3175, ITS@cui.edu).
+
+Can I set up my employee email on my smartphone?
+
+Yes. View steps for Android or iOS. If you have any questions please contact ITS for help.
+
+How much storage space do I get with my Email account?
+
+You have unlimited storage space for your email as well as Google Drive.
+‌
+Computer System Support FAQs
+
+Can you help me with my personal computer?
+
+We understand that many students, staff, and faculty experience technical difficulties that need to be resolved. Due to liability concerns, we cannot perform maintenance on personal computers. We can, however, look over computers with their owners and offer recommendations, but this is the extent of what we can offer. For more information on what support we can provide, please contact ITS (949-214-3175, ITS@cui.edu).
+
+My office computer is having a problem. How do I get help?
+
+You can open a support ticket by emailing ITS (ITS@cui.edu).
+You can fill out this form.
+You can call us to speak with a technician (949-214-3175).
+You can visit our office for in-person support (Administration 209).
+‌
+Campus Computer FAQs
+
+How do I log into campus computers?
+
+All students, staff, and faculty use the same ID number (E number) and password as their email to log into campus computers.
+
+Who is allowed to use the campus computer labs?
+
+The computer labs are only for learning, research, and instructional purposes. If you are not using them for this purpose, please be respectful and allow others to use this resource.
+
+What can I do on computers in the labs?
+
+Library: These computers are for research and research-related printing only. They are not for writing papers but may be used with our pay-to-print system to print assignments. Please see the library staff if you have questions about printing.
+Grimm Hall Mac Lab: These computers may be used when the room is unlocked and available. A reservation schedule should be posted on the door, which you may reference for availability. When in conflict, class reservations always take priority for this lab.
+Grimm Hall PC Lab: These computers may be used when the room is unlocked and available. A reservation schedule should be posted on the door, which you may reference for availability. When in conflict, class reservations always take priority for this lab. You may also use the pay-to-print system in this lab.
+Please remember that all computer labs are available as a school resource. Be respectful to others who use this resource, and make sure to leave them in good condition.
+
+What do I do if a public campus computer is having issues?
+
+If a public campus computer is having issues, please contact ITS for assistance (949-214-3175, ITS@cui.edu). Include a detailed description of the occurring problem.
+‌
+Computer Lab/Library Computer FAQs
+
+How do I print in the library or the Grimm Hall PC lab?
+
+After logging in to a library computer with your account, you should see your pay-to-print balance pop up. If needed, you may use the cash machines to load money on your card. Please see the library staff if you have any questions about this process.
+
+What hours will the computer labs/library computers be open for use?
+
+Scheduling conflicts may occur since both the Grimm Hall PC lab and Grimm Hall Mac lab are utilized as classrooms during the school year. Open hours will vary, but the schedule is usually posted on the doors and updated every week.
+The library computers are available for use during library hours.
+‌
+Printing, Fax, & Scan FAQs
+
+I am a student. Can I have a printer in my dorm room?
+
+Yes, but only if it is hooked up with a USB cable. Network-capable printers must have the WiFi settings disabled. This will greatly improve your computer network speeds in the dorms.
+
+I am a student. Where can I print on campus?
+
+Pay-to-print systems are available for students in the Grimm Hall PC lab and the library.
+
+I am an employee. How do I connect to a printer?
+
+Instructions on installing a printer.
+Faxes sent to Concordia employees will appear in their CUI email.
+
+I am trying to install a printer on my personal computer, but it is not working. Why is this?
+
+University printers may only be accessed by university computers.
+
+How do I send/receive a fax?
+
+Instructions on setting up faxing for employees.
+
+How do I scan a document using campus printers?
+
+Employees should contact ITS (949-214-3175, ITS@cui.edu) in order to be added to a scanner along with being shown how to scan (this procedure may vary by device.)
+
+Can students set up printers in their dorm rooms?
+
+Printers connected using USB cables are allowed in the dorms, but wireless printing is not. They are known to cause interference with the connectivity and performance of the campus wireless network. We are happy to provide USB cables to those who may need one (please visit our office in Admin 209 to pick one up).
+
+How do I pay for printing in the library or Grimm Hall PC lab?
+
+You may pay for printing by loading money on your ID card in the library. Please speak with the library staff if you have any questions about this process.
+If you have problems loading money, please contact ITS for assistance (949-214-3175, ITS@cui.edu).
+
+Where can I have large, color, or complex print jobs fulfilled?
+
+For complex jobs, contact the Mail & Copy center (949-214-3159, copy@cui.edu).
+‌
+Phone & Voicemail FAQs
+
+How do I log into a campus phone with my extension?
+
+You can log in as yourself on any phone on campus. Simply pick up the handset and press the voicemail system. Press # when the system answers and enter your own extension and password. Once in, press 7, 3, 1 and hang up. (You will be logged into the phone as yourself. When the time comes to log off of the phone, follow the same procedure from above but press 7, 3, 2 to log out. This will auto-log you back into the phone in your office).
+
+How do I check my voicemail from on-campus?
+
+From any phone on campus, pick up the handset and press the voicemail button.
+If it is your office phone, enter your voicemail password and press #.
+If it is a phone other than your own, when the system answers, press #, type your extension, type your voicemail password, and press #.
+
+How do I check my voicemail from off-campus?
+
+You can either call your phone number directly or call the main campus line and press #, then enter your phone extension, then your voicemail password, then #.
+
+How do I set up my voicemails so they can be received by my CUI email?
+
+Instructions on how to set up your voicemails to go to your CUI email.
+
+How do I connect to the ShoreTel phone software?
+
+If your ShoreTel software is not set up, start by clicking the start menu and typing “ShoreTel.” Open the program that appears. Next, type “phone.cui.edu” for the server, and type your credentials. You can now use this software to call out and control your phone. For more information, please call ITS (949-214-3175, ITS@cui.edu).
+
+How can people call me from off-campus?
+
+Outside callers can directly call your phone by dialing (949) 214-XXXX, where XXXX is your extension.
+Join Our Community
+Apply Now
+Visit Concordia
+Request Info
+Virtual Tour
+Contact Us
+Concordia University Irvine Footer
+Connect
+University Events
+Resources
+Campus Map
+Employment
+MyCUI
+Parents
+Pay Tuition Online
+Press Room
+Sitemap
+Veterans Resource Center
+Services
+Academic Advising
+Bursar's Office
+Campus Safety
+Financial Aid
+at Concordia University Irvine
+Library
+Brand and Marketing Resources
+Registrar
+University Services
+

@@ -1,0 +1,67 @@
+https://www.cui.edu/webteam/styles-links-buttons
+Skip to Main Content
+
+Search
+Academics 
+Admissions 
+About
+Athletics
+Student Life
+The Arts
+Giving
+ MyCUI 
+Web Team
+Website Request
+Common Styles
+Survey
+Faculty Form
+UG Majors Project
+MyCUI Promotion Policy
+LINKS & BUTTONS
+Web Team
+
+Links inside body text should always use the standard link format of:
+
+
+<a href="#">link text</a>
+
+This is what a standard link looks like.
+
+For a link that needs to draw more attention, we can use the "main_action" class as follows:
+
+
+<a class="button" href="#">Button Text</a>
+
+which will produce:
+
+BUTTON TEXT
+
+Join Our Community
+Apply Now
+Visit Concordia
+Request Info
+Virtual Tour
+Contact Us
+Concordia University Irvine Footer
+Connect
+University Events
+Resources
+Campus Map
+Employment
+MyCUI
+Parents
+Pay Tuition Online
+Press Room
+Sitemap
+Veterans Resource Center
+Services
+Academic Advising
+Bursar's Office
+Campus Safety
+Financial Aid
+at Concordia University Irvine
+Library
+Brand and Marketing Resources
+Registrar
+University Services
+

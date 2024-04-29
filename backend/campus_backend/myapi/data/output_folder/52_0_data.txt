@@ -1,0 +1,83 @@
+https://www.cui.edu/academicprograms/undergraduate/majors/computer-science
+Skip to Main Content
+
+Search
+Undergraduate
+Academics 
+Campus Life 
+Tuition & Financial Aid
+Admission 
+Contact 
+Apply Now
+Computer Science Major
+Minor
+Curriculum
+Faculty
+Materials
+Get Started
+Computer Science Major
+SCHOOL OF ARTS AND SCIENCES
+EXPLORE 
+ Apply Now  Visit Concordia  Talk to a Counselor  Request Info  Virtual Tour  Deposit
+Prepare for a Career in the Growing Field of Computer Science
+
+Acquire the skill sets that become building blocks for creative thinking, communicating, and problem-solving with Concordia University Irvine’s foundational and applicable Bachelor of Science in Computer Science degree.
+
+As a computer science major, you will explore complex challenges and formulate real-world solutions in the design, development, and analysis of computer software and hardware. Building on a well-rounded foundation of core courses, you will also gain real-world skills that employers desire through your coursework. Qualities like adaptability, speed, precision, clear communication, and problem-solving will be worked out through group work, supported internship opportunities, and a software development project. Through this process, you will be equipped with the necessary skills for today's connected economy.
+
+Concordia’s computer science major is distinctive because it will provide you with excellent technical skills as well as a Lutheran, Christian liberal arts education that develops your intellectual, spiritual, and ethical habits as wise, honorable, and cultivated citizens.
+
+APPLY NOW
+
+Capstone Course
+
+In your senior year, you will have the opportunity to apply what you’ve learned in your culminating course. You can choose between a faculty-approved software development project or an internship as a part of your degree requirements.
+
+Software Project
+
+Working with a team of your peers, you will have the opportunity to apply the skills and knowledge that you have learned through your coursework in a practical software development project.
+
+Internship
+
+Take advantage of the many tech companies that are headquartered in Irvine and nearby with an internship during your senior year. Your professors will work with you to find an opportunity that matches your interests in computer science.
+
+Opportunities for Computer Science Majors
+
+According the U.S. Department of Labor, “Computer scientists are likely to enjoy excellent job prospects, because many companies report difficulties finding these highly skilled workers.” They also project a 19% increase in computer science-related jobs through 2026, which is much faster than other industries and national averages. Concordia University’s location in Irvine – a city in Southern California that has established itself as a major player in the tech industry – provides opportunity for internships and employment.
+
+Career Opportunities
+
+The Computer Science degree will provide you with general preparation for skilled careers in a variety of areas within the industry.
+
+Software Developers
+Computer Systems Engineers/Architects
+Information Security Analysts
+Software Quality Assurance Engineers
+Computer Systems Analysts
+Computer and Information Research Scientists
+Computer and Information Systems Managers
+Academic Opportunities
+
+The Computer Science major collaborates with other departments in the School of Arts and Sciences when structuring courses and interdisciplinary research.
+
+Computer Science Minor
+Mathematics Major
+Mathematics Minor
+Physics Major
+Materials Needed
+
+For computer science courses, students should have a laptop computer that is running the latest version of either Apple macOS, Microsoft Windows, or a Unix-like operating system. For engineering courses, students will often need to work in a Windows environment (non-Windows users may need additional resources, such as Parallels). We recommend a mid-range to upper-end computer system. Our courses are rigorous and we want to avoid the frustrations that come with bargain computers.
+
+Our students report that it is a big benefit to have an external mouse and reasonably-sized display monitor in their dorm rooms, but this is not a requirement.
+
+Most Chromebooks, iPads, and other tablets will not work because they do not allow you to install the proper development tools or only provide limited functionality. A few highly skilled students have managed to get by with a combination of a high-end Chromebook and the desktop computers that are available 24/7 in our computer science and engineering labs; however, this setup is discouraged.
+
+Curriculum
+
+The Computer Science major endeavors to prepare you with in-demand hard and soft skills for work vocations involving computers and technology in the 21st century.
+
+COMPUTER SCIENCE SAMPLE COURSES
+CSC 104: Fundamentals of Programming
+4
+
+This course covers the basic principles of computer programming and algorithm design using the C# programming language. The class addresses basic language syntax,

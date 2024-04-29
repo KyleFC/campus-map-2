@@ -1,0 +1,96 @@
+https://www.cui.edu/it-beta/frequently-asked-questions
+Skip to Main Content
+
+Search
+Academics 
+Admissions 
+About
+Athletics
+Student Life
+The Arts
+Giving
+ MyCUI 
+Information Technology Services
+About ITS
+Resources
+FAQs
+Terms & Conditions
+Submit a Help Request
+Frequently Asked Questions
+INFORMATION TECHNOLOGY SERVICES
+
+The following is a list of Frequently Asked Questions and answers for many of our systems. For additional resources, please visit our ITS Knowledge Base.
+
+‌
+Help Request FAQs
+
+I need technical assistance. How do I contact IT Services?
+
+You can contact IT Services via email: ITS@cui.edu
+You can create a Help Request on our website
+You can call us at (949)214-3175 (extension 3175 from on-campus phones)
+You can visit our office in the Administration building (suite 209)
+
+What should I tell IT Services when I am requesting assistance in order to expedite my request?
+
+The more information we are given, the quicker we can review the request. Make sure to tell us:
+Your ID number (E number), name, email, phone number, and any other pertinent contact information.
+The details of the problem you are encountering. Please provide as much detail as possible.
+The best method and time to contact you.
+Please remember to never give us your password! Nobody from IT will request your password.
+
+How long should I expect it to take for IT Services to assist me with my issue?
+
+Response time varies depending on the severity and complexity of the issue. Our goal is to respond within 48 hours after receiving a help request.
+
+What types of requests can IT Services assist me with?
+
+Password problems with Blackboard, MyRecords, Eagles email, staff/faculty email, and library databases.
+Computer hardware and software issues with staff/faculty computers and other campus-owned computers and devices.
+Network connectivity issues.
+Campus-owned phone and voicemail issues
+Any other issues with our online issues
+For student computers, IT Services will assist in making sure students can connect to our wireless networks. We can offer simple diagnoses and recommendations for personal computers. For liability reasons, we cannot offer support beyond this.
+
+What are IT Services’ standard hours of operation?
+
+Monday - Thursday from 7:00 a.m. - 8:00 p.m.
+Friday from 7:00 a.m. - 6:00 p.m.
+Saturday from 10:00 a.m. - 3:00 p.m.
+Sunday from 2:00 p.m. - 7:00 p.m.
+For special summer and holiday hours, please check our website here.
+‌
+Username & Password FAQs
+
+How do I find out my username and password?
+
+If you are a new student, your username and password for all online resources should have been emailed to you.
+If you are an employee, your username and password for all online resources should be given to you during your ITS orientation.
+Contact IT Services if you need assistance with accessing any of our resources.
+
+What do I do if I do not know my password, or it is not working?
+
+We have a self-service password assistance website at Concordia University IT Services. This is only for your eagles/staff/faculty email, Blackboard, library resources, and campus-owned computer logins.
+If you are experiencing any difficulties with any of your accounts, you can reference guides or contact IT Services.
+
+Why was I told that I need to change my password before it will work?
+
+Since we have a record of your temporary password, we want to ensure that your account information is secure. For security purposes, nobody should know your passwords for online resources. Nobody from IT will ever ask you for your password.
+
+Why must I give personal information such as my home address, phone, or email address before you will give me a new password?
+
+For security purposes, we need to do a basic verification of your identity before making any changes to your Concordia accounts. This is in compliance with FERPA standards in order to appropriately preserve privacy for our clients.
+
+What online resources does IT not support?
+
+The online application system for new and prospective students. Please contact your admissions counselor for assistance with your application (949-214-3010).
+The housing registration website. Please contact Residential Services for assistance (949-214-3052).
+Content on the CUI website. Please contact the Web Team for assistance with editing the website (webteam@cui.edu).
+Logging into Grammarly. You can register for an account using your eagles email to log in, but any support is provided directly by Grammarly.
+Enrolling in the Concordia Health Insurance. Please contact the Wellness Center. (949)-214-3102.
+
+I tried resetting my password, but it didn’t work. What should I do?
+
+Read the error message displayed to see if it explains the issue.
+Make sure that the password you are using is at least 8 characters long, has both uppercase and lowercase letters, as well as a number or a symbol, with neither your first nor last name. For staff and faculty members, this password is a minimum of 12 characters long.
+Try checking the box “unlock account” when resettin
