@@ -171,8 +171,7 @@ class Tools:
                 max_tokens=1000,
             )
             response_message = response.choices[0].message.content
-            #print(response_message)
-            #print(response_message)
+            print(response_message)
             if "```" in response_message:
                 #if ''' in responsde message then the sql code is likely surrounded by these quotations and we need to extract that sql code
                 response_message = response_message.split("```")[1].strip('\n')
@@ -184,7 +183,19 @@ class Tools:
             if self.cursor is not None:
                 output = str(self.cursor.fetchall())
                 print(output)
-                return output
+                response = self.groq_client.chat.completions.create(
+                messages=[{"role": "system", "content": f"""
+                        Your role is to extract the most relevant information from a given SQL output based on a user query.
+                        This information will be used as context or data that can answer multiple questions relating to what the user asked.
+                        Data:
+                        {output}"""}, {"role": "user", "content": f"Query: {query}"}],
+                model="mixtral-8x7b-32768",
+                max_tokens=800
+            )
+                response_message = response.choices[0].message.content
+                print("vector response", response_message)
+                return response_message
+            
             return 'No data found'
         
         except Exception as e:
