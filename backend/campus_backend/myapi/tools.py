@@ -186,12 +186,13 @@ class Tools:
                 model="mixtral-8x7b-32768"
             )
             response_message = response.choices[0].message.content
-            print(response_message)
+            #print(response_message)
             #print(response_message)
             if "```" in response_message:
                 #if ''' in responsde message then the sql code is likely surrounded by these quotations and we need to extract that sql code
                 response_message = response_message.split("```")[1].strip('\n')
                 response_message = response_message.strip('sql')
+                response_message = response_message.strip('vbnet')
                 print('stripped\n')
             self.cursor.execute(response_message)
             print('executed\n')
