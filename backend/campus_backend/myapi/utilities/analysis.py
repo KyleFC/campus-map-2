@@ -11,7 +11,7 @@ def get_response(tool=None, message_history=[]):
     with open(file_path) as file:
         analysis_prompt = file.read()
         file.close()
-    analysis_prompt = f"{analysis_prompt}\nDay/Time: {time.strftime('%A, %B %\d, %Y %H:%M:%S')}"
+    analysis_prompt = f"{analysis_prompt}\nDay/Time: {time.strftime('%A, %B %d, %Y %H:%M:%S')}"
 
     if message_history[0]['role'] != 'system':
         message_history.insert(0, {"role": "system", "content": analysis_prompt})
