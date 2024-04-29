@@ -183,7 +183,7 @@ class Tools:
                            example query: 'All theology classes on Tuesday'
                            expected output: ```SELECT * FROM myapi_session WHERE meetday LIKE '%T%' AND course_id IN (SELECT id FROM Courses WHERE course_code LIKE 'THEO%')```
                            """}, {"role": "user", "content": query}],
-                model="llama3-70b-8192"
+                model="mixtral-8x7b-32768"
             )
             response_message = response.choices[0].message.content
             print(response_message)
