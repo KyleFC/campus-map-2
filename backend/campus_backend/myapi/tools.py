@@ -167,7 +167,7 @@ class Tools:
                         GCS
                         BUS
                         CSC"""}, {"role": "user", "content": query}],
-                model="mixtral-8x7b-32768",
+                model="llama3-8b-8192",
                 max_tokens=1000,
             )
             response_message = response.choices[0].message.content
@@ -189,7 +189,7 @@ class Tools:
                         This information will be used as context or data that can answer multiple questions relating to what the user asked.
                         Data:
                         {output}"""}, {"role": "user", "content": f"Query: {query}"}],
-                model="mixtral-8x7b-32768",
+                model="llama3-8b-8192",
                 max_tokens=800
             )
                 response_message = response.choices[0].message.content
