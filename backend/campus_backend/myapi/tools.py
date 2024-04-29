@@ -214,7 +214,7 @@ class Tools:
             )
             response_message = response.choices[0].message.content
             print("vector response", response_message)
-            return response_message
+            return [{"information": response_message}]
         
         except Exception as e:
             self.initialize()
