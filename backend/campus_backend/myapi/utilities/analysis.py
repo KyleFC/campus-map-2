@@ -74,6 +74,7 @@ def get_response(tool=None, message_history=[]):
 
             available_functions = {
                 "query_course_database": tool.query_course_database,
+                "query_vector_database": tool.query_vector_database,
                 #"retreive_major_info": tool.retreive_major_info,
             }
             # Process each tool call
