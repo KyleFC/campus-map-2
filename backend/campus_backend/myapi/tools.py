@@ -197,17 +197,7 @@ class Tools:
             if self.cursor is not None:
                 output = str(self.cursor.fetchall())
                 print(output)
-                response = self.groq_client.chat.completions.create(
-                messages=[{"role": "system", "content": f"""
-                        Your role is to extract the most relevant information from a given SQL output.
-                        This information will be used as context or data that can answer multiple questions relating to what the user asked.
-                        Data:
-                        {output}"""}, {"role": "user", "content": f"Query: {query}"}],
-                model="llama3-8b-8192"
-            )
-                response_message = response.choices[0].message.content
-                print("sql response", response_message)
-                return response_message
+                return output
             return 'No data found'
         
         except Exception as e:
