@@ -215,7 +215,7 @@ class Tools:
             results = index.query(vector=query_vector, top_k=1)
             match = results['matches'][0]
             #ids in pinecone should correspond to filename
-            with open(os.path.join(settings.BASE_DIR, 'myapi/data/output_folder', f"{match['id']}.txt"), 'r', encoding='utf-8') as f:
+            with open(os.path.join(settings.BASE_DIR, 'myapi/data/output_folder', f"{match['id'][:-4]}.txt"), 'r', encoding='utf-8') as f:
                 text = f.read()
                 f.close()
             response = self.groq_client.chat.completions.create(
