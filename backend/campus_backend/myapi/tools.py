@@ -20,7 +20,7 @@ class Tools:
             self.groq_client = Groq(api_key=os.environ.get('GROQ_API_KEY'))
         if not self.index:
             pinecone_client = Pinecone(api_key=os.environ.get('PINECONE_API_KEY'))
-            self.index = pinecone_client.Index('campus')
+            self.index = pinecone_client.Index('concordia')
             print('Index initialized')
         if not self.cursor:
             self.cursor = connections['default'].cursor()
@@ -206,6 +206,7 @@ class Tools:
             return e
         
     def query_vector_database(self, query):
+        print(query)
         index = self.index
         try:
             query_vector = list(map(float, self.embed_text(query)))
