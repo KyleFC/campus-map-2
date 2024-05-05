@@ -74,7 +74,7 @@ class Tools:
                             end_time (varchar): Session End Time (optional) (e.g. 4:40 PM)
                             location (varchar): Session Location (e.g. LBART-121)
                         Explain your thoughts step by step
-                        You are expected to return the sql query in marks like this ```SELECT * FROM myapi_course WHERE course_code LIKE 'BIO%'```
+                        You are expected to return the sql query in marks like this ``````
                         When unsure exactly what the user is asking for you can broaden your query to retrieve more data that would most likely contain what they are looking for.
                         For example, the user may want to know information about an old testament course, but you don't know whether that's the actual name of the course.
                         In this situation you should understand that old testament is most likely a theology course and you should query all theology courses.
@@ -167,7 +167,7 @@ class Tools:
                         GCS
                         BUS
                         CSC"""}, {"role": "user", "content": query}],
-                model="llama3-8b-8192",
+                model="llama3-70b-8192",
                 max_tokens=1000,
             )
             response_message = response.choices[0].message.content
